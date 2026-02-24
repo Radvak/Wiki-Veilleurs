@@ -48,19 +48,19 @@ Dans les coffres se trouvent des fragments de cristaux :
 Après le 3<sup>ème</sup> étage se trouve le défi final du Labyrinthe des Déchus.
 
 {% hint style="warning" %}
-Pour accéder à l'arene du Boss, il vous faudra récupérer les 3 Artefacts des Fallen que vous obtiendrez après la mort de chaque Mini-Boss de Palier. Si vous n'avez pas ce qu'il faut pour ouvrir la fin du Donjon du à une mort ou autre, alors vous ne pourrez pas finir le Donjon
+Pour accéder à l'arène du Boss, il vous faudra récupérer les 3 Artefacts des Fallen que vous obtiendrez après la mort de chaque Mini-Boss de Palier. Si vous n'avez pas ce qu'il faut pour ouvrir la fin du Donjon à cause d'une mort ou autre, alors vous ne pourrez pas finir le Donjon
 {% endhint %}
 
 ***
 
-Le Donjon comporte deux Type de Monstre: les [<mark style="color:blue;">Soldats Déchus</mark>](../../monstres/carte-du-sud/donjon-labyrinthe-des-dechus/soldat-dechu.md) et les [<mark style="color:$info;">Guerriers Déchus</mark>](../../monstres/carte-du-sud/donjon-labyrinthe-des-dechus/guerrier-dechu.md).\
-Les premiers, de couleur <mark style="color:blue;">Bleu-Vert</mark> sont assez lent et ne tape pas très fort\
-Les derniers, de couleur <mark style="color:$info;">Grise</mark> vont vous courser rapidement et font très mal
+Le Donjon comporte deux types de Monstres : les [<mark style="color:blue;">Soldats Déchus</mark>](../../monstres/carte-du-sud/donjon-labyrinthe-des-dechus/soldat-dechu.md) et les [<mark style="color:$info;">Guerriers Déchus</mark>](../../monstres/carte-du-sud/donjon-labyrinthe-des-dechus/guerrier-dechu.md).\
+Les premiers, de couleur <mark style="color:blue;">Bleu-Vert</mark> sont assez lents et ne tapent pas très fort\
+Les derniers, de couleur <mark style="color:$info;">Grise</mark> vont vous courser rapidement et font très mal&#x20;
 
 <figure><img src="../../.gitbook/assets/New Project.png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Plus vous avamcerez dans les étages, plus la proportions de Guerrier par rapport aux Soldats seront élevés
+Plus vous avancerez dans les étages plus il y aura de Guerriers
 {% endhint %}
 
 ***
