@@ -2,7 +2,7 @@
 description: Mini Boss
 ---
 
-# ⚔️ Gardien Déchu
+# 🪓 Gardien Déchu
 
 > _"Gardien d'un sanctuaire oublié, il a succombé à une force impie corrompant sa volonté. Aujourd'hui, il veille encore... mais pour de mauvaises raisons"_
 

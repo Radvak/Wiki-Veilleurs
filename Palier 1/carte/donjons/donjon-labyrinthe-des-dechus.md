@@ -97,6 +97,10 @@ Une flèche est visible sur la boite permettant de savoir vers où elle se dépl
 {% endhint %}
 
 {% embed url="https://youtu.be/2d9TGDPDc1Y" %}
+
+<h3 align="center">Mini Boss</h3>
+
+Le premier Mini Boss: le [Héraut Déchu](../../monstres/carte-du-sud/donjon-labyrinthe-des-dechus/heraut-dechu.md) est un Assassin au corp-à-corp. Il n'est pas très compliqué de par ses dégâts et ses effets à l'impact.
 {% endtab %}
 
 {% tab title="Étage 2" %}
@@ -113,6 +117,10 @@ Les boutons sont caché et nécessite de jouer avec l'attribut de taille
 {% endhint %}
 
 {% embed url="https://youtu.be/ojdbHgqgTy0" %}
+
+<h3 align="center">Mini Boss</h3>
+
+Le deuxième Mini Boss: le [Gardien Déchu](../../monstres/carte-du-sud/donjon-labyrinthe-des-dechus/gardien-dechu.md) est un tank au corp-à-corp. Tout comme son confrère de l'étage précédant, il n'est pas très dangereux et peut être fait seul simplement.
 {% endtab %}
 
 {% tab title="Étage 3" %}
@@ -129,12 +137,37 @@ N'oubliez pas d'activer le mécanisme à gauche avant de faire le jump d'une tra
 {% endhint %}
 
 {% embed url="https://youtu.be/w4DrA8GMJDs" %}
+
+<h3 align="center">Mini Boss</h3>
+
+Le dernier Mini Boss: la [Faucheuse Déchu](../../monstres/carte-du-sud/donjon-labyrinthe-des-dechus/faucheuse-dechu.md) est un mage au corp-à-corp. Il se démarque des autres car en plus d'avoir énormement de dégâts, il va avoir aussi beaucoup de contrôle de foule. Faites bien attention à vous.
 {% endtab %}
 
 {% tab title="Étage Final" %}
+<h3 align="center">Étage 4 &#x26; comment accéder au Boss Final</h3>
 
+Après avoir conquis les 3 précédant étages en tuant les 3 Mini-Boss Déchus et en récupérant leur Artefact des Fallen, il vous faudra disposer sur chacun des 3 piliers l'artefact pour faire s'ouvrir le passage se situant au milieu de la pièce.
+
+<figure><img src="../../.gitbook/assets/cristal (1).png" alt="" width="563"><figcaption><p>Pilier qui peut contenir un Artefcat des Fallen</p></figcaption></figure>
+
+Après ceci fait, une grande porte s'ouvrira une fois le Groupe entièrement réuni.
+
+{% hint style="info" %}
+Ne vous inquiétez pas, cette règle prends en uniquement en compte les membres du groupe encore en vie ou encore dans l'instance de votre donjon
+{% endhint %}
+
+***
+
+Vous voilà enfin devant le Boss Final ou bien devront nous dire **les Boss Finaux**.\
+Devant vous se trouve deux Boss, [Ornstein](../../monstres/carte-du-sud/donjon-labyrinthe-des-dechus/ornstein-devastateur-dechu.md): un Tank à la grande mobilité qui fera pleuvoir sur vous une pluie de feu, et [Smough](../../monstres/carte-du-sud/donjon-labyrinthe-des-dechus/smough-devastateur-dechu.md): un guerrier plutot corriace qui bondira sur vous en vous brulant par ses flammes dévastatrices.
+
+{% hint style="warning" %}
+Ce combat peut être simplicé. Même si dans la salle se trouve deux boss, leur champ d'agression est très faible, ce qui vous permettra de les battre un à la fois sans vous faire déborder par deux attaquant extrêmement corriace
+{% endhint %}
 {% endtab %}
 {% endtabs %}
+
+
 
 <h2 align="center">Récompenses</h2>
 

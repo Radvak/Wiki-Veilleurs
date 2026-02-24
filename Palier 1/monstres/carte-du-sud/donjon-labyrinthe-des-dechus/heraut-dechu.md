@@ -2,7 +2,7 @@
 description: Mini Boss
 ---
 
-# 🪓 Héraut Déchu
+# ⚔️ Héraut Déchu
 
 > _"Il proclamait jadis les messages des rois et des dieux. Mais les mots sacrés ont disparu, remplacés par des murmures impies. Le Héraut Déchu annonce désormais l'effondrement des empires"_
 
