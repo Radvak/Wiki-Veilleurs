@@ -6,7 +6,7 @@ description: Ennemi
 
 > _"Gardiens de la Vallée des Loups. Leurs hurlements glacent le sang et donnent des frissons"_
 
-<figure><img src="../../../.gitbook/assets/loups.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Loups SInistres.png" alt="" width="563"><figcaption></figcaption></figure>
 
 <h3 id="butin-commun" align="center">Butin Commun</h3>
 

@@ -6,7 +6,7 @@ description: Ennemi
 
 > "Un revenant rachitique, mais animé par une magie ancienne et instable. Ses os craquent à chaque incantation, libérant une énergie spectrale dangereuse"
 
-<figure><img src="../../../.gitbook/assets/skelmage.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Squelette Mage.png" alt=""><figcaption></figcaption></figure>
 
 <h2 align="center">Butin Commun</h2>
 

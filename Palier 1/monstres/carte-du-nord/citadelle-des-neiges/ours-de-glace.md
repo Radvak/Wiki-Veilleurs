@@ -22,7 +22,7 @@ description: Boss
 {% endcolumn %}
 {% endcolumns %}
 
-<figure><img src="../../../.gitbook/assets/Oursglacial.png" alt="" width="275"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Ours Glacial.png" alt="" width="275"><figcaption></figcaption></figure>
 
 ***
 

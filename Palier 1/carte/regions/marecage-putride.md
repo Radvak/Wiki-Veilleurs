@@ -1,8 +1,8 @@
 ---
 description: Coordonnées (1479,3191)
 cover:
-  light: ../../.gitbook/assets/MaraisPutride2.png
-  dark: ../../.gitbook/assets/MaraisPutride1.png
+  light: ../../.gitbook/assets/Marais Putride 2.png
+  dark: ../../.gitbook/assets/Marais Putride 1.png
 coverY: 0
 ---
 

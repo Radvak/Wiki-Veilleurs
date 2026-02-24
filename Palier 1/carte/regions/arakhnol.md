@@ -1,6 +1,6 @@
 ---
 description: Coordonnées (1448,1165)
-cover: ../../.gitbook/assets/Arakne.png
+cover: ../../.gitbook/assets/Arakh'Nol.png
 coverY: 0
 ---
 

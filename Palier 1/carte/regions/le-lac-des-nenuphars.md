@@ -1,6 +1,6 @@
 ---
 description: Coordonnées (2547,2831)
-cover: ../../.gitbook/assets/Nénuphares.png
+cover: ../../.gitbook/assets/Le Lac des Nénuphars.png
 coverY: 0
 ---
 

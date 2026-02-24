@@ -1,6 +1,6 @@
 ---
 description: Coordonnées (3411,1081)
-cover: ../../.gitbook/assets/TourKobold.png
+cover: ../../.gitbook/assets/Tour du Kobold.png
 coverY: 0
 ---
 

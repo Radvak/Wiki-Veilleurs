@@ -22,7 +22,7 @@ description: Boss
 {% endcolumn %}
 {% endcolumns %}
 
-<figure><img src="../../../.gitbook/assets/albal.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Albal.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ***
 

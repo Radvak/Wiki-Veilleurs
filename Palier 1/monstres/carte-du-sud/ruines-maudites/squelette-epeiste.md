@@ -6,7 +6,7 @@ description: Ennemi
 
 > _"Un guerrier tombé jadis au champ d'honneur… Ranimé par magie, il défend éternellement sa lame"_
 
-<figure><img src="../../../.gitbook/assets/skelbase.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Squelette Épéiste.png" alt=""><figcaption></figcaption></figure>
 
 <h2 align="center">Butin Commun</h2>
 

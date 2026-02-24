@@ -6,7 +6,7 @@ description: Ennemi
 
 > _"Tapie entre les feuillages épais et les racines noueuses, elle guette silencieusement les voyageurs imprudents. Nombreux sont ceux qui ont senti son souffle... trop tard"_
 
-<figure><img src="../../../.gitbook/assets/spider.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Araignée de la Forêt.png" alt="" width="375"><figcaption></figcaption></figure>
 
 <h2 align="center">Butin Commun</h2>
 

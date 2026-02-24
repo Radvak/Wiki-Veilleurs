@@ -1,6 +1,6 @@
 ---
 description: Coordonnées (357,2446)
-cover: ../../.gitbook/assets/JardinDesGéants.png
+cover: ../../.gitbook/assets/Jardin des Géants.png
 coverY: 0
 ---
 

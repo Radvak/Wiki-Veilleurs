@@ -6,7 +6,7 @@ description: Ennemi
 
 > _"Ce slime irradie une énergie apaisante. Blessures mineures se referment à son passage. Il fuit le combat, mais sauve les siens dans l'ombre"_
 
-<figure><img src="../../../.gitbook/assets/slimes heal.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Slime Soigneur.png" alt=""><figcaption></figcaption></figure>
 
 <h2 id="butin-commun" align="center">Butin Commun</h2>
 

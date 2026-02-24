@@ -1,6 +1,6 @@
 ---
 description: Coordonnées (2312,3263)
-cover: ../../.gitbook/assets/QuartierOG.png
+cover: ../../.gitbook/assets/Quartier OG.png
 coverY: 0
 ---
 

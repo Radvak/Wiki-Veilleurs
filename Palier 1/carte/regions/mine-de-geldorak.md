@@ -1,6 +1,6 @@
 ---
 description: Coordonnées (4170,3891)
-cover: ../../.gitbook/assets/Geldorak.png
+cover: ../../.gitbook/assets/Mine de Geldorak.png
 coverY: 0
 ---
 

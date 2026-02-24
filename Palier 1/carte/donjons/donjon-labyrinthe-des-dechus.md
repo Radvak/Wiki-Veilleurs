@@ -57,7 +57,7 @@ Le Donjon comporte deux types de Monstres : les [<mark style="color:blue;">Solda
 Les premiers, de couleur <mark style="color:blue;">Bleu-Vert</mark> sont assez lents et ne tapent pas très fort\
 Les derniers, de couleur <mark style="color:$info;">Grise</mark> vont vous courser rapidement et font très mal&#x20;
 
-<figure><img src="../../.gitbook/assets/New Project.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Déchus.png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Plus vous avancerez dans les étages plus il y aura de Guerriers
@@ -82,7 +82,7 @@ Plus vous avancerez dans les étages plus il y aura de Guerriers
 {% tab title="Étage 1" %}
 <h3 align="center">Carte</h3>
 
-<figure><img src="../../.gitbook/assets/e1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Labyrinthe étage 1.png" alt=""><figcaption></figcaption></figure>
 
 <h3 align="center">Énigme</h3>
 
@@ -106,7 +106,7 @@ Le premier Mini Boss: le [Héraut Déchu](../../monstres/carte-du-sud/donjon-lab
 {% tab title="Étage 2" %}
 <h3 align="center">Carte</h3>
 
-<figure><img src="../../.gitbook/assets/e2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Labyrinthe étage 2.png" alt=""><figcaption></figcaption></figure>
 
 <h3 align="center">Énigme</h3>
 
@@ -126,7 +126,7 @@ Le deuxième Mini Boss: le [Gardien Déchu](../../monstres/carte-du-sud/donjon-l
 {% tab title="Étage 3" %}
 <h3 align="center">Carte</h3>
 
-<figure><img src="../../.gitbook/assets/e3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Labyrinthe étage 3.png" alt=""><figcaption></figcaption></figure>
 
 <h3 align="center">Énigme</h3>
 
@@ -148,7 +148,7 @@ Le dernier Mini Boss: la [Faucheuse Déchu](../../monstres/carte-du-sud/donjon-l
 
 Après avoir conquis les 3 précédant étages en tuant les 3 Mini-Boss Déchus et en récupérant leur Artefact des Fallen, il vous faudra disposer sur chacun des 3 piliers l'artefact pour faire s'ouvrir le passage se situant au milieu de la pièce.
 
-<figure><img src="../../.gitbook/assets/cristal (1).png" alt="" width="563"><figcaption><p>Pilier qui peut contenir un Artefcat des Fallen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pilier Labyrinthe des Déchus.png" alt="" width="563"><figcaption><p>Pilier qui peut contenir un Artefcat des Fallen</p></figcaption></figure>
 
 Après ceci fait, une grande porte s'ouvrira une fois le Groupe entièrement réuni.
 
@@ -171,7 +171,7 @@ Ce combat peut être simplicé. Même si dans la salle se trouve deux boss, leur
 
 <h2 align="center">Récompenses</h2>
 
-<p align="center"><img src="../../.gitbook/assets/chest (1).png" alt=""></p>
+<p align="center"><img src="../../.gitbook/assets/Coffre Donjon.png" alt=""></p>
 
 Il est possible d'obtenir plusieurs type de récompenses après avoir réussi le Donjon :
 

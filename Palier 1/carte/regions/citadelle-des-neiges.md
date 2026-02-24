@@ -1,6 +1,6 @@
 ---
 description: Coordonnées (4032,2009)
-cover: ../../.gitbook/assets/CitadelleDesNeiges.png
+cover: ../../.gitbook/assets/Citadelle des Neiges.png
 coverY: 0
 ---
 

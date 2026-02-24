@@ -22,7 +22,7 @@ description: Boss
 {% endcolumn %}
 {% endcolumns %}
 
-<figure><img src="../../../.gitbook/assets/tréantscolossal.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Tréant Colossal.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ***
 

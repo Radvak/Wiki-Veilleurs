@@ -1,8 +1,8 @@
 ---
 description: Coordonnées (1027,3561)
 cover:
-  light: ../../.gitbook/assets/Cyclorim1.png
-  dark: ../../.gitbook/assets/Cyclorim2.png
+  light: ../../.gitbook/assets/Cyclorim 1.png
+  dark: ../../.gitbook/assets/Cyclorim 2.png
 coverY: 0
 ---
 

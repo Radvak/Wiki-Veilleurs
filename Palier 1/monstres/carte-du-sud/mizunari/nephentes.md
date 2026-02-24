@@ -20,7 +20,7 @@ description: Ennemi
 {% endcolumn %}
 
 {% column %}
-<figure><img src="../../../.gitbook/assets/Nephentes-3.png" alt="" width="227"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Nephentes.png" alt="" width="227"><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 

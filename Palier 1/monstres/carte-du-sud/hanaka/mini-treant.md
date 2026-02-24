@@ -6,7 +6,7 @@ description: Ennemi
 
 > _"Petit gardien de la forêt, il défend les lieux sacrés avec hargne. Sous ses racines courtes dort une volonté de fer"_
 
-<figure><img src="../../../.gitbook/assets/minitréants.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Mini Tréant.png" alt=""><figcaption></figcaption></figure>
 
 <h2 id="butin-commun" align="center">Butin Commun</h2>
 

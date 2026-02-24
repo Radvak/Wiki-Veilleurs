@@ -6,7 +6,7 @@ description: Ennemi
 
 > _"Un colosse d'os armé d'un bouclier cabossé. Il avance lentement, mais rien ne semble pouvoir l'arrêter"_
 
-<figure><img src="../../../.gitbook/assets/skelbouclier.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Tank Squelette.png" alt=""><figcaption></figcaption></figure>
 
 <h2 align="center">Butin Commun</h2>
 

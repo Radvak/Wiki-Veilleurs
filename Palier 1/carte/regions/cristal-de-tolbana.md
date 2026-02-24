@@ -1,6 +1,6 @@
 ---
 description: Coordonnées (3216,1438)
-cover: ../../.gitbook/assets/PicCristalTolbana.png
+cover: ../../.gitbook/assets/Cristal de Tolbana.png
 coverY: 0
 ---
 

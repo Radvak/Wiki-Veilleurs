@@ -6,7 +6,7 @@ description: Ennemi
 
 > _"Ancien soldat revenu d'entre les morts… Il marche sans repos, guidé par une volonté oubliée"_
 
-<figure><img src="../../../.gitbook/assets/skelguerrier.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Squelette Guerrier.png" alt=""><figcaption></figcaption></figure>
 
 <h2 align="center">Butin Commun</h2>
 

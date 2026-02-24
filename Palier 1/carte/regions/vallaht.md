@@ -1,6 +1,6 @@
 ---
 description: Coordonnées (435,3063)
-cover: ../../.gitbook/assets/vallaht.png
+cover: ../../.gitbook/assets/Vallaht.png
 coverY: 0
 ---
 

@@ -1,6 +1,6 @@
 ---
 description: Coordonnées (4771,2325)
-cover: ../../.gitbook/assets/Marchands.png
+cover: ../../.gitbook/assets/Guilde Marchande.png
 coverY: 0
 ---
 

@@ -6,7 +6,7 @@ description: Ennemi
 
 > _"Un serviteur osseux maniant la hallebarde avec précision. Il garde l'accès à d'anciennes cryptes oubliées"_
 
-<figure><img src="../../../.gitbook/assets/skelhalbardier.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Squelette Halbardier.png" alt=""><figcaption></figcaption></figure>
 
 <h2 align="center">Butin Commun</h2>
 

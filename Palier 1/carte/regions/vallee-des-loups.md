@@ -1,6 +1,6 @@
 ---
 description: Coordonnées (2412,3977)
-cover: ../../.gitbook/assets/ValléeDesLoups.png
+cover: ../../.gitbook/assets/Vallée des Loups.png
 coverY: 0
 ---
 

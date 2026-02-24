@@ -1,6 +1,6 @@
 ---
 description: Coordonnées (2026,835)
-cover: ../../.gitbook/assets/Candellia.png
+cover: ../../.gitbook/assets/Candelia.png
 coverY: 0
 ---
 

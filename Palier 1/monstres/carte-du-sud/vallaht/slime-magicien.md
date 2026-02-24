@@ -6,7 +6,7 @@ description: Ennemi
 
 > _"Un slime imprégné d'énergies arcaniques anciennes. Ses attaques lancent des sorts chaotiques et imprévisibles"_
 
-<figure><img src="../../../.gitbook/assets/slimes mage.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Slime Mage.png" alt=""><figcaption></figcaption></figure>
 
 <h2 id="butin-commun" align="center">Butin Commun</h2>
 

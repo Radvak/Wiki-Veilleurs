@@ -22,7 +22,7 @@ description: Boss
 {% endcolumn %}
 {% endcolumns %}
 
-<figure><img src="../../../.gitbook/assets/sanglier.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Sanglier.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ***
 

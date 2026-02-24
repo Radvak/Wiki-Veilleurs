@@ -1,6 +1,6 @@
 ---
 description: Coordonnées (2841,4697)
-cover: ../../.gitbook/assets/ChateauAbandonné.png
+cover: ../../.gitbook/assets/Château Abandonné.png
 coverY: 0
 ---
 

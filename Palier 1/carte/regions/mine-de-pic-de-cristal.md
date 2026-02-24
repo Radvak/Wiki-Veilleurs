@@ -1,6 +1,6 @@
 ---
 description: Coordonnées (2368,1753)
-cover: ../../.gitbook/assets/MineTolbana.png
+cover: ../../.gitbook/assets/Mine de Pic de Cristal.png
 coverY: 0
 ---
 

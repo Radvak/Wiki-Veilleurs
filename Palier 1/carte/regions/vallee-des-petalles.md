@@ -1,6 +1,6 @@
 ---
 description: Coordonnées (1111,4235)
-cover: ../../.gitbook/assets/Fleurs1.png
+cover: ../../.gitbook/assets/Vallée des Pétales 1.png
 coverY: 0
 ---
 

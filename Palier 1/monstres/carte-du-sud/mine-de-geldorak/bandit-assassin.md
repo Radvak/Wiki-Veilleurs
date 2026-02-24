@@ -6,7 +6,7 @@ description: Ennemi
 
 > _"Maître de l'ombre et des lames silencieuses, il ne laisse derrière lui que le vide… et une cible tombée"_
 
-<figure><img src="../../../.gitbook/assets/banditassassin.png" alt="" width="300"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Bandit Assassin.png" alt="" width="300"><figcaption></figcaption></figure>
 
 <h2 align="center">Butin Commun</h2>
 

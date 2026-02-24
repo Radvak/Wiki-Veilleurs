@@ -6,7 +6,7 @@ description: Ennemi
 
 > Entité maudite surgie des ténèbres anciennes, il rôde, invisible, prêt à déchirer l'âme des vivants.
 
-<figure><img src="../../../.gitbook/assets/nasgul.png" alt="" width="282"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Nasgul.png" alt="" width="282"><figcaption></figcaption></figure>
 
 <h2 align="center">Butin Commun</h2>
 

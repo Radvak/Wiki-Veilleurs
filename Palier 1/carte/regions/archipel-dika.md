@@ -1,6 +1,6 @@
 ---
 description: Coordonnées (3251,4105)
-cover: ../../.gitbook/assets/ArchipelleIka.png
+cover: ../../.gitbook/assets/Archipel d'Ika.png
 coverY: 0
 ---
 
