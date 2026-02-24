@@ -148,7 +148,7 @@ Le dernier Mini Boss: la [Faucheuse Déchu](../../monstres/carte-du-sud/donjon-l
 
 Après avoir conquis les 3 précédant étages en tuant les 3 Mini-Boss Déchus et en récupérant leur Artefact des Fallen, il vous faudra disposer sur chacun des 3 piliers l'artefact pour faire s'ouvrir le passage se situant au milieu de la pièce.
 
-<figure><img src="../../.gitbook/assets/Pilier Labyrinthe des Déchus.png" alt="" width="563"><figcaption><p>Pilier qui peut contenir un Artefcat des Fallen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pilier Labyrinthe des Déchus.png" alt="" width="563"><figcaption><p>Pilier qui peut contenir un Artefact des Fallen</p></figcaption></figure>
 
 Après ceci fait, une grande porte s'ouvrira une fois le Groupe entièrement réuni.
 
