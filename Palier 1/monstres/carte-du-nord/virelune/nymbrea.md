@@ -1,0 +1,33 @@
+---
+description: Boss
+---
+
+# 🐟 Nymbréa
+
+> _"Serpent mythique glissant entre les courants profonds, Nymbréa incarne la grâce et la traîtrise des eaux calmes. Ses écailles scintillent comme des perles maudites, et son regard hypnotique attire les imprudents vers les abysses"_
+
+<figure><img src="../../../.gitbook/assets/nymbréa.png" alt="" width="563"><figcaption></figcaption></figure>
+
+<h2 align="center">Informations</h2>
+
+{% columns %}
+{% column %}
+<h4 align="center">🗺️ <mark style="color:$success;">Positions</mark></h4>
+
+<p align="center">1410,2140</p>
+{% endcolumn %}
+
+{% column %}
+<h4 align="center">⏱️ <mark style="color:purple;">Temps de Réaparition</mark></h4>
+
+<p align="center">600 Secondes ↔ 10 Minutes</p>
+{% endcolumn %}
+{% endcolumns %}
+
+***
+
+<h2 align="center">Butin Secret</h2>
+
+|                                                                                             Butin | Pourcentage Chance |
+| ------------------------------------------------------------------------------------------------: | ------------------ |
+| 💙 <mark style="color:blue;">Cœur de Nautherion /</mark> <mark style="color:blue;">Nymbréa</mark> | ?%                 |

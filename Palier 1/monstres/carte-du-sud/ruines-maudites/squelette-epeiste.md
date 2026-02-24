@@ -1,0 +1,23 @@
+---
+description: Ennemi
+---
+
+# 💀 Squelette Épéiste
+
+> _"Un guerrier tombé jadis au champ d'honneur… Ranimé par magie, il défend éternellement sa lame"_
+
+<figure><img src="../../../.gitbook/assets/skelbase.png" alt=""><figcaption></figcaption></figure>
+
+<h2 align="center">Butin Commun</h2>
+
+|                                                Butin | Pourcentage Chance |
+| ---------------------------------------------------: | ------------------ |
+|                                   🦴 Os de Squelette | 45%                |
+| 👻 <mark style="color:purple;">Âme des Ruines</mark> | 40%                |
+|                                    🍚 Poussière d'Os | 35%                |
+
+<h2 align="center">Butin Secret</h2>
+
+|                                             Butin | Pourcentage Chance |
+| ------------------------------------------------: | ------------------ |
+| ⚔️ <mark style="color:$info;">Épée Osseuse</mark> | 5%                 |
