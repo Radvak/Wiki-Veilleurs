@@ -16,3 +16,9 @@ description: Ennemi
 | --------------------------------------------------: | ------------------ |
 |     🏾 <mark style="color:orange;">Cuir Usé</mark>  | 30%                |
 | 💰 <mark style="color:orange;">Petite Bourse</mark> | 35%                |
+
+<h2 align="center">Butin Secret</h2>
+
+|                                                                                                           Butin | Pourcentage Chance |
+| --------------------------------------------------------------------------------------------------------------: | ------------------ |
+| 🗡️ [<mark style="color:orange;">Dague de Bandit</mark>](../../../equipement/armes/assassin.md#dague-de-bandit) | ?%                 |

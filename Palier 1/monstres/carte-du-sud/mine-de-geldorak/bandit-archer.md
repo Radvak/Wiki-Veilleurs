@@ -19,6 +19,6 @@ description: Ennemi
 
 <h2 align="center">Butin Secret</h2>
 
-|                                                    Butin | Pourcentage Chance |
-| -------------------------------------------------------: | ------------------ |
-| 🏹 <mark style="color:orange;">Arbalète de Bandit</mark> | ?%                 |
+|                                                                                                              Butin | Pourcentage Chance |
+| -----------------------------------------------------------------------------------------------------------------: | ------------------ |
+| 🏹 [<mark style="color:orange;">Arbalète de Bandit</mark>](../../../equipement/armes/archer.md#arbalete-de-bandit) | ?%                 |
