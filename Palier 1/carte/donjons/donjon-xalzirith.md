@@ -35,7 +35,7 @@ Comme vous pouve l'imaginer ce Donjon est remplis d'Araignées très bien modél
 
 Pour réaliser ce Donjon, il faut explorer toutes ses salles afin d'exterminer les Mini Boss qui vous ouvrira la Porte qui mène au Boss Final.
 
-<figure><img src="../../.gitbook/assets/Xal&#x27;Zirith.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Xal&#x27;Zirith.png" alt="" width="563"><figcaption><p>Schéma du Donjon Xal'Zirith</p></figcaption></figure>
 
 À chaque cul-de-sac se trouve un mini-boss :&#x20;
 

@@ -90,7 +90,7 @@ Plus vous avancerez dans les étages plus il y aura de Guerriers
 {% tab title="Étage 1" %}
 <h3 align="center">Carte</h3>
 
-<figure><img src="../../.gitbook/assets/Labyrinthe étage 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Labyrinthe étage 1.png" alt=""><figcaption><p>Schéma de l'étage 1 du Labyrinthe des Déchus</p></figcaption></figure>
 
 <h3 align="center">Énigme</h3>
 
@@ -114,7 +114,7 @@ Le premier Mini Boss: le [Héraut Déchu](../../monstres/carte-du-sud/donjon-lab
 {% tab title="Étage 2" %}
 <h3 align="center">Carte</h3>
 
-<figure><img src="../../.gitbook/assets/Labyrinthe étage 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Labyrinthe étage 2.png" alt=""><figcaption><p>Schéma de l'étage 2 du Labyrinthe des Déchus</p></figcaption></figure>
 
 <h3 align="center">Énigme</h3>
 
@@ -134,7 +134,7 @@ Le deuxième Mini Boss: le [Gardien Déchu](../../monstres/carte-du-sud/donjon-l
 {% tab title="Étage 3" %}
 <h3 align="center">Carte</h3>
 
-<figure><img src="../../.gitbook/assets/Labyrinthe étage 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Labyrinthe étage 3.png" alt=""><figcaption><p>Schéma de l'étage 3 du Labyrinthe des Déchus</p></figcaption></figure>
 
 <h3 align="center">Énigme</h3>
 
