@@ -22,7 +22,7 @@ description: Coordonnées (1868,2113)
 {% hint style="info" %}
 Les Carapaces de Requin peuvent être récupérés après avoir tué un [Poisson Requin](../../../monstres/carte-du-nord/virelune/poisson-requin.md) (40% de chance)
 
-Les Peaux de Cerf des Montagnes peuvent être récupérés après avoir tué un [Slime](../../../monstres/carte-du-sud/vallaht/petit-slime.md) (30% de chance)
+Les Peaux de Cerf des Montagnes peuvent être récupérés après avoir tué un [Cerf des Montagnes](../../../monstres/carte-du-nord/tolbana/cerf-des-montagnes.md) (45% de chance)
 {% endhint %}
 
 #### Récompenses
