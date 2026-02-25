@@ -55,7 +55,7 @@ L'accessoire est fabricable par le [Marchant Secret](../../carte/personnages/fab
 **Niveau Requis pour Utiliser l'Accessoire** : Niveau 9
 
 {% hint style="info" %}
-L'accessoire est fabricable par le Marchant Secret situé dans l'[Antre de Aepep](../../carte/regions/antre-de-aepep.md) (1317,2096)
+L'accessoire est fabricable par le [Marchant Secret](../../carte/personnages/fabricants-clefs-et-secret.md#untitled) situé dans l'[Antre de Aepep](../../carte/regions/antre-de-aepep.md) (1317,2096)
 {% endhint %}
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🛡️<mark style="color:$primary;">Défense</mark> 2.5</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🦈 <a href="../../monstres/carte-du-nord/virelune/poisson-requin.md"><mark style="color:$warning;">Carapaces de Requin</mark></a> 96</td><td>💙<a href="../../monstres/carte-du-nord/virelune/nymbrea.md"><mark style="color:blue;">Cœur de Nymbréa</mark></a> 5</td></tr></tbody></table>

@@ -85,7 +85,7 @@ Rendez vous devant l'Entrée du [Donjon de Xal'Zirith](../donjons/donjon-xalziri
 | 🕷️ <mark style="color:green;">Collier d'Aragorn</mark> | <p>🧶 <a href="../../monstres/carte-du-nord/arakhnol/araignees-des-forets.md">Fil d'Araignée</a> 64<br>🪢  <mark style="color:$info;">Fil d'Araignée Renforcé</mark> 32<br>🧪 <mark style="color:$success;">Venin d'Araignée</mark> 1</p> |      30 minutes      |
 {% endtab %}
 
-{% tab title="Untitled" %}
+{% tab title="Antre de Aepep" %}
 
 {% endtab %}
 {% endtabs %}
