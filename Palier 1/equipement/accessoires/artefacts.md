@@ -10,7 +10,7 @@
 L'accessoire est obtenable ?
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>❤️<mark style="color:$danger;">Santé</mark> 10</td><td>🦘<mark style="color:blue;">Mana Max</mark> 10</td><td>👟<mark style="color:yellow;">Stamina Max</mark> 5</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>❤️<mark style="color:$danger;">Santé</mark> 10</td><td>💧<mark style="color:blue;">Mana Max</mark> 10</td><td>👟<mark style="color:yellow;">Stamina Max</mark> 5</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Collier d'Aragorn" %}
