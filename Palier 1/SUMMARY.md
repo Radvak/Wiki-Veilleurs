@@ -119,7 +119,6 @@
   * [🎣 Virelune](monstres/carte-du-nord/virelune/README.md)
     * [🦈 Poisson Requin](monstres/carte-du-nord/virelune/poisson-requin.md)
     * [🐟 Nymbréa](monstres/carte-du-nord/virelune/nymbrea.md)
-  * [🧌 Tour du Kobold](monstres/carte-du-nord/tour-du-kobold.md)
 
 ## Quêtes
 
