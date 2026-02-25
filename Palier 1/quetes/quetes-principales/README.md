@@ -9,12 +9,12 @@ icon: message-exclamation
 ### [Un Nouveau Départ ](un-nouveau-depart.md)
 
 {% hint style="info" %}
-Première Quête du Palier 1. Il est demandé d'aller éliminer quelques [Sangliers Corrompu](../../monstres/carte-du-sud/zone-sanglier/sanglier-corrompu.md) et de ramener leurs Peaux à Abraham
+Première Quête du Palier 1. Il est demandé d'aller éliminer quelques [Sangliers Corrompus](../../monstres/carte-du-sud/zone-sanglier/sanglier-corrompu.md) et de ramener leurs Peaux à Abraham
 {% endhint %}
 {% endstep %}
 
 {% step %}
-### [La Vielle Mara](la-vieille-mara.md)
+### [La Vieille Mara](la-vieille-mara.md)
 
 {% hint style="info" %}
 Après avoir exploré la [Ville de Départ](../../carte/regions/ville-de-depart.md) et la [Zone des Sangliers](../../carte/regions/zone-sanglier.md), il vous est demandé d'aller dans le village le plus proche ([Hanaka](../../carte/regions/hanaka.md)) pour y entendre les visions d'une vieille femme
@@ -41,7 +41,7 @@ Quête peu intéressante demandant de monter au Niveau 4. Il est donc temps de s
 ### [L'aventure Commence](laventure-commence.md)
 
 {% hint style="info" %}
-Après avoir enfin atteint le niveau 4, votre aventure commence vraiment. Rendez-vous à Mizunari pour faire face aux Nephentes et frabriquez la clé du terrible Donjon Geldorak. Ici, la quête principale se subdivise en deux parties : le sous-donjon Nasgul ([Donjon Squelettes](../../carte/donjons/donjon-squelette.md)) et le [Donjon Geldorak](/broken/pages/tM7Ui5tbSsF4XIEziTwH)
+Après avoir enfin atteint le niveau 4, votre aventure commence vraiment. Rendez-vous à Mizunari pour faire face aux Nephentes et fabriquez la clé du terrible Donjon Geldorak. Ici, la quête principale se subdivise en deux parties : le sous-donjon Nasgul ([Donjon Squelettes](../../carte/donjons/donjon-squelette.md)) et le [Donjon Geldorak](../../carte/donjons/donjon-geldorak.md)
 {% endhint %}
 {% endstep %}
 
@@ -73,7 +73,7 @@ Après avoir écouté les paroles de Velka, cherchez Erik comme elle vous l'a de
 ### [Le Donjon des Ruines Maudites](le-donjon-des-ruines-maudites.md)
 
 {% hint style="info" %}
-Après avoir parler à Erik, vous devez plonger dans le sous-donjon Nasgul ([Donjon Squelette](../../carte/donjons/donjon-squelette.md))
+Après avoir parlé à Erik, vous devez plonger dans le sous-donjon Nasgul ([Donjon Squelette](../../carte/donjons/donjon-squelette.md))
 {% endhint %}
 {% endstep %}
 
@@ -153,7 +153,7 @@ Une fois Méphisto trouvé, vous allez jongler entre les discutions de Méphisto
 ### [Wali l'Apprenti](wali-lapprenti.md)
 
 {% hint style="info" %}
-Pour continuer votre Aventure on vous emmènera voir Émy qui contre certaines ressources vous donnera les base du parchemin que Wali vous réclame
+Pour continuer votre aventure, on vous emmènera voir Émy qui vous donnera les bases du parchemin que Wali vous réclame contre certaines ressources
 {% endhint %}
 {% endstep %}
 
@@ -177,7 +177,7 @@ Vous avez entendu parlez du mythique Nymphéa. Rendez vous à Virelune pour en s
 ### [Chasse aux Poissons Requin](chasse-aux-poissons-requin.md)
 
 {% hint style="info" %}
-On vous à dit de voir Malrik pour en savoir plus sur le Mystérieux Serpent. Il va cepandant vous demander de prouver votre valeur en affrontant des Poissons Requin pour vous aider d'avantage
+On vous à dit de voir Malrik pour en savoir plus sur le Mystérieux Serpent. Il va cependant vous demander de prouver votre valeur en affrontant des Poissons Requin pour vous aider d'avantage
 {% endhint %}
 {% endstep %}
 

@@ -26,7 +26,7 @@ Catherine se trouve à l'entrée du [Donjon Labyrinthe des Déchus](../../carte/
 {% endstep %}
 
 {% step %}
-Rejoindre les Îles Flotantes de l'archipelle d'Ika
+Rejoindre les Îles Flotantes de l'[Archipel d'Ika](../../carte/regions/archipel-dika.md)
 
 {% hint style="info" %}
 Une fois téléporté à [Ika](../../carte/regions/archipel-dika.md), vous verrez un téléporteur (3278,4104) Vous aurez juste à l'utiliser comme les autres téléporteurs
@@ -37,7 +37,7 @@ Une fois téléporté à [Ika](../../carte/regions/archipel-dika.md), vous verre
 Parlez au Spectre Mystérieux&#x20;
 
 {% hint style="info" %}
-Une fois sur les Îles Volantes de l'Archipel d'Ika, vous avez une petite séance de parcours afin de croiser le chemin du Spectre Mystérieux (3186,4008)
+Une fois sur les Îles Volantes de l'[Archipel d'Ika](../../carte/regions/archipel-dika.md), vous avez une petite séance de parcours afin de croiser le chemin du Spectre Mystérieux (3186,4008)
 {% endhint %}
 
 {% hint style="warning" %}

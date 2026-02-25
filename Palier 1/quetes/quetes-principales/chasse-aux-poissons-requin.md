@@ -18,10 +18,10 @@ description: Coordonnées (1573,1986)
 
 {% stepper %}
 {% step %}
-Parlez à Malrik
+Parlez à Marlik
 
 {% hint style="info" %}
-Marlik se trouve en plein centre de Tolbana (1573,1986),  à côté des marchands de cette ville
+Marlik se trouve en plein centre de [Tolbana ](../../carte/regions/tolbana.md)(1573,1986),  à côté des marchands de cette ville
 {% endhint %}
 {% endstep %}
 
@@ -29,7 +29,7 @@ Marlik se trouve en plein centre de Tolbana (1573,1986),  à côté des marchand
 Tuer 10 Poissons Requin
 
 {% hint style="info" %}
-Les poissons Requin est une espèce matitime se trouvant à l'Ouest de Virelune (1477,1997)
+Les poissons Requin est une espèce maritime se trouvant à l'Ouest de [Virelune](../../carte/regions/virelune.md) (1477,1997)
 {% endhint %}
 {% endstep %}
 
@@ -41,7 +41,7 @@ Retournez voir Malrik
 Parlez à Virel
 
 {% hint style="info" %}
-Virel se trouve à l'extrémité Ouest de Virelune (1539,1995)
+Virel se trouve à l'extrémité Ouest de [Virelune](../../carte/regions/virelune.md) (1539,1995)
 {% endhint %}
 {% endstep %}
 {% endstepper %}

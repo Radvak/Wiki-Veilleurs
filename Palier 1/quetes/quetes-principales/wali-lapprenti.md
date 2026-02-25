@@ -33,7 +33,7 @@ L'Apprenti: Wali, aura changé d'emplacement à partir de cette quête. Il se tr
 Parlez à Émy
 
 {% hint style="info" %}
-Émy se trouve au niveau des quartiers de la milice de Tolbana, plus précisment dasn la Forge, là où se trouve les Forgerons d'Armes et d'Armure (3234,1484)
+Émy se trouve au niveau des quartiers de la milice de Tolbana, plus précisément dans la Forge, là où se trouve les Forgerons d'Armes et d'Armure (3234,1484)
 {% endhint %}
 {% endstep %}
 {% endstepper %}
