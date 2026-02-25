@@ -8,9 +8,9 @@ description: Coordonnées (2785,4425)
 
 <summary> Informations sur le Donjon</summary>
 
-Taille du Groupe : ∞
+<p align="center">👥 Taille du Groupe : ∞</p>
 
-Niveau Recommandé : 4+
+<p align="center">📈 Niveau Recommandé : 4+</p>
 
 </details>
 

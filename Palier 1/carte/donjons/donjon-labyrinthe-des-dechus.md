@@ -4,7 +4,15 @@ description: Coordonnées (2383,2410)
 
 # ⚔️ Donjon Labyrinthe des Déchus
 
-<h4 align="center">Taille du Groupe 2 ↔ 4</h4>
+<details>
+
+<summary> Informations sur le Donjon</summary>
+
+<p align="center">👥 Taille du Groupe : 2 ↔ 4</p>
+
+<p align="center">📈 Niveau Recommandé : 7+</p>
+
+</details>
 
 <h2 align="center">Accéder au Donjon</h2>
 
