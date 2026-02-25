@@ -34,5 +34,16 @@ Le Mycélium Mafique peut être récupéré après avoir tué un [Gardien Coloss
 
 <h2 align="center">Le Donjon</h2>
 
+Le Donjon est une ligne droite vous demandant de tuer des vagues de monstres coupé de Mini Boss.
 
+***
 
+<h2 align="center">Récompenses</h2>
+
+<p align="center"><img src="../../.gitbook/assets/Coffre Donjon.png" alt=""></p>
+
+Il est possible d'obtenir plusieurs type de récompenses après avoir réussi le Donjon :
+
+* Bourse 🪙<mark style="color:yellow;">Cols</mark> 500
+* Bourse 🪙<mark style="color:yellow;">Cols</mark> 1000
+* Bourse 🪙<mark style="color:yellow;">Cols</mark> 2000

@@ -175,7 +175,7 @@ Ce combat peut être simplicé. Même si dans la salle se trouve deux boss, leur
 {% endtab %}
 {% endtabs %}
 
-
+***
 
 <h2 align="center">Récompenses</h2>
 

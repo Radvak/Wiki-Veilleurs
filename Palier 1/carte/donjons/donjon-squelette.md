@@ -50,6 +50,8 @@ Le Donjon comporte 3 différents type de Monstre :
 Attention les Ennemis dans le Donjon sont bien plus puissante et dévastatrice que les Squelettes des [Ruines Maudites](../../monstres/carte-du-sud/ruines-maudites/)
 {% endhint %}
 
+***
+
 <h2 align="center">Boss Final</h2>
 
 Après avoir prit le téléporteur vous apparaitrez alors dans la dernière salle; celle du [Nasgul](../../monstres/carte-du-sud/ruines-maudites/nasgul.md), un puissant Squelette en Armure accompagnée de son fidèle destrier.
