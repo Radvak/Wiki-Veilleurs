@@ -204,4 +204,28 @@ Il est grand temps de découvrir l'un des dernières zones du jeu et entrevoir v
 Il est grand Temps de finaliser votre Quête. Pour ça vous allez utiliser tout ce que vous avez obtenu depuis le début de cette dernière et Affronter 2 Monstres Effroyable (Sauf si vous avez eu de la Chance sur le Butin du Nymbréa)
 {% endhint %}
 {% endstep %}
+
+{% step %}
+### [Le Parchemin de Sceau](le-parchemin-de-sceau.md)
+
+{% hint style="info" %}
+Le Parchemin est enfin finit, mais il faudra maintenant le droit de pouvoir l'utiliser
+{% endhint %}
+{% endstep %}
+
+{% step %}
+### [Le Tombeau des Harald](le-tombeau-des-harald.md)
+
+{% hint style="info" %}
+Vous allez devoir parler aux ancestres de Tolbana pour voir si vous êtes digne d'ouvrir la porte menant au tériffiant Kobold
+{% endhint %}
+{% endstep %}
+
+{% step %}
+### [Donjon: Le Kobold](donjon-le-kobold.md)
+
+{% hint style="info" %}
+Il est grand temps. Prenez votre courage à deux mains, formez une équipe de choc et venez à bout de la terreur du Palier 1 !
+{% endhint %}
+{% endstep %}
 {% endstepper %}

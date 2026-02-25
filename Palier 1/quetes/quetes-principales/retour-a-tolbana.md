@@ -12,7 +12,7 @@ description: Coordonnées (3234,1484)
 
 #### Prérequis pour commencer et rendre la mission
 
-* Avoir terminé "[Nymbréa: L'ombre du Lac](nymbrea-lombre-du-lac.md)"
+* Avoir terminé "[Sanctuaire de Xal'Zirith](sanctuaire-de-xalzirith.md)"
 
 #### Tâche :&#x20;
 
@@ -32,7 +32,7 @@ Les Poussière de Givre peuvent être récupérées après avoir tué un [Spirit
 
 Les Cœurs de Nymbréa peuvent être récupérés après avoir tué un [Nymbréa](../../monstres/carte-du-nord/virelune/nymbrea.md)
 
-Les Venins d'Araignée peuvent être récupérés après avoir récupéré les récompenses du Donjon Xal'Zirith
+Les Venins d'Araignée peuvent être récupérés en récompenses du Donjon Xal'Zirith
 {% endhint %}
 
 {% hint style="warning" %}
