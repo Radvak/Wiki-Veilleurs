@@ -4,7 +4,7 @@ description: Mini Boss
 
 # 🌊 Kamilia
 
-> "Silencieuse au cœur du donjon, Kamilia tisse des pièges invisibles dasn l'ombre. Sa morsure injecte un venin paralysant, laissant ses proies conscientes, mais incapables de fuir"
+> "Silencieuse au cœur du donjon, Kamilia tisse des pièges invisibles dans l'ombre. Sa morsure injecte un venin paralysant, laissant ses proies conscientes, mais incapables de fuir"
 
 <figure><img src="../../../.gitbook/assets/Kamilia.png" alt="" width="348"><figcaption></figcaption></figure>
 

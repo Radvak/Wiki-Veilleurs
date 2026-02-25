@@ -34,7 +34,7 @@ Les poissons Requin est une espèce maritime se trouvant à l'Ouest de [Virelune
 {% endstep %}
 
 {% step %}
-Retournez voir Malrik
+Retournez voir Marlik
 {% endstep %}
 
 {% step %}
