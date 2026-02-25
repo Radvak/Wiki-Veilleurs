@@ -30,7 +30,7 @@ Les Tissus d'Araignée et les Fils d'Araignée peuvent être récupérés après
 <h2 align="center">Le Donjon</h2>
 
 {% hint style="danger" %}
-Comme vous pouve l'imaginer ce Donjon est remplis d'Araignées très bien modélisé
+Comme vous pouve l'imaginer ce Donjon est remplis d'Araignées très bien modélisées
 {% endhint %}
 
 Pour réaliser ce Donjon, il faut explorer toutes ses salles afin d'exterminer les Mini Boss qui vous ouvrira la Porte qui mène au Boss Final.
