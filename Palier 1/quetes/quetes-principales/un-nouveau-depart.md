@@ -21,7 +21,7 @@ description: Coordonnées (1808,3650)
 Récolter 12 🐗 <mark style="color:red;">Peau de Sanglier</mark>
 
 {% hint style="info" %}
-Les Peaux de Sanglier peuvent être récupérés après avoir tué des [Sangliers Corrumpus](../../monstres/carte-du-sud/zone-sanglier/sanglier-corrompu.md) (60% de chance) ou bien [Pumba](../../monstres/carte-du-sud/zone-sanglier/pumba.md) (100% de chance)
+Les Peaux de Sanglier peuvent être récupérés après avoir tué des [Sangliers Corrompus](../../monstres/carte-du-sud/zone-sanglier/sanglier-corrompu.md) (60% de chance) ou bien [Pumba](../../monstres/carte-du-sud/zone-sanglier/pumba.md) (100% de chance)
 {% endhint %}
 {% endstep %}
 

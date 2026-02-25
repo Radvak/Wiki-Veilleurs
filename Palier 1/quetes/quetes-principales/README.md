@@ -25,7 +25,7 @@ Après avoir exploré la [Ville de Départ](../../carte/regions/ville-de-depart.
 ### [La Corruption](la-corruption.md)
 
 {% hint style="info" %}
-Il est temps d'explorer la zone des [Marécages Putrides](../../carte/regions/marecage-putride.md) proche de [Hanaka](../../carte/regions/hanaka.md) afin de découvrir la source des visions de la vielle Mara. Attention aux [Mini Tréants](../../monstres/carte-du-sud/hanaka/mini-treant.md) qui peuple la zone
+Il est temps d'explorer la zone des [Marécages Putrides](../../carte/regions/marecage-putride.md) proche de [Hanaka](../../carte/regions/hanaka.md) afin de découvrir la source des visions de la vieille Mara. Attention aux [Mini Tréants](../../monstres/carte-du-sud/hanaka/mini-treant.md) qui peuple la zone
 {% endhint %}
 {% endstep %}
 
