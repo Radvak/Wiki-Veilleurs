@@ -6,6 +6,8 @@ description: Boss
 
 > _"Forgé dans la pierre et éveillé par la magie ancienne, il garde les terres oubliées contre toute intrusion. Ses pas seuls font trembler la forêt..."_
 
+<p align="center">📈 <strong>Niveau Recommandé</strong> : 3+</p>
+
 <h2 align="center">Informations</h2>
 
 {% columns %}

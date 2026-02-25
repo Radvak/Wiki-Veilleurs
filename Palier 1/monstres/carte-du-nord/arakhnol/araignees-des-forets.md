@@ -6,6 +6,8 @@ description: Ennemi
 
 > _"Tapie entre les feuillages épais et les racines noueuses, elle guette silencieusement les voyageurs imprudents. Nombreux sont ceux qui ont senti son souffle... trop tard"_
 
+<p align="center">📈 <strong>Niveau Recommandé</strong> : 7+</p>
+
 <figure><img src="../../../.gitbook/assets/Araignée de la Forêt.png" alt="" width="375"><figcaption></figcaption></figure>
 
 <h2 align="center">Butin Commun</h2>

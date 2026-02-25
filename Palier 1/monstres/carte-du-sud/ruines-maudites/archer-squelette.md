@@ -6,6 +6,8 @@ description: Ennemi
 
 > _"Un squelette agile, archer silencieux des couloirs hantés. Ses flèches sifflent dans l'ombre, prêtes à faucher les intrus"_
 
+<p align="center">📈 <strong>Niveau Recommandé</strong> : 4+</p>
+
 <figure><img src="../../../.gitbook/assets/Squelette Archer.png" alt=""><figcaption></figcaption></figure>
 
 <h2 align="center">Butin Commun</h2>

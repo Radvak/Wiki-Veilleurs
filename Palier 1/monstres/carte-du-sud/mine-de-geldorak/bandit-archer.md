@@ -6,6 +6,8 @@ description: Ennemi
 
 > _"Un hors-la-loi habile qui préfère frapper de loin"_
 
+<p align="center">📈 <strong>Niveau Recommandé</strong> : 3+</p>
+
 <figure><img src="../../../.gitbook/assets/Bandit Archer.png" alt="" width="301"><figcaption></figcaption></figure>
 
 <h2 align="center">Butin Commun</h2>

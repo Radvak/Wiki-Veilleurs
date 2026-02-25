@@ -6,6 +6,8 @@ description: Ennemi
 
 > "Elle ne chasse pas... elle attend. Ses pattes glissent dans l'ombre en silence, et quand vous sentez son emprise, il est déjà trop tard"
 
+<p align="center">📈 <strong>Niveau Recommandé</strong> : 9+</p>
+
 <figure><img src="../../../.gitbook/assets/Araignée Etrangleuse.png" alt="" width="310"><figcaption></figcaption></figure>
 
 {% hint style="info" %}

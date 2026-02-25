@@ -6,6 +6,8 @@ description: Ennemi
 
 > _"Forgé dans l'écorce et la magie, ce tréant veille sur les bois sacrés. Il frappe avec la force d'un vieux chêne, et la colère de la forêt"_
 
+<p align="center">📈 <strong>Niveau Recommandé</strong> : 3+</p>
+
 <figure><img src="../../../.gitbook/assets/Guerrier Tréant.png" alt="" width="325"><figcaption></figcaption></figure>
 
 <h2 id="butin-commun" align="center">Butin Commun</h2>

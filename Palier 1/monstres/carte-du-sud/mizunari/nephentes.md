@@ -6,6 +6,8 @@ description: Ennemi
 
 > _"Cette plante carnivore géante se nourrit de chair et de sang. Ses lianes s'enroulent sans bruit, avant de refermer son piège mortel. Même les aventuriers aguerris évitent ses racines traînantes"_
 
+<p align="center">📈 <strong>Niveau Recommandé</strong> : 4+</p>
+
 <h2 align="center">Informations</h2>
 
 {% columns %}

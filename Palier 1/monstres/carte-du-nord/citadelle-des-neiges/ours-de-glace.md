@@ -6,6 +6,8 @@ description: Boss
 
 > _"Né dans les cavernes les plus froides des montagnes, l'Ours de Glace incarne la force brute du Nord. Son rugissement fait frissonner l'air, et son souffle glacé fige tout sur son passage"_
 
+<p align="center">📈 <strong>Niveau Recommandé</strong> : 7+</p>
+
 <h2 align="center">Informations</h2>
 
 {% columns %}

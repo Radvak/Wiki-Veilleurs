@@ -6,6 +6,8 @@ description: Boss
 
 > _"Un loup solitaire aux yeux d'argent glacés. Son passage laisse une brume et le silence"_
 
+<p align="center">📈 <strong>Niveau Recommandé</strong> : 2+</p>
+
 <h2 align="center">Informations</h2>
 
 {% columns %}

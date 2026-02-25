@@ -6,6 +6,8 @@ description: Boss
 
 > _"Un colosse gélatineux, maître des essaims de slimes. Il écrase tout sur son passage, lentement mais sûrement"_
 
+<p align="center">📈 <strong>Niveau Recommandé</strong> : 3+</p>
+
 <h2 align="center">Informations</h2>
 
 {% columns %}

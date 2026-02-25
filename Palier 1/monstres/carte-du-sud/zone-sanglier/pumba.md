@@ -6,6 +6,8 @@ description: Boss
 
 > _"Une bête sauvage issue des forêts du premier palier. Il charge sans relâche, animé d'une rage primitive"_
 
+<p align="center">📈 <strong>Niveau Recommandé</strong> : 2+</p>
+
 <h2 align="center">Informations</h2>
 
 {% columns %}

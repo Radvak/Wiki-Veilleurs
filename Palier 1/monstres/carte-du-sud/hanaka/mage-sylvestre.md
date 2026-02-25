@@ -6,6 +6,8 @@ description: Ennemi
 
 > _"Il canalise la magie des arbres anciens. Ses enchantements font fleurir ou pourrir tout ce qu'il touche"_
 
+<p align="center">📈 <strong>Niveau Recommandé</strong> : 3+</p>
+
 <figure><img src="../../../.gitbook/assets/Tréant Mage.png" alt="" width="238"><figcaption></figcaption></figure>
 
 <h2 id="butin-commun" align="center">Butin Commun</h2>

@@ -6,6 +6,8 @@ description: Ennemi
 
 > _"Un serviteur osseux maniant la hallebarde avec précision. Il garde l'accès à d'anciennes cryptes oubliées"_
 
+<p align="center">📈 <strong>Niveau Recommandé</strong> : 3+</p>
+
 <figure><img src="../../../.gitbook/assets/Squelette Halbardier.png" alt=""><figcaption></figcaption></figure>
 
 <h2 align="center">Butin Commun</h2>
