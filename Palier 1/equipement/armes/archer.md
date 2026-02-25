@@ -58,6 +58,18 @@ L'arme est fabricable par le Forgeron d'Arme situé à l'extérieur du [Donjon L
 <h2 align="center">🏹 Arbalètes</h2>
 
 {% tabs %}
+{% tab title="Arbalète de Bandit" %}
+> _"Arbalète d'un bandit qui devient presque inutilisable après tous ces combats"_
+
+**Niveau Requis pour Utiliser l'Arme** : Niveau 5
+
+{% hint style="info" %}
+L'arme est un butin des [Bandits Archers](../../monstres/carte-du-sud/mine-de-geldorak/bandit-archer.md) (?%)
+{% endhint %}
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 12</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 0.7/s</td></tr></tbody></table>
+{% endtab %}
+
 {% tab title="Arbalète de Chasse" %}
 > _"Arbalète pour chasser les puissants monstres du Palier 1"_
 
@@ -67,6 +79,6 @@ L'arme est fabricable par le Forgeron d'Arme situé à l'extérieur du [Donjon L
 L'arme est fabricable par le Forgeron d'Arme situé à [Tolbana](https://guilde-sao.gitbook.io/guilde-sao-docs/palier-1/carte/regions/tolbana) (3230,1490)
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> <mark style="color:$primary;">19.5</mark> ↔ <mark style="color:$primary;">21.25</mark></td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 0.8/s</td><td></td><td align="center"><strong>Coût de Fabrication :</strong></td><td>🦈<a href="../../monstres/carte-du-nord/virelune/poisson-requin.md"><mark style="color:$warning;">Carapaces de Requin</mark></a> 18</td><td>🧊<a href="../../monstres/carte-du-nord/citadelle-des-neiges/golem-de-glace.md"><mark style="color:blue;">Peaux dur Glacial</mark></a> 24</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 19.5 ↔ 21.25</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 0.8/s</td><td></td><td align="center"><strong>Coût de Fabrication :</strong></td><td>🦈<a href="../../monstres/carte-du-nord/virelune/poisson-requin.md"><mark style="color:$warning;">Carapaces de Requin</mark></a> 18</td><td>🧊<a href="../../monstres/carte-du-nord/citadelle-des-neiges/golem-de-glace.md"><mark style="color:blue;">Peaux dur Glacial</mark></a> 24</td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}

@@ -27,6 +27,18 @@ L'arme est fabricable par le Forgeron d'Arme situé dans la [Ville de Départ](h
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 17 ↔ 20</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 1.1/s ↔ 1.2/s</td><td></td><td align="center"><strong>Coût de Fabrication :</strong></td><td>🦷<a href="../../monstres/carte-du-sud/vallee-des-loups/loups-sinistres.md"><mark style="color:$warning;">Crocs de Loup</mark></a> 8</td><td>🧱<mark style="color:orange;">Lingots de cuivre</mark> 12</td></tr></tbody></table>
 {% endtab %}
 
+{% tab title="Dague de Bandit" %}
+> _"Dague émoussé d'un bandit après tous ces combats sanglants"_
+
+**Niveau Requis pour Utiliser l'Arme** : Niveau 5
+
+{% hint style="info" %}
+L'arme est un butin des [Bandits Assassins](../../monstres/carte-du-sud/mine-de-geldorak/bandit-assassin.md) (?%)
+{% endhint %}
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 25</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 1.2/s</td></tr></tbody></table>
+{% endtab %}
+
 {% tab title="Dague Sombre" %}
 > _"Petite dague Sombre, forgé avec des éclats magiques et d'autres loot. Elle en devient redoutable"_
 

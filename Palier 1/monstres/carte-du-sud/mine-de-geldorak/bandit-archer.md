@@ -17,3 +17,8 @@ description: Ennemi
 |     🏾 <mark style="color:orange;">Cuir Usé</mark>  | 40%                |
 | 💰 <mark style="color:orange;">Petite Bourse</mark> | 25%                |
 
+<h2 align="center">Butin Secret</h2>
+
+|                                                    Butin | Pourcentage Chance |
+| -------------------------------------------------------: | ------------------ |
+| 🏹 <mark style="color:orange;">Arbalète de Bandit</mark> | ?%                 |
