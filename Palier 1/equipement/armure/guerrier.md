@@ -59,13 +59,13 @@ La panoplie est fabricable par le Forgeron d'Armure dans une des salle du [Donjo
 {% hint style="success" %}
 Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 
-* 3 pièces ce cet équipement : +35%🎯<mark style="color:$warning;">Dégâts Coups Critique</mark>
-* 3 pièces ce cet équipement : +3.5 🛡️<mark style="color:$primary;">Défense</mark>
-* 4 pièces de cet équipement : -4% 🛡️Dêgats Subis
+* 3 pièces ce cet équipement : +25%🎯<mark style="color:$warning;">Dégâts Coups Critique</mark>
+* 3 pièces ce cet équipement : +4 🛡️<mark style="color:$primary;">Défense</mark>
+* 4 pièces de cet équipement : -5% 🛡️Dêgats Subis
 {% endhint %}
 
 ***
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th></th><th></th><th align="center"></th><th align="center"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques :</strong></td><td>❤️<mark style="color:red;">Santé</mark> <mark style="color:$primary;">124</mark> ↔ 145</td><td>🛡️<mark style="color:$primary;">Défense</mark> 13.6 ↔ 15.5</td><td>🛡️Dégâts Subis -4%</td><td>🎯<mark style="color:$warning;">Dégâts Coups Critique</mark> 35%</td><td>🌀<mark style="color:purple;">Emplacement de Rune</mark> 2</td><td align="center"></td><td align="center"><strong>Coût de Fabrication :</strong></td><td>🔴<mark style="color:$danger;">Âme du Warden</mark> 4 </td><td>🪨<mark style="color:$info;">Lingot de Métal Enchanté</mark> 76</td><td>💥<mark style="color:$danger;">Fragments Cassé Rouge</mark> 43</td></tr><tr><td align="center"><strong>Coût de Fabrication Total:</strong></td><td>💥<mark style="color:$danger;">Fragments Cassé Rouge</mark> 143</td><td>⚫Charbon 356</td><td>🪨<mark style="color:$info;">Minerais de Fer</mark> 375</td><td>🪨<mark style="color:$info;">Pièce de Métal Enchanté</mark> 760</td><td></td><td align="center"></td><td align="center"></td><td></td><td></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th></th><th></th><th align="center"></th><th align="center"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques :</strong></td><td>❤️<mark style="color:red;">Santé</mark> <mark style="color:$primary;">124</mark> ↔ 145</td><td>🛡️<mark style="color:$primary;">Défense</mark> 14.1 ↔ 16</td><td>🛡️Dégâts Subis -5%</td><td>🎯<mark style="color:$warning;">Dégâts Coups Critique 2</mark>5%</td><td>🌀<mark style="color:purple;">Emplacement de Rune</mark> 2</td><td align="center"></td><td align="center"><strong>Coût de Fabrication :</strong></td><td>🔴<mark style="color:$danger;">Âme du Warden</mark> 4 </td><td>🪨<mark style="color:$info;">Lingot de Métal Enchanté</mark> 76</td><td>💥<mark style="color:$danger;">Fragments Cassé Rouge</mark> 43</td></tr><tr><td align="center"><strong>Coût de Fabrication Total:</strong></td><td>💥<mark style="color:$danger;">Fragments Cassé Rouge</mark> 143</td><td>⚫Charbon 356</td><td>🪨<mark style="color:$info;">Minerais de Fer</mark> 375</td><td>🪨<mark style="color:$info;">Pièce de Métal Enchanté</mark> 760</td><td></td><td align="center"></td><td align="center"></td><td></td><td></td><td></td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
