@@ -78,14 +78,18 @@ Vous voilà enfin dans une caverne faites de boules de slime
 Rendez vous devant l'Entrée du [Donjon de Xal'Zirith](../donjons/donjon-xalzirith.md). Partez ensuite direction l'Est et cherchez le premier Arbre couvert au niveau des Racines de toiles d'araignées (1129,1168). Rentrez dans le trinc de l'arbre et vous voilà dans le repaire caché des Araignées
 {% endhint %}
 
-
-
-|                                              Accessoire | Coût                                                                                                                                                                                                                                      | Temps de Fabrication |
-| ------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------: |
-| 🕷️ <mark style="color:green;">Collier d'Aragorn</mark> | <p>🧶 <a href="../../monstres/carte-du-nord/arakhnol/araignees-des-forets.md">Fil d'Araignée</a> 64<br>🪢  <mark style="color:$info;">Fil d'Araignée Renforcé</mark> 32<br>🧪 <mark style="color:$success;">Venin d'Araignée</mark> 1</p> |      30 minutes      |
+|                                                                                                            Accessoire | Coût                                                                                                                                                                                                                                                                                            | Temps de Fabrication |
+| --------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------: |
+| 🕷️ [<mark style="color:green;">Collier d'Aragorn</mark>](../../equipement/accessoires/artefacts.md#collier-daragorn) | <p>🧶 <a href="../../monstres/carte-du-nord/arakhnol/araignees-des-forets.md">Fil d'Araignée</a> 64<br>🪢  <mark style="color:$info;">Fil d'Araignée Renforcé</mark> 32<br>🧪 <a href="fabricants-clefs-et-secret.md#xalzirith"><mark style="color:$success;">Venin d'Araignée</mark></a> 1</p> |      30 minutes      |
 {% endtab %}
 
 {% tab title="Antre de Aepep" %}
+{% hint style="info" %}
+Dirigez vous dans [l'Antre de Aepep](../regions/antre-de-aepep.md) (l'endroit où se trouve l'arêne du [Nymbréa](../../monstres/carte-du-nord/virelune/nymbrea.md)). Directement arrivé, dirigez-vous vers la paroie droite (1326,2107). Passez ce petit passqge et vous voilà à l'intérieur de la Forge Marine
+{% endhint %}
 
+|                                                                            Accessoire | Coût                                                                                                                                                                                                                                                                | Temps de Fabrication |
+| ------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------: |
+| 🐟 [Anneau de Léviathan](../../equipement/accessoires/anneaux.md#anneau-de-leviathan) | <p>🦈 <a href="../../monstres/carte-du-nord/virelune/poisson-requin.md"><mark style="color:$warning;">Carapaces de Requin</mark></a> 96<br>💙 <a href="../../monstres/carte-du-nord/virelune/nymbrea.md"><mark style="color:blue;">Cœur de Nymbréa</mark></a> 5</p> |      30 minutes      |
 {% endtab %}
 {% endtabs %}
