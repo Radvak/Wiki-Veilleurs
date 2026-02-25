@@ -44,6 +44,10 @@ Pour réaliser ce Donjon, il faut explorer toutes ses salles afin d'exterminer l
 * [<mark style="color:$success;">Jira</mark>](../../monstres/carte-du-nord/arakhnol/jira.md), qui vous tiendra à distance avec ses attaques puissante
 * [<mark style="color:blue;">Kamilia</mark>](../../monstres/carte-du-nord/arakhnol/kamilia.md), qui vous rendra fou avec ses sorts qui vous donneront des effets negatifs comme cécité
 
+{% hint style="info" %}
+Le chemin ne sera pas sans ambuche, car des araignées tomberont du plafond pour vous tuer à n'importe quel moment
+{% endhint %}
+
 ***
 
 <h2 align="center">Récompenses</h2>
