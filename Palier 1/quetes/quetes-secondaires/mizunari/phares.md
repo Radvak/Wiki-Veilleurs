@@ -20,8 +20,8 @@ description: Coordonnées (3150,3712)
 
 {% hint style="info" %}
 Il existe deux Forêts au Sud du Palier 1 :\
-Forêt 1 (3117,3541) dans laquelle se trouve x bûches\
-Forêt 2 (2463,4322) dans laquelle se trouve y bûches
+Forêt 1 (3117,3541)\
+Forêt 2 (2463,4322)
 {% endhint %}
 
 #### Récompenses

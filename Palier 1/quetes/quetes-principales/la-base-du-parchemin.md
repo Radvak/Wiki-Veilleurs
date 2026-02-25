@@ -30,8 +30,8 @@ Ramenez à Émy :
 
 {% hint style="info" %}
 Il existe deux Mines au Sud du Palier 1 : \
-Mine 1 (2399,3492) dans laquelle se trouve x minerais de fer \
-Mine 2 (983,3475) dans laquelle se trouve y minerais de fer
+Mine 1 (2399,3492)\
+Mine 2 (983,3475)
 
 Les Peaux de Cerf peuvent être récupérées après avoir tué un [Cerf des Montagnes](../../monstres/carte-du-nord/tolbana/cerf-des-montagnes.md) (45% de chance)
 {% endhint %}

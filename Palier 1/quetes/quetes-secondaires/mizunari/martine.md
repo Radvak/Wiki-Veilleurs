@@ -19,7 +19,7 @@ description: Coordonnées (3151,3671)
 * 🌾<mark style="color:yellow;">Blé</mark> 16
 
 {% hint style="info" %}
-Il existe un Champ de Blé au Sud du Palier 1 (2373,3647) dans laquelle se trouve x Blés
+Il existe un Champ de Blé au Sud du Palier 1 (2373,3647)
 {% endhint %}
 
 #### Récompenses

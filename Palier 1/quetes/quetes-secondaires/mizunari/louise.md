@@ -21,8 +21,8 @@ description: Coordonnées (3139,3696)
 {% hint style="info" %}
 Il faut être Niveau 1 en Mineur pour pouvoir récolter les Minerais de Cuivre :
 
-* Mine 1 (2399,3492) dans laquelle se trouve x minerais de cuivre
-* Mine 2 (983,3475) dans laquelle se trouve y minerais de cuivre
+* Mine 1 (2399,3492)
+* Mine 2 (983,3475)
 {% endhint %}
 
 #### Récompenses

@@ -18,7 +18,7 @@ description: Coordonnées (1271,4317)
 {% hint style="warning" %}
 Vous pouvez acheter votre Fer en Hotel des Ventes, ou être aidé de vos amis/guilde, si vous ne voulez pas monter votre métier de Mineur
 
-De plus vous pouvez obtenir votre fer grâce à la Quête simple de [Luc](../virelune/luc.md) à Virelune (Incompatible si vous rendez la Quête de [Jean](../camp-militaire/jean.md) avant, où il vous manquera 6 Fer)
+De plus vous pouvez obtenir votre fer grâce à la Quête simple de [Luc](../virelune/luc.md) à Virelune (24 minerais de fer)
 {% endhint %}
 
 #### Objets Demandés
