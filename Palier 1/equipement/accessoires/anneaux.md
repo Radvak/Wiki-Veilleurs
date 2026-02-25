@@ -48,4 +48,16 @@ L'accessoire est fabricable par le [Marchant Secret](../../carte/personnages/fab
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th></th><th align="center"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🛡️<mark style="color:blue;">Ténacité</mark> 15%</td><td>❤️<mark style="color:$danger;">Santé</mark> 20</td><td>💓<mark style="color:red;">Régénération Santé</mark> 0.5/s</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🍮<mark style="color:$success;">Gelée de Slime</mark> 40</td><td>🥥<mark style="color:green;">Noyau de Slime</mark> 32</td><td>👑 <mark style="color:yellow;">Essence de Gorbel</mark> 1</td></tr></tbody></table>
 {% endtab %}
+
+{% tab title="Anneau de Léviathan" %}
+> _"Anneau forgé dans les abysses, portant la marque du Léviathan. Il inspire puissance et crainte"_
+
+**Niveau Requis pour Utiliser l'Accessoire** : Niveau 9
+
+{% hint style="info" %}
+L'accessoire est fabricable par le Marchant Secret situé dans l'[Antre de Aepep](../../carte/regions/antre-de-aepep.md) (1317,2096)
+{% endhint %}
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🛡️<mark style="color:$primary;">Défense</mark> 2.5</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🦈 <a href="../../monstres/carte-du-nord/virelune/poisson-requin.md"><mark style="color:$warning;">Carapaces de Requin</mark></a> 96</td><td>💙<a href="../../monstres/carte-du-nord/virelune/nymbrea.md"><mark style="color:blue;">Cœur de Nymbréa</mark></a> 5</td></tr></tbody></table>
+{% endtab %}
 {% endtabs %}
