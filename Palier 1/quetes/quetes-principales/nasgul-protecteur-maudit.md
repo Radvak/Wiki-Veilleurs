@@ -34,7 +34,7 @@ Les ressources demandées lors de cette quête sont disponibles uniquement dans 
 {% endhint %}
 
 {% hint style="danger" %}
-Vous devez absolument tuer vous même les Squelettes Mages et non pas acheter les Tissus Maudits à l'Hdv&#x20;
+Vous devez absolument tuer vous même les Squelettes Mages et non pas acheter les Tissus Maudits à l'HDV
 {% endhint %}
 {% endstep %}
 
