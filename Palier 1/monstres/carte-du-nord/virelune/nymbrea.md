@@ -30,6 +30,10 @@ description: Boss
 
 <h2 align="center">Butin Secret</h2>
 
-|                                                                                             Butin | Pourcentage Chance |
-| ------------------------------------------------------------------------------------------------: | ------------------ |
-| 💙 <mark style="color:blue;">Cœur de Nautherion /</mark> <mark style="color:blue;">Nymbréa</mark> | ?%                 |
+|                                                                                Butin | Pourcentage Chance |
+| -----------------------------------------------------------------------------------: | ------------------ |
+| 💙 <mark style="color:blue;">Cœur de</mark> <mark style="color:blue;">Nymbréa</mark> | ?%                 |
+
+{% hint style="warning" %}
+Il est possible suivant la version du Butin que le Cœur de Nymbréa se nomme Cœur de Nautherion
+{% endhint %}

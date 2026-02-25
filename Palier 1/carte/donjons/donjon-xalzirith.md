@@ -29,3 +29,30 @@ Les Tissus d'Araignée et les Fils d'Araignée peuvent être récupérés après
 
 <h2 align="center">Le Donjon</h2>
 
+{% hint style="danger" %}
+Comme vous pouve l'imaginer ce Donjon est remplis d'Araignées très bien modélisé
+{% endhint %}
+
+Pour réaliser ce Donjon, il faut explorer toutes ses salles afin d'exterminer les Mini Boss qui vous ouvrira la Porte qui mène au Boss Final.
+
+<figure><img src="../../.gitbook/assets/Xal&#x27;Zirith.png" alt="" width="563"><figcaption></figcaption></figure>
+
+À chaque cul-de-sac se trouve un mini-boss :&#x20;
+
+* [<mark style="color:orange;">Pricilia</mark>](../../monstres/carte-du-nord/arakhnol/pricilia.md), qui vous attaquera au corps-à-corps
+* [Yula](../../monstres/carte-du-nord/arakhnol/yula.md), qui n'hésitera pas à vous roulez dessus à de multiple reprise
+* [<mark style="color:$success;">Jira</mark>](../../monstres/carte-du-nord/arakhnol/jira.md), qui vous tiendra à distance avec ses attaques puissante
+* [<mark style="color:blue;">Kamilia</mark>](../../monstres/carte-du-nord/arakhnol/kamilia.md), qui vous rendra fou avec ses sorts qui vous donneront des effets negatifs comme cécité
+
+***
+
+<h2 align="center">Récompenses</h2>
+
+<p align="center"><img src="../../.gitbook/assets/Coffre Donjon.png" alt=""></p>
+
+Il est possible d'obtenir plusieurs type de récompenses après avoir réussi le Donjon :
+
+* Bourse 🪙<mark style="color:yellow;">Cols</mark> 500
+* Bourse 🪙<mark style="color:yellow;">Cols</mark> 1000
+* Bourse 🪙<mark style="color:yellow;">Cols</mark> 2000
+* 🧪<mark style="color:$success;">Venin d'Araignée</mark>

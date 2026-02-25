@@ -21,7 +21,7 @@ description: Coordonnées (3234,1484)
   * 📜 [<mark style="color:yellow;">Parchemin Vierge</mark>](la-base-du-parchemin.md)
   * ❄️ [Poussière de Givre](../../monstres/carte-du-nord/citadelle-des-neiges/spirite-de-glace.md) 32
   * 💙 [<mark style="color:blue;">Cœur de Nymbréa</mark>](../../monstres/carte-du-nord/virelune/nymbrea.md) 1
-  * 🧪 <mark style="color:$success;">Venin d'Araignée</mark> 1
+  * 🧪 [<mark style="color:$success;">Venin d'Araignée</mark>](../../carte/donjons/donjon-xalzirith.md) 1
 
 {% hint style="info" %}
 Émy se trouve dans la forge de Tolbana (3234,1484)
@@ -32,7 +32,11 @@ Les Poussière de Givre peuvent être récupérées après avoir tué un [Spirit
 
 Les Cœurs de Nymbréa peuvent être récupérés après avoir tué un [Nymbréa](../../monstres/carte-du-nord/virelune/nymbrea.md)
 
-Les Venins d'Araignée peuvent être récupérés après avoir tué ?
+Les Venins d'Araignée peuvent être récupérés après avoir récupéré les récompenses du Donjon Xal'Zirith
+{% endhint %}
+
+{% hint style="warning" %}
+Il est possible suivant la version du Butin que le Cœur de Nymbréa se nomme Cœur de Nautherion
 {% endhint %}
 
 #### Récompenses
