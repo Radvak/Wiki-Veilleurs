@@ -38,6 +38,7 @@
   * [⛰️ Donjon Geldorak](carte/donjons/donjon-geldorak.md)
   * [⚔️ Donjon Labyrinthe des Déchus](carte/donjons/donjon-labyrinthe-des-dechus.md)
   * [🕷️ Donjon Xal'Zirith](carte/donjons/donjon-xalzirith.md)
+  * [🧌 Donjon Kokolb](carte/donjons/donjon-kokolb.md)
 * [Personnages](carte/personnages/README.md)
   * [🛒 Repreneurs de Butins](carte/personnages/repreneurs-de-butins.md)
   * [💰 Marchands](carte/personnages/marchands.md)
@@ -118,6 +119,7 @@
   * [🎣 Virelune](monstres/carte-du-nord/virelune/README.md)
     * [🦈 Poisson Requin](monstres/carte-du-nord/virelune/poisson-requin.md)
     * [🐟 Nymbréa](monstres/carte-du-nord/virelune/nymbrea.md)
+  * [🧌 Tour du Kobold](monstres/carte-du-nord/tour-du-kobold.md)
 
 ## Quêtes
 

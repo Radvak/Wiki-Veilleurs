@@ -4,7 +4,15 @@ description: Coordonnées (2785,4425)
 
 # 💀 Donjon Squelette
 
-<h4 align="center">Taille du Groupe ∞</h4>
+<details>
+
+<summary> Informations sur le Donjon</summary>
+
+<p align="center">Taille du Groupe : ∞</p>
+
+<p align="center">Niveau Recommandé : 4+</p>
+
+</details>
 
 <h2 align="center">Accéder au Donjon</h2>
 
