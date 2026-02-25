@@ -1,5 +1,5 @@
 ---
-description: Coordonnées (?)
+description: Coordonnées (3260,238)
 ---
 
 # 🪦 Le Tombeau des Harald
@@ -21,7 +21,7 @@ description: Coordonnées (?)
 Parle à Harald IV
 
 {% hint style="info" %}
-Harald IV se trouve dans ses jardin au Point Culminant de Tolbana (?)
+Harald IV se trouve dans ses jardin au Point Culminant de Tolbana (3260,238)
 {% endhint %}
 {% endstep %}
 

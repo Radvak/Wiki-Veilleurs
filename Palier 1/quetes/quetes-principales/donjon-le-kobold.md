@@ -1,5 +1,5 @@
 ---
-description: Coordonnées (?)
+description: Coordonnées (3260,238)
 ---
 
 # 🧌 Donjon: Le Kobold
@@ -21,7 +21,7 @@ description: Coordonnées (?)
 Retourne voir Harald IV
 
 {% hint style="info" %}
-Harald IV se trouve dans ses jardin au Point Culminant de Tolbana (?)
+Harald IV se trouve dans ses jardin au Point Culminant de Tolbana (3260,238)
 {% endhint %}
 {% endstep %}
 
@@ -29,9 +29,9 @@ Harald IV se trouve dans ses jardin au Point Culminant de Tolbana (?)
 Allez sous le Cristal de Tolbana
 
 {% hint style="info" %}
-La zone Cristal de Tolbana se situe au niveau de la Forge de Tolbana (). Appuyez sur le levier à gauche de la Porte et une fois le couloir traversé, vous serrez dans la Zone du [Cristal de Tolbana](../../carte/regions/cristal-de-tolbana.md).
+La zone Cristal de Tolbana se situe au niveau de la Forge de Tolbana (3216,178). Appuyez sur le levier à gauche de la Porte et une fois le couloir traversé, vous serrez dans la Zone du [Cristal de Tolbana](../../carte/regions/cristal-de-tolbana.md).
 
-Maintenant la partie cassage de clavier débarque. Vous allez devoir effectuer un parcous avec des blocs invisibles. Dirigez vous en ? pour commencer le jump et à partir de ce moment jetter des ressources à bas coût, comme des Viandes de Sanglier, très peu cher et obtenable en grande quantité.
+Maintenant la partie cassage de clavier débarque. Vous allez devoir effectuer un parcous avec des blocs invisibles. Dirigez vous en (3061,88) pour commencer le jump et à partir de ce moment jetter des ressources à bas coût, comme des Viandes de Sanglier, très peu cher et obtenable en grande quantité.
 
 Une fois le parcours réussi parlez à Méphisto (3047,1195) pour compléter cette partie de la Quête
 {% endhint %}
