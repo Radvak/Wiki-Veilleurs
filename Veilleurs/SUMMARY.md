@@ -4,6 +4,7 @@
 
 * [Wiki](README.md)
 * [Journal de Route](presentation/journal-de-route.md)
+* [Sommaire](presentation/sommaire.md)
 
 ## Guide
 
