@@ -144,7 +144,7 @@ L'arme est uniquement achetable par le Marchant situé dans la [Ville de Départ
 L'arme est fabricable par le Forgeron d'Arme situé dans la Ville de Départ (1775,4135)
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>❤️<mark style="color:$danger;">Santé</mark> 4 ↔ 6</td><td>🛡️Défense 0.5 ↔ 0.8</td><td>🗡️<mark style="color:$danger;">Dégats 0.5</mark></td><td align="center"></td><td align="center"><strong>Coût de Fabrication :</strong></td><td>🧱<mark style="color:orange;">Lingots de cuivre</mark> 8</td><td>🪵<a href="../../monstres/carte-du-sud/hanaka/guerrier-treant.md"><mark style="color:green;">Écorce de Titan</mark></a> 7</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>❤️<mark style="color:$danger;">Santé</mark> 4 ↔ 6</td><td>🛡️Défense 0.5 ↔ 0.8</td><td>🗡️<mark style="color:$danger;">Dégats</mark> 0.5</td><td align="center"></td><td align="center"><strong>Coût de Fabrication :</strong></td><td>🧱<mark style="color:orange;">Lingots de cuivre</mark> 8</td><td>🪵<a href="../../monstres/carte-du-sud/hanaka/guerrier-treant.md"><mark style="color:green;">Écorce de Titan</mark></a> 7</td></tr></tbody></table>
 
 {% hint style="warning" %}
 Les Boucliers sont un type d'Armes dédiés à la seconde Mains
@@ -182,7 +182,7 @@ Les Boucliers sont un type d'Armes dédiés à la seconde Mains
 L'arme est fabricable par le Forgeron d'Arme situé dans la [Ville de Départ](../../carte/regions/ville-de-depart.md) (1775,4135)
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 17 ↔ 19</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 0.9/s</td><td></td><td align="center"><strong>Coût de Fabrication :</strong></td><td>🦷<a href="../../monstres/carte-du-sud/vallee-des-loups/loups-sinistres.md"><mark style="color:$warning;">Crocs de Loup</mark></a> 5</td><td>🧱<mark style="color:orange;">Lingots de cuivre</mark> 10</td><td>🌳<mark style="color:green;">Buches de Chêne</mark> 8</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th></th><th align="center"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 17 ↔ 19</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 0.9/s</td><td>🏹<mark style="color:orange;">Distance d'Attaque</mark> 3.5</td><td></td><td align="center"><strong>Coût de Fabrication :</strong></td><td>🦷<a href="../../monstres/carte-du-sud/vallee-des-loups/loups-sinistres.md"><mark style="color:$warning;">Crocs de Loup</mark></a> 5</td><td>🧱<mark style="color:orange;">Lingots de cuivre</mark> 10</td><td>🌳<mark style="color:green;">Buches de Chêne</mark> 8</td></tr></tbody></table>
 
 {% hint style="danger" %}
 Les Armes d'hast sont le deuxième type d'arme d'un Guerrier et se manie à deux mains
@@ -198,7 +198,7 @@ Les Armes d'hast sont le deuxième type d'arme d'un Guerrier et se manie à deux
 L'arme est un butin des [Gardiens Colossales](../../monstres/carte-du-sud/hanaka/gardien-colossal.md)
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 23</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 0.8/s</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 23</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 0.8/s</td><td>🏹<mark style="color:orange;">Distance d'Attaque</mark> 3.5</td></tr></tbody></table>
 
 {% hint style="danger" %}
 Les Armes d'hast sont le deuxième type d'arme d'un Guerrier et se manie à deux mains
@@ -214,7 +214,7 @@ Les Armes d'hast sont le deuxième type d'arme d'un Guerrier et se manie à deux
 L'arme est fabricable par le Forgeron d'Arme situé à Tolbana (3230,1490)
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 25 ↔ 30</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 0.8/s</td><td></td><td align="center"><strong>Coût de Fabrication :</strong></td><td>🦈<a href="../../monstres/carte-du-nord/virelune/poisson-requin.md"><mark style="color:$warning;">Carapaces de Requin</mark></a> 18</td><td>🧊<a href="../../monstres/carte-du-nord/citadelle-des-neiges/golem-de-glace.md"><mark style="color:blue;">Peaux dur Glacial</mark></a> 24</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th></th><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 25 ↔ 30</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 0.8/s</td><td>🏹<mark style="color:orange;">Distance d'Attaque</mark> 3.5</td><td></td><td align="center"><strong>Coût de Fabrication :</strong></td><td>🦈<a href="../../monstres/carte-du-nord/virelune/poisson-requin.md"><mark style="color:$warning;">Carapaces de Requin</mark></a> 18</td><td>🧊<a href="../../monstres/carte-du-nord/citadelle-des-neiges/golem-de-glace.md"><mark style="color:blue;">Peaux dur Glacial</mark></a> 24</td></tr></tbody></table>
 
 {% hint style="danger" %}
 Les Armes d'hast sont le deuxième type d'arme d'un Guerrier et se manie à deux mains
