@@ -9,5 +9,5 @@ icon: book-bookmark
 
 
 
-* 🎉 [<mark style="color:$danger;">Év</mark>èn<mark style="color:$danger;">em</mark>en<mark style="color:$danger;">ts</mark>](https://app.gitbook.com/o/dzQ0wRJL2bSBST9cyCqy/s/g4uh3yFBjxxPWfxLiPa0/)
+* 🎉 [<mark style="color:$danger;">Év</mark>én<mark style="color:$danger;">em</mark>en<mark style="color:$danger;">ts</mark>](https://app.gitbook.com/o/dzQ0wRJL2bSBST9cyCqy/s/g4uh3yFBjxxPWfxLiPa0/)
 
