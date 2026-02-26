@@ -8,7 +8,7 @@
 
 **Niveau Requis pour Utiliser l'Arme** : Niveau 10
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>🗡️<mark style="color:$danger;">Dégats</mark> 26</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 1.2/s</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>🗡️<mark style="color:$danger;">Dégats</mark> 18.5</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 1.2/s</td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
 
@@ -22,6 +22,6 @@
 
 **Niveau Requis pour Utiliser l'Arme** : Niveau 10
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>🗡️<mark style="color:$danger;">Dégats</mark> 35</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 0.8/s</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>🗡️<mark style="color:$danger;">Dégats</mark> 25</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 0.7/s</td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
