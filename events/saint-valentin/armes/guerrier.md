@@ -13,7 +13,11 @@
 <h2 align="center">🛡️ Boucliers</h2>
 
 {% tabs %}
-{% tab title="" %}
+{% tab title="Bouclier d'Amour" %}
+> _"Un bouclier orné de motifs en forme de cœur, aux teintes roses et dorées évoquant une protection empreinte de douceur"_
 
+**Niveau Requis pour Utiliser l'Arme** : Niveau 10
+
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>🛡️<mark style="color:$primary;">Défense</mark> 3.5</td><td>❤️<mark style="color:$danger;">Santé</mark> 30</td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
