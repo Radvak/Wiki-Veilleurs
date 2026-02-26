@@ -206,13 +206,13 @@
 
 ## Équipement
 
-* [Armure](equipement/armure/README.md)
-  * [👥 Sans Classe](equipement/armure/sans-classe.md)
-  * [🛡️ Guerrier](equipement/armure/guerrier.md)
-  * [🗡️ Assassin](equipement/armure/assassin.md)
-  * [🏹 Archer](equipement/armure/archer.md)
-  * [🔮 Mage](equipement/armure/mage.md)
-  * [🌿 Shaman](equipement/armure/shaman.md)
+* [Armures](equipement/armures/README.md)
+  * [👥 Sans Classe](equipement/armures/sans-classe.md)
+  * [🛡️ Guerrier](equipement/armures/guerrier.md)
+  * [🗡️ Assassin](equipement/armures/assassin.md)
+  * [🏹 Archer](equipement/armures/archer.md)
+  * [🔮 Mage](equipement/armures/mage.md)
+  * [🌿 Shaman](equipement/armures/shaman.md)
 * [Armes](equipement/armes/README.md)
   * [👥 Sans Classe](equipement/armes/sans-classe.md)
   * [🛡️ Guerrier](equipement/armes/guerrier.md)

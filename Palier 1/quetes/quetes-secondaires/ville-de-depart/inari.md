@@ -31,7 +31,7 @@ Il vous faudra un total de [43 Carapaces d'Ika](#user-content-fn-1)[^1] et [23 G
 {% endhint %}
 
 {% hint style="info" %}
-Si Vous êtes de la classe Guerrier ou Artiste Martial, vous pouvez lui donner votre ancienne Panoplie Ika après avoir fabriquer votre [Panoplie du Titan](../../../equipement/armure/guerrier.md#panoplie-du-titan)
+Si Vous êtes de la classe Guerrier ou Artiste Martial, vous pouvez lui donner votre ancienne Panoplie Ika après avoir fabriquer votre [Panoplie du Titan](../../../equipement/armures/guerrier.md#panoplie-du-titan)
 {% endhint %}
 
 #### Récompenses

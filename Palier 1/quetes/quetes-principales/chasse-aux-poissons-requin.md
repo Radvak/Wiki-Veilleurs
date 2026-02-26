@@ -49,4 +49,4 @@ Virel se trouve à l'extrémité Ouest de [Virelune](../../carte/regions/virelun
 #### Récompenses
 
 * 🧪 <mark style="color:blue;">Expérience</mark> 1100
-* 🌊 [<mark style="color:blue;">Bottes de l'Écume</mark>](../../equipement/armure/sans-classe.md#bottes-de-lecume)
+* 🌊 [<mark style="color:blue;">Bottes de l'Écume</mark>](../../equipement/armures/sans-classe.md#bottes-de-lecume)
