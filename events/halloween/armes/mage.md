@@ -1,19 +1,5 @@
 # 🔮 Mage
 
-<h2 align="center">🪄 Bâtons</h2>
-
-{% tabs %}
-{% tab title="" %}
-
-{% endtab %}
-{% endtabs %}
-
-***
-
-<h2 align="center">📖 Catalyseurs</h2>
-
-{% tabs %}
-{% tab title="" %}
-
-{% endtab %}
-{% endtabs %}
+{% hint style="danger" %}
+🚧 Cette catégorie n'existe pas ou bien le wiki est incomplet, au quel cas contactez nous! 🚧
+{% endhint %}

@@ -8,6 +8,10 @@
 
 **Niveau Requis pour Utiliser l'Arme** : Niveau 10
 
+{% hint style="info" %}
+Palier 1
+{% endhint %}
+
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>🗡️<mark style="color:$danger;">Dégats</mark> 28</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 1.2/s</td><td>🎯<mark style="color:$warning;">Chance Coups Critique</mark> 15%</td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
@@ -22,6 +26,10 @@
 
 **Niveau Requis pour Utiliser l'Arme** : Niveau 10
 
+{% hint style="info" %}
+Palier 1
+{% endhint %}
+
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>🛡️Défense 3.5</td><td>❤️<mark style="color:$danger;">Santé</mark> 30</td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
@@ -35,6 +43,10 @@
 > _"Un marteau imposant à la tête hivernale semblant taillé dans les cadeaux des enfants"_
 
 **Niveau Requis pour Utiliser l'Arme** : Niveau 10
+
+{% hint style="info" %}
+Palier 1
+{% endhint %}
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>🗡️<mark style="color:$danger;">Dégats</mark> 40</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 0.8/s</td><td>🏹<mark style="color:orange;">Distance d'Attaque</mark> 3.5</td></tr></tbody></table>
 
