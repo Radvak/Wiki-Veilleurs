@@ -6,7 +6,7 @@
 
 **Niveau Requis pour Utiliser l'Accessoire** : Niveau 10
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>🗡️<mark style="color:$danger;">Dégats</mark> 2.5</td><td>🎯<mark style="color:$warning;">Dêgats</mark> <mark style="color:$warning;">Coups Critique</mark> 5%</td><td>🛡️<mark style="color:$primary;">Défense</mark> 1</td><td>💓<mark style="color:red;">Régénération Santé</mark> 0.2/s</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>🗡️<mark style="color:$danger;">Dégats</mark> 2.5</td><td>🎯<mark style="color:$warning;">Dêgats</mark> <mark style="color:$warning;">Coups Critique</mark> 5%</td><td>🛡️Défense 1</td><td>💓<mark style="color:red;">Régénération Santé</mark> 0.2/s</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Collier de Givremar" %}
@@ -14,6 +14,6 @@
 
 **Niveau Requis pour Utiliser l'Accessoire** : Niveau 10
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>🛡️<mark style="color:$primary;">Défense</mark> 1.5</td><td>❤️<mark style="color:$danger;">Santé</mark> 5</td><td>💦<mark style="color:blue;">Régénération Mana</mark> 0.3/s</td><td>👟<mark style="color:yellow;">Régénération Stamina</mark> 0.3/s</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>🛡️Défense 1.5</td><td>❤️<mark style="color:$danger;">Santé</mark> 5</td><td>💦<mark style="color:blue;">Régénération Mana</mark> 0.3/s</td><td>👟<mark style="color:yellow;">Régénération Stamina</mark> 0.3/s</td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}

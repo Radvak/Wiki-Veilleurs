@@ -6,6 +6,6 @@
 
 **Niveau Requis pour Utiliser l'Accessoire** : Niveau 10
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>🛡️<mark style="color:$primary;">Défense</mark> 2</td><td>❤️<mark style="color:$danger;">Santé</mark> 25</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>🛡️Défense 2</td><td>❤️<mark style="color:$danger;">Santé</mark> 25</td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}

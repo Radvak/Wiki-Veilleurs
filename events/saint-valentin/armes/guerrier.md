@@ -22,7 +22,7 @@
 
 **Niveau Requis pour Utiliser l'Arme** : Niveau 10
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>🛡️<mark style="color:$primary;">Défense</mark> 3.5</td><td>❤️<mark style="color:$danger;">Santé</mark> 30</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>🛡️Défense 3.5</td><td>❤️<mark style="color:$danger;">Santé</mark> 30</td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
 
