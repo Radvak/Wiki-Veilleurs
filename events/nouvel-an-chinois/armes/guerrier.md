@@ -1,19 +1,5 @@
 # 🛡️ Guerrier
 
-<h2 align="center">⚔️ Épées</h2>
-
-{% tabs %}
-{% tab title="" %}
-
-{% endtab %}
-{% endtabs %}
-
-***
-
-<h2 align="center">🛡️ Boucliers</h2>
-
-{% tabs %}
-{% tab title="" %}
-
-{% endtab %}
-{% endtabs %}
+{% hint style="danger" %}
+🚧 Cette catégorie n'existe pas ou bien le wiki est incomplet, au quel cas contactez nous! 🚧
+{% endhint %}

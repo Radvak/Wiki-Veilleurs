@@ -1,9 +1,5 @@
 # 🏹 Archer
 
-<h2 align="center">🏹 Arcs</h2>
-
-{% tabs %}
-{% tab title="" %}
-
-{% endtab %}
-{% endtabs %}
+{% hint style="danger" %}
+🚧 Cette catégorie n'existe pas ou bien le wiki est incomplet, au quel cas contactez nous! 🚧
+{% endhint %}
