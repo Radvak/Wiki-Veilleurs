@@ -17,7 +17,7 @@
 <h2 align="center">📖 Catalyseurs</h2>
 
 {% tabs %}
-{% tab title="Spectre Hivernale" %}
+{% tab title="Catalyseur d'Amour" %}
 > _"Un catalyseur délicatement orné de cœurs et de gemmes rosées, diffusant une lueur douce et romantique"_
 
 **Niveau Requis pour Utiliser l'Arme** : Niveau 10

@@ -3,8 +3,8 @@
 <h2 align="center">⚔️ Épées</h2>
 
 {% tabs %}
-{% tab title="Épée d'Amour" %}
-> _"Une épée élégante aux reflets rosés, décorée de gravures romantiques le long de la lame"_
+{% tab title="Claymore Hivernale" %}
+> _"Une lourde épée recouverte de motifs glacés dont la lame semble toujours froide"_
 
 **Niveau Requis pour Utiliser l'Arme** : Niveau 10
 
@@ -17,8 +17,8 @@
 <h2 align="center">🛡️ Boucliers</h2>
 
 {% tabs %}
-{% tab title="Bouclier d'Amour" %}
-> _"Un bouclier orné de motifs en forme de cœur, aux teintes roses et dorées évoquant une protection empreinte de douceur"_
+{% tab title="Bouclier Hivernale" %}
+> _"Un bouclier massif décoré de symboles hivernaux, couvert de cadeaux"_
 
 **Niveau Requis pour Utiliser l'Arme** : Niveau 10
 
@@ -31,8 +31,8 @@
 <h2 align="center">⚒️ Arme d'Hast</h2>
 
 {% tabs %}
-{% tab title="Marteau d'Amour" %}
-> _"Un marteau massif embelli de symboles amoureux, contrastant puissance et délicatesse"_
+{% tab title="Marteau Hivernale" %}
+> _"Un marteau imposant à la tête hivernale semblant taillé dans les cadeaux des enfants"_
 
 **Niveau Requis pour Utiliser l'Arme** : Niveau 10
 
