@@ -50,7 +50,7 @@ Situé dans la [Ville de Départ](../regions/ville-de-depart.md) aux Cordonnées
 |      🐎 [<mark style="color:purple;">Bottes du Revenant</mark>](../../equipement/armures/sans-classe.md#bottes-du-revenant) | <p>🐎 <a href="../../monstres/carte-du-sud/ruines-maudites/nasgul.md"><mark style="color:purple;">Éclat de Sabot Maudit</mark></a> 1<br>🐢 <a href="../../monstres/carte-du-sud/archipel-dika/ika.md"><mark style="color:green;">Carapaces d'Ika</mark></a> 64<br>🏾 <a href="../../monstres/carte-du-sud/mine-de-geldorak/bandit-archer.md"><mark style="color:orange;">Cuirs Usés</mark></a> 64<br>🐺 <a href="../../monstres/carte-du-sud/vallee-des-loups/loups-sinistres.md"><mark style="color:$info;">Fourrures de Loup</mark></a> 64</p> |      10 secondes     |
 {% endtab %}
 
-{% tab title="Accessoires" %}
+{% tab title="Accessoires Base" %}
 {% hint style="info" %}
 Situé dans la [Ville de Départ](../regions/ville-de-depart.md) aux Cordonnées (1767,4126)
 {% endhint %}
@@ -66,6 +66,27 @@ Situé dans la [Ville de Départ](../regions/ville-de-depart.md) aux Cordonnées
 | 🌲 [<mark style="color:green;">Bracelet Sylvestre</mark>](../../equipement/accessoires/bracelets.md#bracelet-sylvestre) | <p>🪵  <a href="../../monstres/carte-du-sud/hanaka/guerrier-treant.md"><mark style="color:green;">Écorce de Titan</mark></a> 64<br>🌿 <a href="../../monstres/carte-du-sud/hanaka/mage-sylvestre.md"><mark style="color:red;">Brindille Enchantées</mark></a> 64</p>         |       1 minute       |
 |                                 🕷️ [Bracelet d'Araignée](../../equipement/accessoires/bracelets.md#bracelet-daraignee) | <p>🕸️ <a href="../../monstres/carte-du-nord/arakhnol/araignees-des-forets.md"><mark style="color:$info;">Tissu d'Araignée</mark></a> 64<br>🍄‍🟫 <a href="../../monstres/carte-du-sud/mizunari/nephentes.md"><mark style="color:purple;">Spore Corrompu</mark></a> 64</p>   |       1 minute       |
 
+
+{% endtab %}
+
+{% tab title="Accessoires Cuivre" %}
+{% hint style="info" %}
+Situé dans la [Ville de Départ](../regions/ville-de-depart.md) aux Cordonnées (1787,4697)
+{% endhint %}
+
+|                                                                                                              Accessoire | Coût                                                                                                                                                                                                                                                                         | Temps de Fabrication |
+| ----------------------------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------: |
+|      🧱 [<mark style="color:orange;">Anneau de Cuivre</mark>](../../equipement/accessoires/anneaux.md#anneau-de-cuivre) | 🧱 <mark style="color:orange;">Lingots de Cuivre</mark> 16                                                                                                                                                                                                                   |       1 minute       |
+|             🪨 [<mark style="color:$info;">Anneau de Fer</mark>](../../equipement/accessoires/anneaux.md#anneau-de-fer) | 🪨 <mark style="color:$info;">Lingots de Fer</mark> 16                                                                                                                                                                                                                       |       1 minute       |
+|     🐺 [<mark style="color:$warning;">Collier d'Albal</mark>](../../equipement/accessoires/amulettes.md#collier-dalbal) | <p>🐺 <a href="../../monstres/carte-du-sud/vallee-des-loups/loups-sinistres.md"><mark style="color:$info;">Fourrures de Loup</mark></a> 96<br>🦷 <a href="../../monstres/carte-du-sud/vallee-des-loups/albal.md"><mark style="color:$danger;">Croc de Albal</mark></a> 5</p> |       1 minute       |
+|    🌳 [<mark style="color:green;">Amulette de Bois</mark>](../../equipement/accessoires/amulettes.md#amulette-des-bois) | <p>💚 <mark style="color:green;">Cœur de Bois</mark> 32<br>🌳 Buches de Bouleau 64</p>                                                                                                                                                                                       |       1 minute       |
+|           🗡️ [<mark style="color:red;">Gants de Bandits</mark>](../../equipement/accessoires/gants.md#gants-de-bandit) | <p>🏾 <a href="../../monstres/carte-du-sud/mine-de-geldorak/bandit-assassin.md"><mark style="color:orange;">Cuir Usé</mark></a> 96<br>🫚 <a href="../../monstres/carte-du-sud/hanaka/guerrier-treant.md"><mark style="color:orange;">Racine Ancestrale</mark></a> 8</p>      |       1 minute       |
+|                 🦴 [<mark style="color:$info;">Gants Osseux</mark>](../../equipement/accessoires/gants.md#gants-osseux) | <p>🍚 Poussière d'Os 64<br>🦴 Os de Squelette 64<br>🦴 <mark style="color:$info;">Os de Squelette Renforcé</mark> 32</p>                                                                                                                                                     |       1 minute       |
+| 🌲 [<mark style="color:green;">Bracelet Sylvestre</mark>](../../equipement/accessoires/bracelets.md#bracelet-sylvestre) | <p>🪵  <a href="../../monstres/carte-du-sud/hanaka/guerrier-treant.md"><mark style="color:green;">Écorce de Titan</mark></a> 64<br>🌿 <a href="../../monstres/carte-du-sud/hanaka/mage-sylvestre.md"><mark style="color:red;">Brindille Enchantées</mark></a> 64</p>         |       1 minute       |
+|                                 🕷️ [Bracelet d'Araignée](../../equipement/accessoires/bracelets.md#bracelet-daraignee) | <p>🕸️ <a href="../../monstres/carte-du-nord/arakhnol/araignees-des-forets.md"><mark style="color:$info;">Tissu d'Araignée</mark></a> 64<br>🍄‍🟫 <a href="../../monstres/carte-du-sud/mizunari/nephentes.md"><mark style="color:purple;">Spore Corrompu</mark></a> 64</p>   |       1 minute       |
+{% endtab %}
+
+{% tab title="Accessoires Fer" %}
 
 {% endtab %}
 
