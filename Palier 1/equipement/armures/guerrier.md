@@ -59,7 +59,7 @@ La panoplie est fabricable par le Forgeron d'Armure dans une des salle du [Donjo
 {% hint style="success" %}
 Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 
-* 3 pièces ce cet équipement : +25%🎯<mark style="color:$warning;">Dégâts Coups Critique</mark>
+* 2 pièces ce cet équipement : +25%🎯<mark style="color:$warning;">Dégâts Coups Critique</mark>
 * 3 pièces ce cet équipement : +4 🛡️<mark style="color:$primary;">Défense</mark>
 * 4 pièces de cet équipement : -5% 🛡️Dêgats Subis
 {% endhint %}

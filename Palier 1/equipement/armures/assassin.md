@@ -61,7 +61,7 @@ Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 
 * 2 pièces ce cet équipement : +15%🎯<mark style="color:$warning;">Chance Coups Critique</mark>
 * 3 pièces ce cet équipement : +4% 💨<mark style="color:blue;">Chance d’Esquive</mark>
-* 4 pièces de cet équipement  : 5 🗡️<mark style="color:$danger;">Dégâts</mark>
+* 4 pièces de cet équipement  : +5 🗡️<mark style="color:$danger;">Dégâts</mark>
 {% endhint %}
 
 ***

@@ -62,7 +62,7 @@ Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 
 * 2 pièces ce cet équipement : +25 💧<mark style="color:blue;">Mana Max</mark>
 * 3 pièces ce cet équipement : +5% 🪄<mark style="color:purple;">Dégâts Magique</mark>
-* 4 pièces de cet équipement : 5% ⏱️<mark style="color:purple;">Cooldown Compétence</mark>
+* 4 pièces de cet équipement : +5% ⏱️<mark style="color:purple;">Cooldown Compétence</mark>
 
 
 {% endhint %}

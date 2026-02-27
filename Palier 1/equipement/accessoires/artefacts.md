@@ -1,6 +1,27 @@
 # 🏺 Artefacts
 
 {% tabs %}
+{% tab title="Pièce de Cuivre" %}
+> _"Un simple morceau de fer ancien, forgé au palier 1"_
+
+**Niveau Requis pour Utiliser l'Accessoire** : Niveau 7
+
+{% hint style="info" %}
+L'accessoire est fabricable par le Forgeron Accessoire situé dans la [Ville de Départ](../../carte/regions/ville-de-depart.md) (1787,4697)
+{% endhint %}
+
+{% hint style="success" %}
+Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
+
+* 2 pièces de cet équipement : +1 🗡️<mark style="color:$danger;">Dégats</mark>
+* 3 pièces de cet équipement : +1 🛡️<mark style="color:$primary;">Défense</mark>
+* 4 pièces de cet équipement : +1 🗡️<mark style="color:$danger;">Dégats</mark>
+* 5 pièces de cet équipement : +5 ❤️<mark style="color:$danger;">Santé</mark>
+{% endhint %}
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th align="center"></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🛡️<mark style="color:$primary;">Défense</mark> 1</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🧱<mark style="color:orange;">Lingots de Cuivre</mark> 24</td></tr></tbody></table>
+{% endtab %}
+
 {% tab title="Lien de la Sylve" %}
 > _"Ce collier est tressé à partir de lianes vivantes. On dit qu'il réagit aux battements du cœur de la forêt"_
 

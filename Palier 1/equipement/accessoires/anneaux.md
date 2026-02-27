@@ -15,6 +15,15 @@ C'est plus rapide de fabriquer son Accessoires au Forgeron d'Accessoire de Base 
 &#xNAN;_&#x31; minute_ contre _2 minutes 30 secondes_
 {% endhint %}
 
+{% hint style="success" %}
+Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
+
+* 2 pièces de cet équipement : +1 🗡️<mark style="color:$danger;">Dégats</mark>
+* 3 pièces de cet équipement : +1 🛡️<mark style="color:$primary;">Défense</mark>
+* 4 pièces de cet équipement : +1 🗡️<mark style="color:$danger;">Dégats</mark>
+* 5 pièces de cet équipement : +5 ❤️<mark style="color:$danger;">Santé</mark>
+{% endhint %}
+
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th align="center"></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>❤️<mark style="color:$danger;">Santé</mark> 5</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🧱<mark style="color:orange;">Lingots de Cuivre</mark> 16 </td></tr></tbody></table>
 {% endtab %}
 
