@@ -26,12 +26,12 @@ L'accessoire est fabricable par le Forgeron Accessoire situé dans la [Ville de 
 Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 
 * 2 pièces de cet équipement : +1 🗡️<mark style="color:$danger;">Dégats</mark>
-* 3 pièces de cet équipement : +1 🛡️<mark style="color:$primary;">Défense</mark>
+* 3 pièces de cet équipement : +1 🛡️Défense
 * 4 pièces de cet équipement : +1 🗡️<mark style="color:$danger;">Dégats</mark>
 * 5 pièces de cet équipement : +5 ❤️<mark style="color:$danger;">Santé</mark>
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th align="center"></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🛡️<mark style="color:$primary;">Défense</mark> 1</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🧱<mark style="color:orange;">Lingots de Cuivre</mark> 24</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th align="center"></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🛡️Défense 1</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🧱<mark style="color:orange;">Lingots de Cuivre</mark> 24</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Pièce de Fer" %}
@@ -49,12 +49,12 @@ Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 * 2 pièces de cet équipement : +1.5 🗡️<mark style="color:$danger;">Dégats</mark>
 * 3 pièces de cet équipement : +10 ❤️<mark style="color:$danger;">Santé</mark>
 * 4 pièces de cet équipement : +2 🗡️<mark style="color:$danger;">Dégats</mark>
-* 5 pièces de cet équipement : +1.5 🛡️<mark style="color:$primary;">Défense</mark>
+* 5 pièces de cet équipement : +1.5 🛡️Défense
 
 
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🛡️<mark style="color:$primary;">Défense</mark> 1</td><td>❤️<mark style="color:$danger;">Santé</mark> 5 </td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🪨<mark style="color:$info;">Lingots de Fer</mark> 18</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🛡️Défense 1</td><td>❤️<mark style="color:$danger;">Santé</mark> 5 </td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🪨<mark style="color:$info;">Lingots de Fer</mark> 18</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Collier d'Aragorn" %}

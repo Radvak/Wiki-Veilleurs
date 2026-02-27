@@ -19,7 +19,7 @@ C'est plus rapide de fabriquer son Accessoires au Forgeron d'Accessoire de Base 
 Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 
 * 2 pièces de cet équipement : +1 🗡️<mark style="color:$danger;">Dégats</mark>
-* 3 pièces de cet équipement : +1 🛡️<mark style="color:$primary;">Défense</mark>
+* 3 pièces de cet équipement : +1 🛡️Défense
 * 4 pièces de cet équipement : +1 🗡️<mark style="color:$danger;">Dégats</mark>
 * 5 pièces de cet équipement : +5 ❤️<mark style="color:$danger;">Santé</mark>
 {% endhint %}
@@ -36,7 +36,7 @@ Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 &#x20;L'accessoire peut être récupéré après avoir tué [Pumba](../../monstres/carte-du-sud/zone-sanglier/pumba.md)
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>❤️<mark style="color:$danger;">Santé</mark> 7</td><td>🛡️<mark style="color:$primary;">Défense</mark> 0.7</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>❤️<mark style="color:$danger;">Santé</mark> 7</td><td>🛡️Défense 0.7</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Anneau de Fer" %}
@@ -58,10 +58,10 @@ Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 * 2 pièces de cet équipement : +1.5 🗡️<mark style="color:$danger;">Dégats</mark>
 * 3 pièces de cet équipement : +10 ❤️<mark style="color:$danger;">Santé</mark>
 * 4 pièces de cet équipement : +2 🗡️<mark style="color:$danger;">Dégats</mark>
-* 5 pièces de cet équipement : +1.5 🛡️<mark style="color:$primary;">Défense</mark>
+* 5 pièces de cet équipement : +1.5 🛡️Défense
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th align="center"></th><th></th><th></th><th align="center"></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Forgeron Accessoire Base</strong></td><td align="center"><strong>Statistiques:</strong></td><td>🛡️<mark style="color:$primary;">Défense</mark> 0.5 </td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🪨<mark style="color:$info;">Lingots de Fer</mark> 16 </td></tr><tr><td align="center"><strong>Forgeron Accessoire Fer</strong></td><td align="center"><strong>Statistiques:</strong></td><td>🛡️<mark style="color:$primary;">Défense</mark> 0.5 </td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🪨<mark style="color:$info;">Lingots de Fer</mark> 12</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th align="center"></th><th></th><th></th><th align="center"></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Forgeron Accessoire Base</strong></td><td align="center"><strong>Statistiques:</strong></td><td><mark style="color:$primary;">🛡️</mark>Défense 0.5 </td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🪨<mark style="color:$info;">Lingots de Fer</mark> 16 </td></tr><tr><td align="center"><strong>Forgeron Accessoire Fer</strong></td><td align="center"><strong>Statistiques:</strong></td><td>🛡️Défense 0.5 </td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🪨<mark style="color:$info;">Lingots de Fer</mark> 12</td></tr></tbody></table>
 
 {% hint style="danger" %}
 En Effet pour le moment le Forgeron d'Accessoires de Fer permet de fabriquer à moindre coût l'anneau
@@ -89,6 +89,6 @@ L'accessoire est fabricable par le [Marchant Secret](../../carte/personnages/fab
 L'accessoire est fabricable par le [Marchant Secret](../../carte/personnages/fabricants-clefs-et-secret.md#antre-de-aepep) situé dans l'[Antre de Aepep](../../carte/regions/antre-de-aepep.md) (1317,2096)
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🛡️<mark style="color:$primary;">Défense</mark> 2.5</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🦈<a href="../../monstres/carte-du-nord/virelune/poisson-requin.md"><mark style="color:$warning;">Carapaces de Requin</mark></a> 96</td><td>💙<a href="../../monstres/carte-du-nord/virelune/nymbrea.md"><mark style="color:blue;">Cœur de Nymbréa</mark></a> 5</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🛡️Défense 2.5</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🦈<a href="../../monstres/carte-du-nord/virelune/poisson-requin.md"><mark style="color:$warning;">Carapaces de Requin</mark></a> 96</td><td>💙<a href="../../monstres/carte-du-nord/virelune/nymbrea.md"><mark style="color:blue;">Cœur de Nymbréa</mark></a> 5</td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
