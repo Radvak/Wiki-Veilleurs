@@ -52,7 +52,20 @@ L'accessoire est fabricable par le [Forgeron d'Accessoire de Base](../../carte/p
 C'est plus rapide de fabriquer son Accessoires au Forgeron d'Accessoire de Base : _1 minute_ contre _5 minutes_
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th align="center"></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🛡️<mark style="color:$primary;">Défense</mark> 0.5 </td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🪨<mark style="color:$info;">Lingots de Fer</mark> 16 </td></tr></tbody></table>
+{% hint style="success" %}
+Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
+
+* 2 pièces de cet équipement : +1.5 🗡️<mark style="color:$danger;">Dégats</mark>
+* 3 pièces de cet équipement : +10 ❤️<mark style="color:$danger;">Santé</mark>
+* 4 pièces de cet équipement : +2 🗡️<mark style="color:$danger;">Dégats</mark>
+* 5 pièces de cet équipement : +1.5 🛡️<mark style="color:$primary;">Défense</mark>
+{% endhint %}
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th align="center"></th><th></th><th></th><th align="center"></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Forgeron Accessoire Base</strong></td><td align="center"><strong>Statistiques:</strong></td><td>🛡️<mark style="color:$primary;">Défense</mark> 0.5 </td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🪨<mark style="color:$info;">Lingots de Fer</mark> 16 </td></tr><tr><td align="center"><strong>Forgeron Accessoire Fer</strong></td><td align="center"><strong>Statistiques:</strong></td><td>🛡️<mark style="color:$primary;">Défense</mark> 0.5 </td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🪨<mark style="color:$info;">Lingots de Fer</mark> 12</td></tr></tbody></table>
+
+{% hint style="danger" %}
+En Effet pour le moment le Forgeron d'Accessoires de Fer permet de fabriquer à moindre coût l'anneau
+{% endhint %}
 {% endtab %}
 
 {% tab title="Anneau Gluant" %}
