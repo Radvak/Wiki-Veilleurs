@@ -45,6 +45,7 @@
   * [⚒️ Forgerons](carte/personnages/forgerons.md)
   * [🪓 Bucherons](carte/personnages/bucherons.md)
   * [⚗️ Alchimistes](carte/personnages/alchimistes.md)
+  * [🏺 Refaçonneur](carte/personnages/refaconneur.md)
   * [🗝️ Fabricants Clefs et Secret](carte/personnages/fabricants-clefs-et-secret.md)
   * [🦠 David Goodenough](carte/personnages/david-goodenough.md)
 
