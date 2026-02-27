@@ -36,7 +36,7 @@ C'est plus rapide de fabriquer son Accessoires au Forgeron d'Accessoire de Base 
 **Niveau Requis pour Utiliser l'Accessoire** : Niveau 5
 
 {% hint style="info" %}
-L'accessoire est fabricable par le [Forgeron d'Accessoire de Base](../../carte/personnages/forgerons.md#accessoires-base) situé dans la [Ville de Départ](../../carte/regions/ville-de-depart.md) (1766,4124)
+L'accessoire est fabricable par le [Forgeron d'Accessoire de Base](../../carte/personnages/forgerons.md#accessoires-base) situé dans la [Ville de Départ](../../carte/regions/ville-de-depart.md) (1766,4124) ou bien par le [Forgeron d'Accessoire de Fer](../../carte/personnages/forgerons.md#accessoires-fer) situé dans la [Ville de Départ](../../carte/regions/ville-de-depart.md) (1776,4684)
 {% endhint %}
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th align="center"></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🛡️<mark style="color:$primary;">Défense</mark> 0.5 </td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🪨<mark style="color:$info;">Lingots de Fer</mark> 16 </td></tr></tbody></table>
