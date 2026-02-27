@@ -83,6 +83,16 @@ Dirigez vous dans [l'Antre de Aepep](../regions/antre-de-aepep.md) (l'endroit o�
 | 🐟 [Anneau de Léviathan](../../equipement/accessoires/anneaux.md#anneau-de-leviathan) | <p>🦈 <a href="../../monstres/carte-du-nord/virelune/poisson-requin.md"><mark style="color:$warning;">Carapaces de Requin</mark></a> 96<br>💙 <a href="../../monstres/carte-du-nord/virelune/nymbrea.md"><mark style="color:blue;">Cœur de Nymbréa</mark></a> 5</p> |      30 minutes      |
 {% endtab %}
 
+{% tab title="Citadelle des Neiges" %}
+{% hint style="info" %}
+Rendez vous au niveau du lac à l'Est de la [Citadelle des Neiges](../regions/citadelle-des-neiges.md). Plus précisément au niveau de la cascade la plus à l'Est de ce lac. Remontez la cascade et vous découvrirez la forge Glaciale (4216,1801)
+{% endhint %}
+
+|                                                                                                           Accessoire | Coût                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Temps de Fabrication |
+| -------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------: |
+| 🧊 [<mark style="color:blue;">Bracelet de Glace</mark>](../../equipement/accessoires/bracelets.md#bracelet-de-glace) | <p>❄️ <a href="../../monstres/carte-du-nord/citadelle-des-neiges/spirite-de-glace.md">Poussière de Givre</a> 32<br>🧊 <a href="../../monstres/carte-du-nord/citadelle-des-neiges/spirite-de-glace.md"><mark style="color:blue;">Éclat Magique Glacial</mark></a> 32<br>🧊 <a href="../../monstres/carte-du-nord/citadelle-des-neiges/golem-de-glace.md"><mark style="color:blue;">Peau Dur Glacial</mark></a> 32<br>🐻 <a href="../../monstres/carte-du-nord/citadelle-des-neiges/ours-de-glace.md"><mark style="color:blue;">Fragments de l'Âme de l'Ours</mark></a> 1</p> |      30 minutes      |
+{% endtab %}
+
 {% tab title="Arakh'Nol" %}
 {% hint style="info" %}
 Rendez vous devant l'Entrée du [Donjon de Xal'Zirith](../donjons/donjon-xalzirith.md). Partez ensuite direction l'Est et cherchez le premier Arbre couvert au niveau des Racines de toiles d'araignées (1129,1168). Rentrez dans le trinc de l'arbre et vous voilà dans le repaire caché des Araignées

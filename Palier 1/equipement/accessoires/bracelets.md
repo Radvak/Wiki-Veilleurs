@@ -66,4 +66,16 @@ L'accessoire est fabricable par le [Forgeron Accessoire de Base](../../carte/per
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>💨<mark style="color:blue;">Chance d'Esquive</mark> 2.5%</td><td>💨<mark style="color:yellow;">Vitesse</mark> 0.5</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🕸️<a href="../../monstres/carte-du-nord/arakhnol/araignees-des-forets.md"><mark style="color:$info;">Tissu d'Araignée</mark></a> 64</td><td>🍄‍🟫<a href="../../monstres/carte-du-sud/mizunari/nephentes.md"><mark style="color:purple;">Spore Corrompu</mark></a> 64</td></tr></tbody></table>
 {% endtab %}
+
+{% tab title="Bracelet de Glace" %}
+> _"Bracelet taillé dans un cristal gelé, il conserve le froid éternel du mini-boss de glace"_
+
+**Niveau Requis pour Utiliser l'Accessoire** : Niveau 9
+
+{% hint style="info" %}
+L'accessoire est fabricable par le [Marchant Secret](../../carte/personnages/fabricants-clefs-et-secret.md#citadelle-des-neiges) situé proche de la [Citadelle des Neiges](../../carte/regions/citadelle-des-neiges.md) (4216,1801)
+{% endhint %}
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th></th><th align="center"></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>📖<mark style="color:purple;">Dégât de Compétences</mark> 5%</td><td>💦<mark style="color:blue;">Régénération de mana</mark> 0.3/s</td><td>👟<mark style="color:yellow;">Régénération Stamina</mark> 0.2/s</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>❄️<a href="../../monstres/carte-du-nord/citadelle-des-neiges/spirite-de-glace.md">Poussière de Givre</a> 32</td><td>🧊<a href="../../monstres/carte-du-nord/citadelle-des-neiges/spirite-de-glace.md"><mark style="color:blue;">Éclat Magique Glacial</mark></a> 32</td><td>🧊<a href="../../monstres/carte-du-nord/citadelle-des-neiges/golem-de-glace.md"><mark style="color:blue;">Peau Dur Glacial</mark></a> 32</td><td>🐻<a href="../../monstres/carte-du-nord/citadelle-des-neiges/ours-de-glace.md"><mark style="color:blue;">Fragments de l'Âme de l'Ours</mark></a> 1</td></tr></tbody></table>
+{% endtab %}
 {% endtabs %}
