@@ -19,7 +19,7 @@ Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins 3 pièces ce cet
 
 ***
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques :</strong></td><td>❤️<mark style="color:red;">Santé</mark> 72 ↔ 85</td><td>🛡️Défense 2.5 ↔ 4.5</td><td></td><td align="center"><strong>Coût de Fabrication :</strong></td><td>🐢<a href="../../monstres/carte-du-sud/archipel-dika/ika.md"><mark style="color:green;">Carapaces d'Ika</mark></a> 43</td><td>🍮<a href="../../monstres/carte-du-sud/vallaht/petit-slime.md"><mark style="color:$success;">Gelées de Slime</mark></a> 23 </td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques :</strong></td><td>❤️<mark style="color:red;">Santé</mark> 72 ↔ 85</td><td>🛡️Défense 2.5 ↔ 4.5</td><td></td><td align="center"><strong>Coût de Fabrication :</strong></td><td>🐢<a href="../../monstres/carte-du-sud/archipel-dika/ika.md"><mark style="color:green;">Carapaces d'Ika</mark></a> 43</td><td>🍮<a href="../../monstres/carte-du-sud/vallaht/petit-slime.md"><mark style="color:$success;">Gelées de Slime</mark></a> 23 </td><td data-object-fit="contain"><a href="../../.gitbook/assets/Panoplie d&#x27;Ika.png">Panoplie d'Ika.png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Panoplie du Titan" %}

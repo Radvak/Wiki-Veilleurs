@@ -14,7 +14,7 @@ La panoplie est fabricable par le Forgeron d'Armure situé dans la [Ville de Dé
 
 ***
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques :</strong></td><td>❤️<mark style="color:red;">Santé</mark> 22 ↔ 32</td><td></td><td align="center"><strong>Coût de Fabrication :</strong></td><td>🐗<a href="../../monstres/carte-du-sud/zone-sanglier/sanglier-corrompu.md"><mark style="color:red;">Peaux de Sanglier</mark></a> 25 </td><td>🧱<mark style="color:orange;">Lingots de Cuivre</mark> 10 </td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th align="center"></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques :</strong></td><td>❤️<mark style="color:red;">Santé</mark> 22 ↔ 32</td><td></td><td align="center"><strong>Coût de Fabrication :</strong></td><td>🐗<a href="../../monstres/carte-du-sud/zone-sanglier/sanglier-corrompu.md"><mark style="color:red;">Peaux de Sanglier</mark></a> 25 </td><td>🧱<mark style="color:orange;">Lingots de Cuivre</mark> 10 </td><td data-object-fit="contain"><a href="../../.gitbook/assets/Panoplie du Débutant.png">Panoplie du Débutant.png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Bottes du Revenant" %}
