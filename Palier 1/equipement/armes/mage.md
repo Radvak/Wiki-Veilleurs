@@ -12,7 +12,7 @@
 L'arme est uniquement achetable par le Marchant situé dans la [Ville de Départ](../../carte/regions/ville-de-depart.md) (1790,4160) pour 75 Cols
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th align="center"></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 6.5</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 1/s</td><td align="center"><strong>Coût d'Achat :</strong></td><td>🪙<mark style="color:yellow;">Cols</mark> 75</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th align="center"></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 6.5</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 1/s</td><td align="center"><strong>Coût d'Achat :</strong></td><td>🪙<mark style="color:yellow;">Cols</mark> 75</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Bâton Médiocre Mage.png">Bâton Médiocre Mage.png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Bâton Sylvestre" %}
@@ -108,7 +108,7 @@ L'arme est fabricable par le Forgeron d'Arme situé à l'extérieur du [Donjon L
 L'arme est uniquement achetable par le Marchant situé dans la [Ville de Départ](../../carte/regions/ville-de-depart.md) (1790,4160) pour 25 Cols
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th align="center"></th><th align="center"></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🪄<mark style="color:purple;">Dégats Magique</mark> 2%</td><td>💧<mark style="color:blue;">Mana Max</mark> 5</td><td align="center"></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🪙<mark style="color:yellow;">Cols</mark> 25</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th align="center"></th><th align="center"></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🪄<mark style="color:purple;">Dégats Magique</mark> 2%</td><td>💧<mark style="color:blue;">Mana Max</mark> 5</td><td align="center"></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🪙<mark style="color:yellow;">Cols</mark> 25</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Grimoire Délié-Sauvage.png">Grimoire Délié-Sauvage.png</a></td></tr></tbody></table>
 
 {% hint style="warning" %}
 Les Grimoires sont un type d'Armes dédiés à la seconde Mains

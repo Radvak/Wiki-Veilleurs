@@ -36,7 +36,7 @@ L'arme est fabricable par le Forgeron d'Arme situé dans la [Ville de Départ](h
 L'arme est un butin des [Bandits Assassins](../../monstres/carte-du-sud/mine-de-geldorak/bandit-assassin.md) (?%)
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 25</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 1.2/s</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 25</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 1.2/s</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Dague de Bandit.png">Dague de Bandit.png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Dague Sombre" %}
