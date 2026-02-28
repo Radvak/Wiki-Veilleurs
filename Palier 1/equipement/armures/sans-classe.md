@@ -38,6 +38,6 @@ La paire de bottes est fabricable par le Forgeron d'Armure situé dans la [Ville
 La paire de bottes est obtenable après la Quête Principale "[Chasse aux Poissons Requin](../../quetes/quetes-principales/chasse-aux-poissons-requin.md)"
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques :</strong></td><td>🌊<mark style="color:blue;">Agilité aquatique</mark> 10</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques :</strong></td><td>🌊<mark style="color:blue;">Agilité aquatique</mark> 10</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Bottes d&#x27;Écume.png">Bottes d'Écume.png</a></td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
