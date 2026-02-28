@@ -15,6 +15,7 @@ icon: people-group
 
 * drabiot <mark style="color:$info;">Fondateur des Veilleurs</mark>
 * Radvak <mark style="color:$info;">Fondateur des Veilleurs</mark>
+* Dabrix
 
 ***
 
