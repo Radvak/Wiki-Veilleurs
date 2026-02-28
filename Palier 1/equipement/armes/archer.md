@@ -12,7 +12,7 @@
 L'arme est uniquement achetable par le Marchant situé dans la [Ville de Départ](../../carte/regions/ville-de-depart.md) (1790,4160) pour 100 Cols
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 3</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 1/s</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🪙<mark style="color:yellow;">Cols</mark> 100</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 3</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 1/s</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🪙<mark style="color:yellow;">Cols</mark> 100</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Arc Courbé.png">Arc Courbé.png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Arc Sylvestre" %}
@@ -67,7 +67,7 @@ L'arme est fabricable par le Forgeron d'Arme situé à l'extérieur du [Donjon L
 L'arme est un butin des [Bandits Archers](../../monstres/carte-du-sud/mine-de-geldorak/bandit-archer.md) (?%)
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 12</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 0.7/s</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 12</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 0.7/s</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Arbalète de Bandit.png">Arbalète de Bandit.png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Arbalète de Chasse" %}

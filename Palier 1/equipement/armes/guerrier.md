@@ -24,7 +24,7 @@ L'arme est uniquement achetable par le Marchant situé dans la [Ville de Départ
 L'arme est fabricable par le Forgeron d'Arme situé dans la [Ville de Départ](../../carte/regions/ville-de-depart.md) (1775,4135)
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 14 ↔ 16</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 1/s</td><td></td><td align="center"><strong>Coût de Fabrication :</strong></td><td>🦷<a href="../../monstres/carte-du-sud/vallee-des-loups/loups-sinistres.md"><mark style="color:$warning;">Crocs de Loup</mark></a> 5</td><td>🧱<mark style="color:orange;">Lingots de cuivre</mark> 10</td><td>🌳<mark style="color:green;">Buches de Chêne</mark> 8</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 14 ↔ 16</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 1/s</td><td></td><td align="center"><strong>Coût de Fabrication :</strong></td><td>🦷<a href="../../monstres/carte-du-sud/vallee-des-loups/loups-sinistres.md"><mark style="color:$warning;">Crocs de Loup</mark></a> 5</td><td>🧱<mark style="color:orange;">Lingots de cuivre</mark> 10</td><td>🌳<mark style="color:green;">Buches de Chêne</mark> 8</td><td></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Épée Osseuse" %}
@@ -36,7 +36,7 @@ L'arme est fabricable par le Forgeron d'Arme situé dans la [Ville de Départ](.
 L'arme est un butin des [Squelettes Épéistes](../../monstres/carte-du-sud/ruines-maudites/squelette-epeiste.md) (5%) et des [Guerriers Squelettes](../../monstres/carte-du-sud/ruines-maudites/guerrier-squelette.md) (7%)
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 17.5</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 1/s</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 17.5</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 1/s</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Épée Osseuse.png">Épée Osseuse.png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Épée Magique" %}
@@ -144,7 +144,7 @@ L'arme est uniquement achetable par le Marchant situé dans la [Ville de Départ
 L'arme est fabricable par le Forgeron d'Arme situé dans la Ville de Départ (1775,4135)
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>❤️<mark style="color:$danger;">Santé</mark> 4 ↔ 6</td><td>🛡️Défense 0.5 ↔ 0.8</td><td>🗡️<mark style="color:$danger;">Dégats</mark> 0.5</td><td align="center"></td><td align="center"><strong>Coût de Fabrication :</strong></td><td>🧱<mark style="color:orange;">Lingots de cuivre</mark> 8</td><td>🪵<a href="../../monstres/carte-du-sud/hanaka/guerrier-treant.md"><mark style="color:green;">Écorce de Titan</mark></a> 7</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th align="center"></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>❤️<mark style="color:$danger;">Santé</mark> 4 ↔ 6</td><td>🛡️Défense 0.5 ↔ 0.8</td><td>🗡️<mark style="color:$danger;">Dégats</mark> 0.5</td><td align="center"></td><td align="center"><strong>Coût de Fabrication :</strong></td><td>🧱<mark style="color:orange;">Lingots de cuivre</mark> 8</td><td>🪵<a href="../../monstres/carte-du-sud/hanaka/guerrier-treant.md"><mark style="color:green;">Écorce de Titan</mark></a> 7</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Bouclier Pointu en Bois.png">Bouclier Pointu en Bois.png</a></td></tr></tbody></table>
 
 {% hint style="warning" %}
 Les Boucliers sont un type d'Armes dédiés à la seconde Mains
