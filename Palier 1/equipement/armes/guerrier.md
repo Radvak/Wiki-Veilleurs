@@ -94,7 +94,7 @@ Les Boucliers sont un type d'Armes dédiés à la seconde Mains
 L'arme est un butin des [Guerriers Tréants](../../monstres/carte-du-sud/hanaka/guerrier-treant.md) (3%)
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>❤️<mark style="color:$danger;">Santé</mark> 15</td><td>🛡️Défense 1.7</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>❤️<mark style="color:$danger;">Santé</mark> 15</td><td>🛡️Défense 1.7</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Bouclier Sylvestre.png">Bouclier Sylvestre.png</a></td></tr></tbody></table>
 
 {% hint style="warning" %}
 Les Boucliers sont un type d'Armes dédiés à la seconde Mains
@@ -198,7 +198,7 @@ Les Armes d'hast sont le deuxième type d'arme d'un Guerrier et se manie à deux
 L'arme est un butin des [Gardiens Colossales](../../monstres/carte-du-sud/hanaka/gardien-colossal.md)
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 23</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 0.8/s</td><td>🏹<mark style="color:orange;">Distance d'Attaque</mark> 3.5</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 23</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 0.8/s</td><td>🏹<mark style="color:orange;">Distance d'Attaque</mark> 3.5</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Marteau du Colosse.png">Marteau du Colosse.png</a></td></tr></tbody></table>
 
 {% hint style="danger" %}
 Les Armes d'hast sont le deuxième type d'arme d'un Guerrier et se manie à deux mains
