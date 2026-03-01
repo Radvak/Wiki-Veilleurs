@@ -9,7 +9,7 @@
 **Niveau Requis pour Utiliser l'Arme** : Niveau 1
 
 {% hint style="info" %}
-L'arme est uniquement achetable par le Marchant situé dans la [Ville de Départ](../../carte/regions/ville-de-depart.md) (1790,4160) pour 100 Cols
+L'arme est uniquement achetable par le [Marchant](../../carte/personnages/marchands.md#ville-de-depart) situé dans la [Ville de Départ](../../carte/regions/ville-de-depart.md) (1790,4160) pour 100 Cols
 {% endhint %}
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 3</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 1/s</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🪙<mark style="color:yellow;">Cols</mark> 100</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Arc Courbé.png">Arc Courbé.png</a></td></tr></tbody></table>
@@ -21,7 +21,7 @@ L'arme est uniquement achetable par le Marchant situé dans la [Ville de Départ
 **Niveau Requis pour Utiliser l'Arme** : Niveau 3
 
 {% hint style="info" %}
-L'arme est fabricable par le Forgeron d'Arme situé dans la [Ville de Départ](../../carte/regions/ville-de-depart.md) (1775,4135)\
+L'arme est fabricable par le [Forgeron d'Arme](../../carte/personnages/forgerons.md#arme) situé dans la [Ville de Départ](../../carte/regions/ville-de-depart.md) (1775,4135)\
 De plus l'arme peut être obtenue en buton des [Tréants d'Élites](../../monstres/carte-du-sud/hanaka/treant-elite.md) (2%)
 {% endhint %}
 
@@ -34,7 +34,7 @@ De plus l'arme peut être obtenue en buton des [Tréants d'Élites](../../monstr
 **Niveau Requis pour Utiliser l'Arme** : Niveau 7
 
 {% hint style="info" %}
-L'arme est fabricable par le Forgeron d'Arme situé à [Tolbana](https://guilde-sao.gitbook.io/guilde-sao-docs/palier-1/carte/regions/tolbana) (3230,1490)
+L'arme est fabricable par le [Forgeron d'Arme](../../carte/personnages/forgerons.md#arme-1) situé à [Tolbana](https://guilde-sao.gitbook.io/guilde-sao-docs/palier-1/carte/regions/tolbana) (3230,1490)
 {% endhint %}
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 10 ↔ 13</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 1/s</td><td></td><td align="center"><strong>Coût de Fabrication :</strong></td><td>🦈<a href="../../monstres/carte-du-nord/virelune/poisson-requin.md"><mark style="color:$warning;">Carapaces de Requin</mark></a> 18</td><td>🧊<a href="../../monstres/carte-du-nord/citadelle-des-neiges/golem-de-glace.md"><mark style="color:blue;">Peaux dur Glacial</mark></a> 24</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Arc de Chasse.png">Arc de Chasse.png</a></td></tr></tbody></table>
@@ -46,7 +46,7 @@ L'arme est fabricable par le Forgeron d'Arme situé à [Tolbana](https://guilde-
 **Niveau Requis pour Utiliser l'Arme** : Niveau 9
 
 {% hint style="info" %}
-L'arme est fabricable par le Forgeron d'Arme situé à l'extérieur du [Donjon Labyrinthe des Déchus](../../carte/donjons/donjon-labyrinthe-des-dechus.md) (2383,2410)
+L'arme est fabricable par le [Forgeron d'Arme](../../carte/personnages/forgerons.md#donjon) situé à l'extérieur du [Donjon Labyrinthe des Déchus](../../carte/donjons/donjon-labyrinthe-des-dechus.md) (2383,2410)
 {% endhint %}
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th align="center"></th><th align="center"></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 14 ↔ 16</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 1/s ↔ 1.1/s</td><td align="center"></td><td align="center"><strong>Coût de Fabrication :</strong></td><td>🪨<mark style="color:$info;">Lingots de Métal Enchanté</mark> 20</td><td>☀️<mark style="color:yellow;">Fragments Cassé Jaune</mark> 12</td><td>🪢<mark style="color:$info;">Fils d'Araignée renforcé</mark> 7</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Arc du Fallen.png">Arc du Fallen.png</a></td></tr></tbody></table>
@@ -76,7 +76,7 @@ L'arme est un butin des [Bandits Archers](../../monstres/carte-du-sud/mine-de-ge
 **Niveau Requis pour Utiliser l'Arme** : Niveau 7
 
 {% hint style="info" %}
-L'arme est fabricable par le Forgeron d'Arme situé à [Tolbana](https://guilde-sao.gitbook.io/guilde-sao-docs/palier-1/carte/regions/tolbana) (3230,1490)
+L'arme est fabricable par le [Forgeron d'Arme](../../carte/personnages/forgerons.md#arme-1) situé à [Tolbana](https://guilde-sao.gitbook.io/guilde-sao-docs/palier-1/carte/regions/tolbana) (3230,1490)
 {% endhint %}
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 15 ↔ 19</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 0.7/s</td><td></td><td align="center"><strong>Coût de Fabrication :</strong></td><td>🦈<a href="../../monstres/carte-du-nord/virelune/poisson-requin.md"><mark style="color:$warning;">Carapaces de Requin</mark></a> 18</td><td>🧊<a href="../../monstres/carte-du-nord/citadelle-des-neiges/golem-de-glace.md"><mark style="color:blue;">Peaux dur Glacial</mark></a> 24</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Arbalète de Chasse.png">Arbalète de Chasse.png</a></td></tr></tbody></table>

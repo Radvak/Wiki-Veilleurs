@@ -9,7 +9,7 @@
 **Niveau Requis pour Utiliser l'Arme** : Niveau 1
 
 {% hint style="info" %}
-L'arme est uniquement achetable par le Marchant situé dans la [Ville de Départ](../../carte/regions/ville-de-depart.md) (1790,4160) pour 75 Cols
+L'arme est uniquement achetable par le [Marchant](../../carte/personnages/marchands.md#ville-de-depart) situé dans la [Ville de Départ](../../carte/regions/ville-de-depart.md) (1790,4160) pour 75 Cols
 {% endhint %}
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 12</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 1/s</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🪙<mark style="color:yellow;">Cols</mark> 75</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Épée d&#x27;Entrainement.png">Épée d'Entrainement.png</a></td></tr></tbody></table>
@@ -21,7 +21,7 @@ L'arme est uniquement achetable par le Marchant situé dans la [Ville de Départ
 **Niveau Requis pour Utiliser l'Arme** : Niveau 3
 
 {% hint style="info" %}
-L'arme est fabricable par le Forgeron d'Arme situé dans la [Ville de Départ](../../carte/regions/ville-de-depart.md) (1775,4135)
+L'arme est fabricable par le [Forgeron d'Arme](../../carte/personnages/forgerons.md#arme) situé dans la [Ville de Départ](../../carte/regions/ville-de-depart.md) (1775,4135)
 {% endhint %}
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 14 ↔ 16</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 1/s</td><td></td><td align="center"><strong>Coût de Fabrication :</strong></td><td>🦷<a href="../../monstres/carte-du-sud/vallee-des-loups/loups-sinistres.md"><mark style="color:$warning;">Crocs de Loup</mark></a> 5</td><td>🧱<mark style="color:orange;">Lingots de cuivre</mark> 10</td><td>🌳<mark style="color:green;">Buches de Chêne</mark> 8</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Épée en Fer.png">Épée en Fer.png</a></td></tr></tbody></table>
@@ -45,7 +45,7 @@ L'arme est un butin des [Squelettes Épéistes](../../monstres/carte-du-sud/ruin
 **Niveau Requis pour Utiliser l'Arme** : Niveau 7
 
 {% hint style="info" %}
-L'arme est fabricable par le Forgeron d'Arme situé à [Tolbana](../../carte/regions/tolbana.md) (3230,1490)
+L'arme est fabricable par le [Forgeron d'Arme](../../carte/personnages/forgerons.md#arme-1) situé à [Tolbana](../../carte/regions/tolbana.md) (3230,1490)
 {% endhint %}
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 18 ↔ 20 </td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 1.1/s</td><td></td><td align="center"><strong>Coût de Fabrication :</strong></td><td>🦈<a href="../../monstres/carte-du-nord/virelune/poisson-requin.md"><mark style="color:$warning;">Carapaces de Requin</mark></a> 18 <br>🧊<a href="../../monstres/carte-du-nord/citadelle-des-neiges/golem-de-glace.md"><mark style="color:blue;">Peaux dur Glacial</mark></a> 24</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Épée Magique.png">Épée Magique.png</a></td></tr></tbody></table>
@@ -57,7 +57,7 @@ L'arme est fabricable par le Forgeron d'Arme situé à [Tolbana](../../carte/reg
 **Niveau Requis pour Utiliser l'Arme** : Niveau 9
 
 {% hint style="info" %}
-L'arme est fabricable par le Forgeron d'Arme situé à l'extérieur du [Donjon Labyrinthe des Déchus](../../carte/donjons/donjon-labyrinthe-des-dechus.md) (2383,2410)
+L'arme est fabricable par le [Forgeron d'Arme](../../carte/personnages/forgerons.md#donjon) situé à l'extérieur du [Donjon Labyrinthe des Déchus](../../carte/donjons/donjon-labyrinthe-des-dechus.md) (2383,2410)
 {% endhint %}
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th align="center"></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 20 ↔ 24 </td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 1.1/s</td><td>🎯<mark style="color:$warning;">Chance Coups Critique</mark> 8% ↔ 12%</td><td align="center"></td><td align="center"><strong>Coût de Fabrication :</strong></td><td>🪨<mark style="color:$info;">Lingots de Métal Enchanté</mark> 25</td><td>☀️<mark style="color:$warning;">Fragments Cassé Jaune</mark> 30</td><td>🟡<mark style="color:$warning;">Âme de l'Herald</mark> 1</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Épée du Gardien.png">Épée du Gardien.png</a></td></tr></tbody></table>
@@ -75,7 +75,7 @@ L'arme est fabricable par le Forgeron d'Arme situé à l'extérieur du [Donjon L
 **Niveau Requis pour Utiliser l'Arme** : Niveau 3
 
 {% hint style="info" %}
-L'arme est fabricable par le Forgeron d'Arme situé dans la Ville de Départ (1775,4135)
+L'arme est fabricable par le [Forgeron d'Arme](../../carte/personnages/forgerons.md#arme) situé dans la Ville de Départ (1775,4135)
 {% endhint %}
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th align="center"></th><th align="center"></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>❤️<mark style="color:$danger;">Santé</mark> 8 ↔ 12</td><td>🛡️Défense 1 ↔ 1.5</td><td align="center"></td><td align="center"><strong>Coût de Fabrication :</strong></td><td>🐢<a href="../../monstres/carte-du-sud/archipel-dika/ika.md"><mark style="color:$success;">Carapaces d'Ika</mark></a> 12</td><td>🪵<a href="../../monstres/carte-du-sud/hanaka/guerrier-treant.md"><mark style="color:green;">Écorce de Titan</mark></a> 7</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Bouclier Ika.png">Bouclier Ika.png</a></td></tr></tbody></table>
@@ -107,7 +107,7 @@ Les Boucliers sont un type d'Armes dédiés à la seconde Mains
 **Niveau Requis pour Utiliser l'Arme** : Niveau 7
 
 {% hint style="info" %}
-L'arme est fabricable par le Forgeron d'Arme situé à [Tolbana](../../carte/regions/tolbana.md) (3230,1490)
+L'arme est fabricable par le [Forgeron d'Arme](../../carte/personnages/forgerons.md#arme-1) situé à [Tolbana](../../carte/regions/tolbana.md) (3230,1490)
 {% endhint %}
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>❤️<mark style="color:$danger;">Santé</mark> 16 ↔ 20</td><td>🛡️Défense 1.9 ↔ 2.1</td><td></td><td align="center"><strong>Coût de Fabrication :</strong></td><td>🦈<a href="../../monstres/carte-du-nord/virelune/poisson-requin.md"><mark style="color:$warning;">Carapaces de Requin</mark></a> 24 </td><td>🧊<a href="../../monstres/carte-du-nord/citadelle-des-neiges/golem-de-glace.md"><mark style="color:blue;">Peaux dur Glacial</mark></a> 30</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Bouclier Résistant Tolbana.png">Bouclier Résistant Tolbana.png</a></td></tr></tbody></table>
@@ -129,7 +129,7 @@ Les Boucliers sont un type d'Armes dédiés à la seconde Mains
 **Niveau Requis pour Utiliser l'Arme** : Niveau 1
 
 {% hint style="info" %}
-L'arme est uniquement achetable par le Marchant situé dans la [Ville de Départ](../../carte/regions/ville-de-depart.md) (1790,4160) pour 25 Cols
+L'arme est uniquement achetable par le [Marchant](../../carte/personnages/marchands.md#ville-de-depart) situé dans la [Ville de Départ](../../carte/regions/ville-de-depart.md) (1790,4160) pour 25 Cols
 {% endhint %}
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th align="center"></th><th align="center"></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>❤️<mark style="color:$danger;">Santé</mark> 5</td><td align="center"></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🪙<mark style="color:yellow;">Cols</mark> 25</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Bouclier de Pacotille.png">Bouclier de Pacotille.png</a></td></tr></tbody></table>
@@ -141,7 +141,7 @@ L'arme est uniquement achetable par le Marchant situé dans la [Ville de Départ
 **Niveau Requis pour Utiliser l'Arme** : Niveau 3
 
 {% hint style="info" %}
-L'arme est fabricable par le Forgeron d'Arme situé dans la Ville de Départ (1775,4135)
+L'arme est fabricable par le [Forgeron d'Arme](../../carte/personnages/forgerons.md#arme) situé dans la Ville de Départ (1775,4135)
 {% endhint %}
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th align="center"></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>❤️<mark style="color:$danger;">Santé</mark> 4 ↔ 6</td><td>🛡️Défense 0.5 ↔ 0.8</td><td>🗡️<mark style="color:$danger;">Dégats</mark> 0.5</td><td align="center"></td><td align="center"><strong>Coût de Fabrication :</strong></td><td>🧱<mark style="color:orange;">Lingots de cuivre</mark> 8</td><td>🪵<a href="../../monstres/carte-du-sud/hanaka/guerrier-treant.md"><mark style="color:green;">Écorce de Titan</mark></a> 7</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Bouclier Pointu en Bois.png">Bouclier Pointu en Bois.png</a></td></tr></tbody></table>
@@ -157,7 +157,7 @@ Les Boucliers sont un type d'Armes dédiés à la seconde Mains
 **Niveau Requis pour Utiliser l'Arme** : Niveau 7
 
 {% hint style="info" %}
-L'arme est fabricable par le Forgeron d'Arme situé à [Tolbana](../../carte/regions/tolbana.md) (3230,1490)
+L'arme est fabricable par le [Forgeron d'Arme](../../carte/personnages/forgerons.md#arme-1) situé à [Tolbana](../../carte/regions/tolbana.md) (3230,1490)
 {% endhint %}
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th align="center"></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>❤️<mark style="color:$danger;">Santé</mark> 8 ↔ 12</td><td>🛡️Défense 1.2 ↔ 1.4</td><td>🗡️<mark style="color:$danger;">Dégâts</mark> 2</td><td align="center"></td><td align="center"><strong>Coût de Fabrication :</strong></td><td>🦈<a href="../../monstres/carte-du-nord/virelune/poisson-requin.md"><mark style="color:$warning;">Carapaces de Requin</mark></a> 24 </td><td>🧊<a href="../../monstres/carte-du-nord/citadelle-des-neiges/golem-de-glace.md"><mark style="color:blue;">Peaux dur Glacial</mark></a> 30</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Bouclier Puissant Tolbana.png">Bouclier Puissant Tolbana.png</a></td></tr></tbody></table>
@@ -179,7 +179,7 @@ Les Boucliers sont un type d'Armes dédiés à la seconde Mains
 **Niveau Requis pour Utiliser l'Arme** : Niveau 3
 
 {% hint style="info" %}
-L'arme est fabricable par le Forgeron d'Arme situé dans la [Ville de Départ](../../carte/regions/ville-de-depart.md) (1775,4135)
+L'arme est fabricable par le [Forgeron d'Arme](../../carte/personnages/forgerons.md#arme) situé dans la [Ville de Départ](../../carte/regions/ville-de-depart.md) (1775,4135)
 {% endhint %}
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th></th><th align="center"></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 17 ↔ 19</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 0.9/s</td><td>🏹<mark style="color:orange;">Distance d'Attaque</mark> 3.5</td><td></td><td align="center"><strong>Coût de Fabrication :</strong></td><td>🦷<a href="../../monstres/carte-du-sud/vallee-des-loups/loups-sinistres.md"><mark style="color:$warning;">Crocs de Loup</mark></a> 5</td><td>🧱<mark style="color:orange;">Lingots de cuivre</mark> 10</td><td>🌳<mark style="color:green;">Buches de Chêne</mark> 8</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Hache Double en Fer.png">Hache Double en Fer.png</a></td></tr></tbody></table>
@@ -211,7 +211,7 @@ Les Armes d'hast sont le deuxième type d'arme d'un Guerrier et se manie à deux
 **Niveau Requis pour Utiliser l'Arme** : Niveau 7
 
 {% hint style="info" %}
-L'arme est fabricable par le Forgeron d'Arme situé à Tolbana (3230,1490)
+L'arme est fabricable par le [Forgeron d'Arme](../../carte/personnages/forgerons.md#arme-1) situé à Tolbana (3230,1490)
 {% endhint %}
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th></th><th align="center"></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 25 ↔ 30</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 0.8/s</td><td>🏹<mark style="color:orange;">Distance d'Attaque</mark> 3.5</td><td></td><td align="center"><strong>Coût de Fabrication :</strong></td><td>🦈<a href="../../monstres/carte-du-nord/virelune/poisson-requin.md"><mark style="color:$warning;">Carapaces de Requin</mark></a> 18</td><td>🧊<a href="../../monstres/carte-du-nord/citadelle-des-neiges/golem-de-glace.md"><mark style="color:blue;">Peaux dur Glacial</mark></a> 24</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Marteau Magique.png">Marteau Magique.png</a></td></tr></tbody></table>

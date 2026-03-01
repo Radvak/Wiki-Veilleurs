@@ -7,7 +7,7 @@
 **Niveau Requis pour Utiliser l'Accessoire** : Niveau 5
 
 {% hint style="info" %}
-L'accessoire est obtenable ?
+L'accessoire peut être obtenue après avoir réussi le [Donjon Geldorak](../../carte/donjons/donjon-geldorak.md) (?% de chance)
 {% endhint %}
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>❤️<mark style="color:$danger;">Santé</mark> 10</td><td>💧<mark style="color:blue;">Mana Max</mark> 10</td><td>👟<mark style="color:yellow;">Stamina Max</mark> 5</td></tr></tbody></table>
@@ -19,7 +19,7 @@ L'accessoire est obtenable ?
 **Niveau Requis pour Utiliser l'Accessoire** : Niveau 7
 
 {% hint style="info" %}
-L'accessoire est fabricable par le Forgeron Accessoire situé dans la [Ville de Départ](../../carte/regions/ville-de-depart.md) (1787,4697)
+L'accessoire est fabricable par le [Forgeron Accessoire de Cuivre](../../carte/personnages/forgerons.md#accessoires-cuivre) situé dans la [Ville de Départ](../../carte/regions/ville-de-depart.md) (1787,4697)
 {% endhint %}
 
 {% hint style="success" %}

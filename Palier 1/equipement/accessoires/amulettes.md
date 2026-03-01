@@ -7,7 +7,7 @@
 **Niveau Requis pour Utiliser l'Accessoire** : Niveau 5
 
 {% hint style="info" %}
-L'accessoire est fabricable par le Forgeron Accessoire situé dans la [Ville de Départ](../../carte/regions/ville-de-depart.md) (1787,4697)
+L'accessoire est fabricable par le [Forgeron Accessoire de Cuivre](../../carte/personnages/forgerons.md#accessoires-cuivre) situé dans la [Ville de Départ](../../carte/regions/ville-de-depart.md) (1787,4697)
 {% endhint %}
 
 {% hint style="success" %}
