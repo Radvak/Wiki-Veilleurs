@@ -39,7 +39,7 @@ L'outil est obtenable dans n'importe lequel des [Marchands d'Outils](../carte/pe
 <table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Coût d'Achat :</strong></td><td>🪙<mark style="color:yellow;">Cols</mark> 20</td><td data-object-fit="contain"><a href="../.gitbook/assets/Hache Ébréchée.png">Hache Ébréchée.png</a></td></tr></tbody></table>
 {% endtab %}
 
-{% tab title="undefined" %}
+{% tab title="Hache en Métal" %}
 {% hint style="info" %}
 L'outil est fabricable par le [Forgeron](../carte/personnages/forgerons.md#donjon) situé devant le [Donjon Labyrinthe des Déchus](../carte/donjons/donjon-labyrinthe-des-dechus.md) (2415,2373)
 {% endhint %}
