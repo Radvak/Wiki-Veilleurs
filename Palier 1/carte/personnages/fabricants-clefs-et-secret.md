@@ -54,6 +54,14 @@ Situé devant l'Entrée du [Donjon de Xal'Zirith](../donjons/donjon-xalzirith.md
 | ------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-------------------: |
 | 🕷️ [Clé de Xal'Zirith](../donjons/donjon-xalzirith.md) | <p>🕸️ <a href="../../monstres/carte-du-nord/arakhnol/araignees-des-forets.md"><mark style="color:$info;">Tissu D'araignée</mark></a> 20<br>🧶 <a href="../../monstres/carte-du-nord/arakhnol/araignees-des-forets.md">Fil d'Araignée</a> 25</p> |       3 minutes       |
 {% endtab %}
+
+{% tab title="Tour du Kobold" %}
+{% hint style="info" %}
+Situé devant l'Entrée du [Donjon Kobold](../donjons/donjon-kokolb.md) aux Cordonnées (3416,1078)
+{% endhint %}
+
+<table><thead><tr><th width="232" align="right">Clef</th><th>Coût</th><th align="center">Temps de Construction</th></tr></thead><tbody><tr><td align="right">📜 <a href="../donjons/donjon-kokolb.md"><mark style="color:yellow;">Parchemin de Sceau Complet</mark></a></td><td>📜 <mark style="color:yellow;">Parchemin Incomplet</mark> 1<br>🥥 <a href="../../monstres/carte-du-sud/vallaht/slime-soigneur.md"><mark style="color:green;">Noyau de Slime</mark></a> 4<br>🦴 <a href="../../monstres/carte-du-sud/ruines-maudites/squelette-epeiste.md">Os de Squelette</a> 64<br>💎 <a href="../../monstres/carte-du-sud/zone-sanglier/sanglier-corrompu.md"><mark style="color:purple;">Cristal Corrompu</mark></a> 64<br>🏾 <a href="../../monstres/carte-du-sud/mine-de-geldorak/bandit-robuste.md"><mark style="color:orange;">Cuir Usé</mark></a> 16<br>❄️ <a href="../../monstres/carte-du-nord/citadelle-des-neiges/spirite-de-glace.md">Poussière de Givre</a> 16<br>🧻 <a href="../../monstres/carte-du-sud/hanaka/mage-sylvestre.md"><mark style="color:$tint;">Tissu Spectral</mark></a> 16<br>🐢 <a href="../../monstres/carte-du-sud/archipel-dika/ika.md"><mark style="color:green;">Carapace d'Ika</mark></a> 16<br>🦷 <a href="../../monstres/carte-du-sud/vallee-des-loups/loups-sinistres.md"><mark style="color:$warning;">Crocs de Loups</mark></a> 32</td><td align="center">5 minutes</td></tr></tbody></table>
+{% endtab %}
 {% endtabs %}
 
 <h2 align="center">❓ Fabricants Secret</h2>
