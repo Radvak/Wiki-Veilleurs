@@ -62,6 +62,18 @@ L'arme est fabricable par le [Forgeron d'Arme](../../carte/personnages/forgerons
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th align="center"></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 20 ↔ 24 </td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 1.1/s</td><td>🎯<mark style="color:$warning;">Chance Coups Critique</mark> 8% ↔ 12%</td><td align="center"></td><td align="center"><strong>Coût de Fabrication :</strong></td><td>🪨<mark style="color:$info;">Lingots de Métal Enchanté</mark> 25</td><td>☀️<mark style="color:$warning;">Fragments Cassé Jaune</mark> 30</td><td>🟡<mark style="color:$warning;">Âme de l'Herald</mark> 1</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Épée du Gardien.png">Épée du Gardien.png</a></td></tr></tbody></table>
 {% endtab %}
+
+{% tab title="Nodachi" %}
+> _"Longue épée ayant appartenu à Illfang the Kobold Lord. Ce n'est toutefois qu'une relique mythique"_
+
+**Niveau Requis pour Utiliser l'Arme** : Niveau 10
+
+{% hint style="info" %}
+L'arme peut être obtenue après avoir réussi le [Donjon Kobold](../../carte/donjons/donjon-kokolb.md) (?% de chance)
+{% endhint %}
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 45</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 1.2/s</td><td>🎯<mark style="color:$warning;">Chance Coups Critique</mark> 10%</td><td>🎯<mark style="color:$warning;">Dégâts Coups Critique</mark> 10%</td><td>🏹<mark style="color:orange;">Distance d'Attaque</mark> 3.5</td><td></td></tr></tbody></table>
+{% endtab %}
 {% endtabs %}
 
 ***
@@ -166,6 +178,22 @@ L'arme est fabricable par le [Forgeron d'Arme](../../carte/personnages/forgerons
 Les Boucliers sont un type d'Armes dédiés à la seconde Mains
 {% endhint %}
 {% endtab %}
+
+{% tab title="Bouclier de Illfang" %}
+> _"Érodé par le temps et la poussière, ce bouclier était perdu à travers le temps et les dimensions"_
+
+**Niveau Requis pour Utiliser l'Arme** : Niveau 10
+
+{% hint style="info" %}
+L'arme peut être obtenue après avoir réussi le [Donjon Kobold](../../carte/donjons/donjon-kokolb.md) (?% de chance)
+{% endhint %}
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>❤️<mark style="color:$danger;">Santé</mark> 45</td><td>🛡️Défense 5</td><td></td></tr></tbody></table>
+
+{% hint style="warning" %}
+Les Boucliers sont un type d'Armes dédiés à la seconde Mains
+{% endhint %}
+{% endtab %}
 {% endtabs %}
 
 ***
@@ -215,6 +243,38 @@ L'arme est fabricable par le [Forgeron d'Arme](../../carte/personnages/forgerons
 {% endhint %}
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th></th><th align="center"></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 25 ↔ 30</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 0.8/s</td><td>🏹<mark style="color:orange;">Distance d'Attaque</mark> 3.5</td><td></td><td align="center"><strong>Coût de Fabrication :</strong></td><td>🦈<a href="../../monstres/carte-du-nord/virelune/poisson-requin.md"><mark style="color:$warning;">Carapaces de Requin</mark></a> 18</td><td>🧊<a href="../../monstres/carte-du-nord/citadelle-des-neiges/golem-de-glace.md"><mark style="color:blue;">Peaux dur Glacial</mark></a> 24</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Marteau Magique.png">Marteau Magique.png</a></td></tr></tbody></table>
+
+{% hint style="danger" %}
+Les Armes d'hast sont le deuxième type d'arme d'un Guerrier et se manie à deux mains
+{% endhint %}
+{% endtab %}
+
+{% tab title="Hallebarde Royale" %}
+> _"Hallebarde d'un seigneur déchu anciennement grand guerrier dans l'Aincrad et dans tout The Seed"_
+
+**Niveau Requis pour Utiliser l'Arme** : Niveau 10
+
+{% hint style="info" %}
+L'arme est un butin de [Smough, Dévastateur Déchu](../../monstres/carte-du-sud/donjon-labyrinthe-des-dechus/smough-devastateur-dechu.md) (1%)
+{% endhint %}
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 35</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 0.7/s</td><td>🏹<mark style="color:orange;">Distance d'Attaque</mark> 3.5</td><td></td></tr></tbody></table>
+
+{% hint style="danger" %}
+Les Armes d'hast sont le deuxième type d'arme d'un Guerrier et se manie à deux mains
+{% endhint %}
+{% endtab %}
+
+{% tab title="Hache de Illfang" %}
+> _"Longue et lourde hache du puissant boss palier :_ _Illfang the Kobold Lord !"_
+
+**Niveau Requis pour Utiliser l'Arme** : Niveau 10
+
+{% hint style="info" %}
+L'arme peut être obtenue après avoir réussi le [Donjon Kobold](../../carte/donjons/donjon-kokolb.md) (?% de chance)
+{% endhint %}
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 60</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 0.7/s</td><td>🏹<mark style="color:orange;">Distance d'Attaque</mark> 3.5</td><td></td></tr></tbody></table>
 
 {% hint style="danger" %}
 Les Armes d'hast sont le deuxième type d'arme d'un Guerrier et se manie à deux mains

@@ -81,4 +81,16 @@ L'arme est fabricable par le [Forgeron d'Arme](../../carte/personnages/forgerons
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 15 ↔ 19</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 0.7/s</td><td></td><td align="center"><strong>Coût de Fabrication :</strong></td><td>🦈<a href="../../monstres/carte-du-nord/virelune/poisson-requin.md"><mark style="color:$warning;">Carapaces de Requin</mark></a> 18</td><td>🧊<a href="../../monstres/carte-du-nord/citadelle-des-neiges/golem-de-glace.md"><mark style="color:blue;">Peaux dur Glacial</mark></a> 24</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Arbalète de Chasse.png">Arbalète de Chasse.png</a></td></tr></tbody></table>
 {% endtab %}
+
+{% tab title="Arbalète de Cendre" %}
+> _"Forgé dans les ruines d'un ancien fort de guerre, elle tremble encore de ces anciens combats"_
+
+**Niveau Requis pour Utiliser l'Arme** : Niveau 10
+
+{% hint style="info" %}
+L'arme peut être obtenue après avoir réussi le [Donjon Labyrinthe des Déchus](../../carte/donjons/donjon-labyrinthe-des-dechus.md) (?% de chance)
+{% endhint %}
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 23.5</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 0.7/s</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Abalète de Cendre.png">Abalète de Cendre.png</a></td></tr></tbody></table>
+{% endtab %}
 {% endtabs %}

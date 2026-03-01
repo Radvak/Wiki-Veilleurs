@@ -62,6 +62,18 @@ L'arme est fabricable par le [Forgeron d'Arme](../../carte/personnages/forgerons
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th align="center"></th><th align="center"></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 21.5 ↔ 24.5</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 1/s</td><td align="center"></td><td align="center"><strong>Coût de Fabrication :</strong></td><td>🪨<mark style="color:$info;">Lingots de Métal Enchanté</mark> 20</td><td>🫐<mark style="color:purple;">Fragments Cassé Violet</mark> 26</td><td>🌿<a href="../../monstres/carte-du-sud/hanaka/mage-sylvestre.md"><mark style="color:red;">B</mark></a><a href="../../monstres/carte-du-sud/hanaka/mage-sylvestre.md"><mark style="color:red;">rindilles Enchantées</mark></a> 6</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Bâton Obscur Mage.png">Bâton Obscur Mage.png</a></td></tr></tbody></table>
 {% endtab %}
+
+{% tab title="Bâton Nodachi" %}
+> _"Bâton très puissant, forgé grâce à la puissance d'Illfang et à des minerais rares. Ce n'est toutefois plus qu'une relique pour le moment"_
+
+**Niveau Requis pour Utiliser l'Arme** : Niveau 11
+
+{% hint style="info" %}
+L'arme peut être obtenue après avoir réussi le [Donjon Kobold](../../carte/donjons/donjon-kokolb.md) (?% de chance)
+{% endhint %}
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 50</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 1/s</td><td>📖<mark style="color:purple;">Compétence</mark> <mark style="color:purple;">Chance Critique</mark> 15%</td><td></td></tr></tbody></table>
+{% endtab %}
 {% endtabs %}
 
 ***
