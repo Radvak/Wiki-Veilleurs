@@ -7,7 +7,7 @@
 **Niveau Requis pour Porter l'Armure** : Niveau 3
 
 {% hint style="info" %}
-La panoplie est fabricable par le Forgeron d'Armure situé dans la [Ville de Départ](../../carte/regions/ville-de-depart.md) (1760,4145)
+La panoplie est fabricable par le [Forgeron d'Armure](../../carte/personnages/forgerons.md#armure) situé dans la [Ville de Départ](../../carte/regions/ville-de-depart.md) (1760,4145)
 {% endhint %}
 
 <table data-full-width="true"><thead><tr><th>Pièces d'Équipements</th><th>Statistiques</th><th>Matériaux de Fabrication</th><th>Temps de Fabrication</th></tr></thead><tbody><tr><td>Tunique Tactique</td><td>❤️<mark style="color:red;">Santé</mark> 15 ↔ 19<br>🛡️Défense 0.4</td><td>18 <a href="../../monstres/carte-du-sud/mine-de-geldorak/bandit-assassin.md">Cuirs Usés</a><br>10 <a href="../../monstres/carte-du-sud/hanaka/mage-sylvestre.md">Tissus Spectraux</a></td><td>10 Secondes</td></tr><tr><td>Jambières Tactique</td><td>❤️<mark style="color:red;">Santé</mark> 13 ↔ 17<br>🛡️Défense 0.4</td><td>15 <a href="../../monstres/carte-du-sud/mine-de-geldorak/bandit-assassin.md">Cuirs Usés</a><br>8 <a href="../../monstres/carte-du-sud/hanaka/mage-sylvestre.md">Tissus Spectraux</a></td><td>10 Secondes</td></tr><tr><td>Bottes Tactique</td><td>❤️<mark style="color:red;">Santé</mark> 10 ↔ 13<br>🛡️Défense 0.3</td><td>10 <a href="../../monstres/carte-du-sud/mine-de-geldorak/bandit-assassin.md">Cuirs Usés</a><br>5 <a href="../../monstres/carte-du-sud/hanaka/mage-sylvestre.md">Tissus Spectraux</a></td><td>10 Secondes</td></tr></tbody></table>
@@ -29,7 +29,7 @@ Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins 3 pièces ce cet
 **Niveau Requis pour Porter l'Armure** : Niveau 7
 
 {% hint style="info" %}
-La panoplie est fabricable par le Forgeron d'Armure situé à [Tolbana](../../carte/regions/tolbana.md) (3240,1480)
+La panoplie est fabricable par le [Forgeron d'Armure](../../carte/personnages/forgerons.md#armure-1) situé à [Tolbana](../../carte/regions/tolbana.md) (3240,1480)
 {% endhint %}
 
 <table data-full-width="true"><thead><tr><th>Pièces d'Équipements</th><th>Statistiques</th><th>Matériaux de Fabrication</th><th>Temps de Fabrication</th></tr></thead><tbody><tr><td>Robe du Magicien</td><td>❤️<mark style="color:red;">Santé</mark> 27 ↔ 32<br>🛡️Défense 1.5 ↔ 2.3</td><td>18 <a href="../../monstres/carte-du-nord/tolbana/cerf-des-montagnes.md">Peaux de Cerf des Montagnes</a><br>20 <a href="../../monstres/carte-du-nord/arakhnol/araignees-des-forets.md">Tissus d'Araignée</a></td><td>10 Secondes</td></tr><tr><td>Jambières du Magicien</td><td>❤️<mark style="color:red;">Santé</mark> 20 ↔ 24<br>🛡️Défense 0.9 ↔ 1.4</td><td>18 <a href="../../monstres/carte-du-nord/tolbana/cerf-des-montagnes.md">Peaux de Cerf des Montagnes</a><br>15 <a href="../../monstres/carte-du-nord/arakhnol/araignees-des-forets.md">Tissus d'Araignée</a></td><td>10 Secondes</td></tr><tr><td>Sandales du Magicien</td><td>❤️<mark style="color:red;">Santé</mark> 14 ↔ 18.72<br>🛡️Défense 0.7 ↔ 0.9</td><td>18 <a href="../../monstres/carte-du-nord/tolbana/cerf-des-montagnes.md">Peaux de Cerf des Montagnes</a><br>12 <a href="../../monstres/carte-du-nord/arakhnol/araignees-des-forets.md">Tissus d'Araignée</a></td><td>10 Secondes</td></tr></tbody></table>

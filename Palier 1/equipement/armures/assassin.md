@@ -7,7 +7,7 @@
 **Niveau Requis pour Porter l'Armure** : Niveau 3
 
 {% hint style="info" %}
-La panoplie est fabricable par le Forgeron d'Armure situé dans la [Ville de Départ](../../carte/regions/ville-de-depart.md) (1760,4145)
+La panoplie est fabricable par le [Forgeron d'Armure](../../carte/personnages/forgerons.md#armure) situé dans la [Ville de Départ](../../carte/regions/ville-de-depart.md) (1760,4145)
 {% endhint %}
 
 <table data-full-width="true"><thead><tr><th>Pièces d'Équipements</th><th>Statistiques</th><th>Matériaux de Fabrication</th><th>Temps de Fabrication</th></tr></thead><tbody><tr><td>Tunique Tactique</td><td>❤️<mark style="color:red;">Santé</mark> 21 ↔ 25<br>🛡️Défense 0.4</td><td>18 <a href="../../monstres/carte-du-sud/vallee-des-loups/loups-sinistres.md">Fourrures de Loup</a><br>10 <a href="../../monstres/carte-du-sud/hanaka/treant-elite.md">Écorce Sylvestre</a></td><td>10 Secondes</td></tr><tr><td>Jambières Tactique</td><td>❤️<mark style="color:red;">Santé</mark> 17 ↔ 21<br>🛡️Défense 0.4</td><td>15 <a href="../../monstres/carte-du-sud/vallee-des-loups/loups-sinistres.md">Fourrures de Loup</a><br>8 <a href="../../monstres/carte-du-sud/hanaka/treant-elite.md">Écorce Sylvestre</a></td><td>10 Secondes</td></tr><tr><td>Bottes Tactique</td><td>❤️<mark style="color:red;">Santé</mark> 15 ↔ 18<br>🛡️Défense 0.3</td><td>10 <a href="../../monstres/carte-du-sud/vallee-des-loups/loups-sinistres.md">Fourrures de Loup</a><br>5 <a href="../../monstres/carte-du-sud/hanaka/treant-elite.md">Écorce Sylvestre</a></td><td>10 Secondes</td></tr></tbody></table>
@@ -28,7 +28,7 @@ Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins 3 pièces ce cet
 **Niveau Requis pour Porter l'Armure** : Niveau 7
 
 {% hint style="info" %}
-La panoplie est fabricable par le Forgeron d'Armure situé à [Tolbana](../../carte/regions/tolbana.md) (3240,1480)
+La panoplie est fabricable par le [Forgeron d'Armure](../../carte/personnages/forgerons.md#armure-1) situé à [Tolbana](../../carte/regions/tolbana.md) (3240,1480)
 {% endhint %}
 
 <table data-full-width="true"><thead><tr><th>Pièces d'Équipements</th><th>Statistiques</th><th>Matériaux de Fabrication</th><th>Temps de Fabrication</th></tr></thead><tbody><tr><td>Tunique du Ninja</td><td>❤️<mark style="color:red;">Santé</mark> 29 ↔ 34<br>🛡️Défense 1.5 ↔ 2.3</td><td>18 <a href="../../monstres/carte-du-nord/tolbana/cerf-des-montagnes.md">Peaux de Cerf des Montagnes</a><br>20 <a href="../../monstres/carte-du-nord/citadelle-des-neiges/spirite-de-glace.md">Éclats Magique Glacial</a></td><td>10 Secondes</td></tr><tr><td>Jambières du Ninja</td><td>❤️<mark style="color:red;">Santé</mark> 23 ↔ 27<br>🛡️Défense 0.9 ↔ 1.4</td><td>18 <a href="../../monstres/carte-du-nord/tolbana/cerf-des-montagnes.md">Peaux de Cerf des Montagnes</a><br>15 <a href="../../monstres/carte-du-nord/citadelle-des-neiges/spirite-de-glace.md">Éclats Magique Glacial</a></td><td>10 Secondes</td></tr><tr><td>Bottines du Ninja</td><td>❤️<mark style="color:red;">Santé</mark> 18 ↔ 23<br>🛡️Défense 0.8 ↔ 1</td><td>18 <a href="../../monstres/carte-du-nord/tolbana/cerf-des-montagnes.md">Peaux de Cerf des Montagnes</a><br>12 <a href="../../monstres/carte-du-nord/citadelle-des-neiges/spirite-de-glace.md">Éclats Magique Glacial</a></td><td>10 Secondes</td></tr></tbody></table>

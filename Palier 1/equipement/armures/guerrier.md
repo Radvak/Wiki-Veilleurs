@@ -7,7 +7,7 @@
 **Niveau Requis pour Porter l'Armure** : Niveau 3
 
 {% hint style="info" %}
-La panoplie est fabricable par le Forgeron d'Armure situé dans la [Ville de Départ](../../carte/regions/ville-de-depart.md) (1760,4145)
+La panoplie est fabricable par le [Forgeron d'Armure](../../carte/personnages/forgerons.md#armure) situé dans la [Ville de Départ](../../carte/regions/ville-de-depart.md) (1760,4145)
 {% endhint %}
 
 <table data-full-width="true"><thead><tr><th>Pièces d'Équipements</th><th>Statistiques</th><th>Matériaux de Fabrication</th><th>Temps de Fabrication</th></tr></thead><tbody><tr><td>Tunique d'Ika</td><td>❤️<mark style="color:red;">Santé</mark> 23 ↔ 25.99<br>🛡️Défense 0.7 ↔ 1.2</td><td>18 <a href="../../monstres/carte-du-sud/archipel-dika/ika.md">Carapaces d'Ika</a><br>10 <a href="../../monstres/carte-du-sud/vallaht/petit-slime.md">Gelées de Slime</a></td><td>10 Secondes</td></tr><tr><td>Jambières d'Ika</td><td>❤️<mark style="color:red;">Santé</mark> 20 ↔ 25<br>🛡️Défense 0.6 ↔ 1</td><td>15 <a href="../../monstres/carte-du-sud/archipel-dika/ika.md">Carapaces d'Ika</a><br>8 <a href="../../monstres/carte-du-sud/vallaht/petit-slime.md">Gelées de Slime</a></td><td>10 Secondes</td></tr><tr><td>Bottes d'Ika</td><td>❤️<mark style="color:red;">Santé</mark> 17 ↔ 20<br>🛡️Défense 0.4 ↔ 0.8</td><td>10 <a href="../../monstres/carte-du-sud/archipel-dika/ika.md">Carapaces d'Ika</a><br>5 <a href="../../monstres/carte-du-sud/vallaht/petit-slime.md">Gelées de Slime</a></td><td>10 Secondes</td></tr></tbody></table>
@@ -28,7 +28,7 @@ Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins 3 pièces ce cet
 **Niveau Requis pour Porter l'Armure** : Niveau 7
 
 {% hint style="info" %}
-La panoplie est fabricable par le Forgeron d'Armure situé à [Tolbana](../../carte/regions/tolbana.md) (3240,1480)
+La panoplie est fabricable par le [Forgeron d'Armure](../../carte/personnages/forgerons.md#armure-1) situé à [Tolbana](../../carte/regions/tolbana.md) (3240,1480)
 {% endhint %}
 
 <table data-full-width="true"><thead><tr><th>Pièces d'Équipements</th><th>Statistiques</th><th>Matériaux de Fabrication</th><th>Temps de Fabrication</th></tr></thead><tbody><tr><td>Casque du Titan</td><td>❤️<mark style="color:red;">Santé</mark> 30 ↔ 35<br>🛡️Défense 1.2 ↔ 1.6</td><td>15 <a href="../../monstres/carte-du-nord/virelune/poisson-requin.md">Carapaces de Requin</a><br>25 <a href="../../monstres/carte-du-nord/citadelle-des-neiges/golem-de-glace.md">Peaux dur Glacial</a></td><td>10 Secondes</td></tr><tr><td>Plastron du Titan</td><td>❤️<mark style="color:red;">Santé</mark> 34 ↔ 38.99<br>🛡️Défense 1.6 ↔ 2</td><td>18 <a href="../../monstres/carte-du-nord/virelune/poisson-requin.md">Carapaces de Requin</a><br>20 <a href="../../monstres/carte-du-nord/citadelle-des-neiges/golem-de-glace.md">Peaux dur Glacial</a></td><td>10 Secondes</td></tr><tr><td>Jambières du Titan</td><td>❤️<mark style="color:red;">Santé</mark> 32 ↔ 37<br>🛡️Défense 1.4 ↔ 1.92</td><td>18 <a href="../../monstres/carte-du-nord/virelune/poisson-requin.md">Carapaces de Requin</a><br>15 <a href="../../monstres/carte-du-nord/citadelle-des-neiges/golem-de-glace.md">Peaux dur Glacial</a></td><td>10 Secondes</td></tr><tr><td>Bottes du Titan</td><td>❤️<mark style="color:red;">Santé</mark> 27 ↔ 31<br>🛡️Défense 0.9 ↔ 1.4</td><td>18 <a href="../../monstres/carte-du-nord/virelune/poisson-requin.md">Carapaces de Requin</a><br>12 <a href="../../monstres/carte-du-nord/citadelle-des-neiges/golem-de-glace.md">Peaux dur Glacial</a></td><td>10 Secondes</td></tr></tbody></table>

@@ -23,7 +23,7 @@ La panoplie est fabricable par le Forgeron d'Armure situé dans la [Ville de Dé
 **Niveau Requis pour Porter l'Armure** : Niveau 5
 
 {% hint style="info" %}
-La paire de bottes est fabricable par le Forgeron d'Armure situé dans la [Ville de Départ](../../carte/regions/ville-de-depart.md) (1760,4145)
+La paire de bottes est fabricable par le [Forgeron d'Armure](../../carte/personnages/forgerons.md#armure) situé dans la [Ville de Départ](../../carte/regions/ville-de-depart.md) (1760,4145)
 {% endhint %}
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th align="center"></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques :</strong></td><td>💨<mark style="color:yellow;">Vitesse</mark> 5</td><td></td><td align="center"><strong>Coût de Fabrication :</strong></td><td>🐎<a href="../../monstres/carte-du-sud/ruines-maudites/nasgul.md"><mark style="color:purple;">Éclat de Sabot Maudit</mark></a> 1</td><td>🐢<a href="../../monstres/carte-du-sud/archipel-dika/ika.md"><mark style="color:green;">Carapaces d'Ika</mark></a> 64</td><td>🏾<a href="../../monstres/carte-du-sud/mine-de-geldorak/bandit-archer.md"><mark style="color:orange;">Cuirs Usés</mark></a> 64</td><td>🐺<a href="../../monstres/carte-du-sud/vallee-des-loups/loups-sinistres.md"><mark style="color:$info;">Fourrures de Loup</mark></a> 64</td></tr></tbody></table>
