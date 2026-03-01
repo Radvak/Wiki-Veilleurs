@@ -233,7 +233,4 @@
 
 * [Mineur](ressources/mineur.md)
 * [Bucheron](ressources/bucheron.md)
-* [Fermier](ressources/fermier.md)
-* [Pêcheur](ressources/pecheur.md)
-* [Chasseur](ressources/chasseur.md)
-* [Cuisinier](ressources/cuisinier.md)
+* [Herboriste](ressources/herboriste.md)
