@@ -42,7 +42,15 @@ Donne 2 Buches à la récolte
 Les Buches de Chêne sont récupérable au niveau 1 de Bucheron
 {% endhint %}
 
+{% columns %}
+{% column %}
+<figure><img src="../.gitbook/assets/Souche.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column valign="middle" %}
 Les Buches de Chêne sont récupérable dans la Forêt (2448,4306) à l'Est en sortant de la [Ville de Départ](../carte/regions/ville-de-depart.md), accompagné du [Bucheron](../carte/personnages/bucherons.md#ville-de-depart), ou bien le long de la Forêt (2878,3571) à l'Ouest de[ Mizunari](../carte/regions/mizunari.md). Vous trouverez des buches le long du chemin principal.
+{% endcolumn %}
+{% endcolumns %}
 
 ***
 
@@ -52,4 +60,12 @@ Les Buches de Chêne sont récupérable dans la Forêt (2448,4306) à l'Est en s
 Les Buches de Bouleau sont récupérable au niveau 2 de Bucheron
 {% endhint %}
 
+{% columns %}
+{% column %}
+<figure><img src="../.gitbook/assets/Bouleau.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column valign="middle" %}
 Les Buches de Bouleau sont récupérable dans la Forêt (1766,1183) au Nord de [Virelune](../carte/regions/virelune.md).&#x20;
+{% endcolumn %}
+{% endcolumns %}

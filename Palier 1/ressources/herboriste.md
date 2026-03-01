@@ -17,7 +17,15 @@ Il existe dans le Palier 1 deux type de Plantes à récolter :
 Les Alliums sont récupérable au niveau 1 d'Herboriste
 {% endhint %}
 
+{% columns %}
+{% column %}
+<figure><img src="../.gitbook/assets/Allium.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column valign="middle" %}
 Les Alliums sont des plantes Violettes récupérable dans 3 champs distincts aux alentours de (2324,3677) au Sud du [Quartier OG](../carte/regions/quartier-og.md). Environ 10 plants d'Alliums sont présent par champs.
+{% endcolumn %}
+{% endcolumns %}
 
 ***
 
@@ -27,4 +35,12 @@ Les Alliums sont des plantes Violettes récupérable dans 3 champs distincts aux
 Le Blé sont récupérable au niveau 1 d'Herboriste
 {% endhint %}
 
+{% columns %}
+{% column %}
+<figure><img src="../.gitbook/assets/Blé.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column valign="middle" %}
 Les Épis de Blé sont récupérable dans le champs (2365,3653) au Sud du [Quartier OG](../carte/regions/quartier-og.md). Environ 20 plants de Blé sont présent par champs.
+{% endcolumn %}
+{% endcolumns %}

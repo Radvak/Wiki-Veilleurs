@@ -22,8 +22,16 @@ Il existe dans le Palier 1 trois types de minerais à récolter :
 Le Charbon est récupérable au niveau 1 de Mineur
 {% endhint %}
 
+{% columns %}
+{% column %}
+<figure><img src="../.gitbook/assets/Charbon.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column valign="middle" %}
 Les Minerais de Charbon sont récupérable dans la Mine (2401,3487) au Sud du [Quartier OG](../carte/regions/quartier-og.md). Seulement dans la salle principale se trouvera environ 10 minerais.\
 Une autre Mine plus grande existe (982,3474) à l'Ouest de [Hanaka](../carte/regions/hanaka.md) et du [Cyclorium](../carte/regions/cyclorim.md), avec environ 45 minerais.
+{% endcolumn %}
+{% endcolumns %}
 
 ***
 
@@ -33,8 +41,16 @@ Une autre Mine plus grande existe (982,3474) à l'Ouest de [Hanaka](../carte/reg
 Le Cuivre est récupérable au niveau 1 de Mineur
 {% endhint %}
 
+{% columns %}
+{% column %}
+<figure><img src="../.gitbook/assets/Cuivre.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column valign="middle" %}
 Les Minerais de Cuivre sont récupérable dans la Mine (2401,3487) au Sud du [Quartier OG](../carte/regions/quartier-og.md). Le long du chemin vous trouvez environ 15 minerais avant d'apparaitre dans la salle principale. Après celà environ 10 minerais seront présent dans la salle principale.\
 Une autre Mine plus grande existe (982,3474) à l'Ouest de [Hanaka](../carte/regions/hanaka.md) et du [Cyclorium](../carte/regions/cyclorim.md), avec environ 45 minerais.
+{% endcolumn %}
+{% endcolumns %}
 
 ***
 
@@ -44,5 +60,13 @@ Une autre Mine plus grande existe (982,3474) à l'Ouest de [Hanaka](../carte/reg
 Le Fer est récupérable au niveau 2 de Mineur
 {% endhint %}
 
+{% columns %}
+{% column %}
+<figure><img src="../.gitbook/assets/Fer.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column valign="middle" %}
 Les Minerais de Fer sont récupérable dans la Mine (2401,3487) au Sud du [Quartier OG](../carte/regions/quartier-og.md). Seulement dans la salle principale se trouvera environ 5 minerais.\
 Une autre Mine plus grande existe (982,3474) à l'Ouest de [Hanaka](../carte/regions/hanaka.md) et du [Cyclorium](../carte/regions/cyclorim.md), avec environ 15 minerais.
+{% endcolumn %}
+{% endcolumns %}
