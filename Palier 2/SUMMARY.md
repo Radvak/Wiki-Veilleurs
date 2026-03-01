@@ -13,7 +13,7 @@
   * [🐺 Désert des Crocs Argentés](carte/regions/desert-des-crocs-argentes.md)
   * [🐝 Ruche de Melliona](carte/regions/ruche-de-melliona.md)
   * [🔥 Nid de Brasier](carte/regions/nid-de-brasier.md)
-  * [Forêt des Ailes d'Émeraude](carte/regions/foret-des-ailes-demeraude.md)
+  * [🧱 Forêt des Ailes d'Émeraude](carte/regions/foret-des-ailes-demeraude.md)
   * [🌊 Baie des Monstres Ondoyante](carte/regions/baie-des-monstres-ondoyante.md)
   * [🛕 Sanctuaire de Keshûn](carte/regions/sanctuaire-de-keshun.md)
   * [🪦 Tombeau du Nécromancien](carte/regions/tombeau-du-necromancien.md)
