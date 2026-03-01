@@ -1,7 +1,7 @@
 ---
 description: Coordonnées (-90,-124)
 cover: ../../.gitbook/assets/Baoba Millénaire.png
-coverY: 0
+coverY: -178.74819381261588
 ---
 
 # 🌴 Baobab Millénaire

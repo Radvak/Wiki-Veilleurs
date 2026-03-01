@@ -1,7 +1,7 @@
 ---
 description: 'Coordonnées : (397,-66)'
 cover: ../../.gitbook/assets/Forêt Sucrée.png
-coverY: 0
+coverY: 26.32724679619479
 ---
 
 # 🍯 Forêt Sucrée

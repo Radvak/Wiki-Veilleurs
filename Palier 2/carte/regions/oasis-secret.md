@@ -1,7 +1,7 @@
 ---
 description: Coordonnées (871,244)
 cover: ../../.gitbook/assets/Oasis Secret.png
-coverY: 0
+coverY: -205.0754598299601
 ---
 
 # 🏝️ Oasis Secret
