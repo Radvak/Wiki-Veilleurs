@@ -17,7 +17,7 @@
   * [🌊 Baie des Monstres Ondoyante](carte/regions/baie-des-monstres-ondoyante.md)
   * [🛕 Sanctuaire de Keshûn](carte/regions/sanctuaire-de-keshun.md)
   * [🪦 Tombeau du Nécromancien](carte/regions/tombeau-du-necromancien.md)
-  * [Les Veines de Sablemor](carte/regions/les-veines-de-sablemor.md)
+  * [🕳️ Les Veines de Sablemor](carte/regions/les-veines-de-sablemor.md)
   * [🏝️ Oasis Secret](carte/regions/oasis-secret.md)
   * [🌴 Baobab Millénaire](carte/regions/baobab-millenaire.md)
   * [🌙 Autel des Deux Lunes](carte/regions/autel-des-deux-lunes.md)
@@ -38,3 +38,16 @@
 
 * [Quêtes Principales](quetes/quetes-principales.md)
 * [Quêtes Secondaires](quetes/quetes-secondaires.md)
+
+## Équipement
+
+* [Armures](equipement/armures.md)
+* [Armes](equipement/armes.md)
+* [Accessoires](equipement/accessoires.md)
+* [Outils](equipement/outils.md)
+
+## Ressources
+
+* [Mineur](ressources/mineur.md)
+* [Bucheron](ressources/bucheron.md)
+* [Herboriste](ressources/herboriste.md)
