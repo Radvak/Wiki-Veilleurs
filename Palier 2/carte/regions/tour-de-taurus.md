@@ -4,6 +4,6 @@ cover: ../../.gitbook/assets/Tour de Taurus.png
 coverY: 460.03414637193595
 ---
 
-# 🐃 Tour de Taurus
+# 🐂 Tour de Taurus
 
 > "Une tour massive où résonnent les pas de Taurus, le Roi taureau redoutable"

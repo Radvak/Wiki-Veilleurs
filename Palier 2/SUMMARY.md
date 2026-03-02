@@ -7,7 +7,7 @@
 ## Carte
 
 * [Régions](carte/regions/README.md)
-  * [🐂 Lac des Taureaux](carte/regions/lac-des-taureaux.md)
+  * [🐃 Lac des Taureaux](carte/regions/lac-des-taureaux.md)
   * [🌇 Urbus](carte/regions/urbus.md)
   * [🏰 Kaelor](carte/regions/kaelor.md)
   * [🐺 Désert des Crocs Argentés](carte/regions/desert-des-crocs-argentes.md)
@@ -25,7 +25,7 @@
   * [🪨 Taran](carte/regions/taran.md)
   * [🏡 Marome](carte/regions/marome.md)
   * [🧑‍🤝‍🧑 Maisons des Ngangas](carte/regions/maisons-des-ngangas.md)
-  * [🐃 Tour de Taurus](carte/regions/tour-de-taurus.md)
+  * [🐂 Tour de Taurus](carte/regions/tour-de-taurus.md)
   * [🍯 Forêt Sucrée](carte/regions/foret-sucree.md)
 * [Donjons](carte/donjons.md)
 * [Personnages](carte/personnages.md)
