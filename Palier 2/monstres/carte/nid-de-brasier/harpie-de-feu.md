@@ -1,0 +1,15 @@
+---
+description: Ennemi
+---
+
+# 🦅 Harpie de Feu
+
+> "Rapace Humanoïde des falaises ardentes, ses serres brûlent au contact. Plonge depuis les courants chauds pour frapper puis remonter"
+
+<p align="center">📈 <strong>Niveau Recommandé</strong> : 12+</p>
+
+<h2 align="center">Butin Commun</h2>
+
+|                                                   Butin | Pourcentage Chance |
+| ------------------------------------------------------: | ------------------ |
+| 🔥 <mark style="color:$danger;">Plumes Enflammée</mark> | 50%                |
