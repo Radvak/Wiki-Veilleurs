@@ -8,6 +8,8 @@ description: Ennemi
 
 <p align="center">📈 <strong>Niveau Recommandé</strong> : 12+</p>
 
+<figure><img src="../../../.gitbook/assets/Harpie de Feu.png" alt="" width="352"><figcaption></figcaption></figure>
+
 <h2 align="center">Butin Commun</h2>
 
 |                                                   Butin | Pourcentage Chance |
