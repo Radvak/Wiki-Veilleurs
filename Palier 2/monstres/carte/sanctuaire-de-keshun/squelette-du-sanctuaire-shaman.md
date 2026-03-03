@@ -8,6 +8,8 @@ description: Ennemi
 
 <p align="center">📈 <strong>Niveau Recommandé</strong> : 13+</p>
 
+<figure><img src="../../../.gitbook/assets/Squelette Sanctuaire - Shaman.png" alt="" width="383"><figcaption></figcaption></figure>
+
 <h2 align="center">Butin Commun</h2>
 
 |                                                 Butin | Pourcentage Chance |
