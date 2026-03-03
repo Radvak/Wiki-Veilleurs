@@ -44,7 +44,7 @@
   * [🍯 Forêt Sucrée](monstres/carte/foret-sucree.md)
   * [🔥 Nid de Brasier](monstres/carte/nid-de-brasier.md)
   * [🌳 Forêt des Ailes d'Émeraude](monstres/carte/foret-des-ailes-demeraude.md)
-  * [Baie des Monstres Ondoyante](monstres/carte/baie-des-monstres-ondoyante.md)
+  * [🌊 Baie des Monstres Ondoyante](monstres/carte/baie-des-monstres-ondoyante.md)
   * [🛕 Sanctuaire de Keshûn](monstres/carte/sanctuaire-de-keshun/README.md)
     * [🏹 Squelette du Sanctuaire - Archer](monstres/carte/sanctuaire-de-keshun/squelette-du-sanctuaire-archer.md)
     * [🌿 Squelette du Sanctuaire - Shaman](monstres/carte/sanctuaire-de-keshun/squelette-du-sanctuaire-shaman.md)
