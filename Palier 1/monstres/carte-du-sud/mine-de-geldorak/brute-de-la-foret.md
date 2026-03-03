@@ -8,6 +8,8 @@ description: Ennemi
 
 <p align="center">📈 <strong>Niveau Recommandé</strong> : 4+</p>
 
+<figure><img src="../../../.gitbook/assets/Brute de la Forêt.png" alt="" width="375"><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 Cet Ennemi est un Monstre unique au Donjon [Mine de Geldorak](../../../carte/regions/mine-de-geldorak.md) (4274,3890)
 {% endhint %}
