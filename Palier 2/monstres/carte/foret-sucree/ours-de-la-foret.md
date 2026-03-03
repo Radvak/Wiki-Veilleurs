@@ -8,6 +8,8 @@ description: Ennemi
 
 <p align="center">📈 <strong>Niveau Recommandé</strong> : 11+</p>
 
+<figure><img src="../../../.gitbook/assets/Ours de la Forêt.png" alt="" width="563"><figcaption></figcaption></figure>
+
 <h2 align="center">Butin Commun</h2>
 
 |                                                  Butin | Pourcentage Chance |
