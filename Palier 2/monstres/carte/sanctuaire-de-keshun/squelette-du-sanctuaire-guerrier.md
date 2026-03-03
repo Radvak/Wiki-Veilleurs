@@ -1,0 +1,17 @@
+---
+description: Ennemi
+---
+
+# ⚔️ Squelette du Sanctuaire - Guerrier
+
+> "Garde lourdement armé, maintient la ligne dans les salles sacrées. Frappe sèchement et brise la garde des aventuriers imprudents"
+
+<p align="center">📈 <strong>Niveau Recommandé</strong> : 13+</p>
+
+<h2 align="center">Butin Commun</h2>
+
+|                                                  Butin | Pourcentage Chance |
+| -----------------------------------------------------: | ------------------ |
+|    🪦 <mark style="color:$info;">Pierre Runique</mark> | 7%                 |
+|  🔗 <mark style="color:purple;">Chaîne Spectral</mark> | 30%                |
+| 👕 <mark style="color:yellow;">Vêtement Déchiré</mark> | 30%                |
