@@ -12,7 +12,7 @@ description: Coordonnées (492,3028)
 
 #### Prérequis pour commencer et rendre la mission
 
-* Avoir terminé [Par les branches des anciens](par-les-branches-des-anciens.md)
+* Avoir terminé "[Par les branches des anciens](par-les-branches-des-anciens.md)"
 
 #### Objets Demandés
 
