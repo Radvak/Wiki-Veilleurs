@@ -66,6 +66,7 @@
 * [Quêtes Secondaires](quetes/quetes-secondaires/README.md)
   * [🌇 Urbus](quetes/quetes-secondaires/urbus.md)
   * [🏰 Kaelor](quetes/quetes-secondaires/kaelor/README.md)
+    * [Aider Yûko](quetes/quetes-secondaires/kaelor/aider-yuko.md)
     * [Le Clocher de la Sombre Messagère](quetes/quetes-secondaires/kaelor/le-clocher-de-la-sombre-messagere.md)
   * [🏡 Marome](quetes/quetes-secondaires/marome/README.md)
     * [Les Bases d'une Cabane](quetes/quetes-secondaires/marome/les-bases-dune-cabane.md)
