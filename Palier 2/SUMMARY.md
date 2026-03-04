@@ -58,7 +58,11 @@
 
 ## Quêtes
 
-* [Quêtes Principales](quetes/quetes-principales.md)
+* [Quêtes Principales](quetes/quetes-principales/README.md)
+  * [🏜️ Le Palier 2...](quetes/quetes-principales/le-palier-2....md)
+  * [👩 Parler à la femme étrange](quetes/quetes-principales/parler-a-la-femme-etrange.md)
+  * [🏘️ Chemin vers Urbus](quetes/quetes-principales/chemin-vers-urbus.md)
+  * [👥 À la recherche des Ngangas](quetes/quetes-principales/a-la-recherche-des-ngangas.md)
 * [Quêtes Secondaires](quetes/quetes-secondaires.md)
 
 ## Équipement
