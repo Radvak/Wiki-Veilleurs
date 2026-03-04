@@ -25,7 +25,7 @@ Avant de commencer à tuer des Harpies, prenez les Quêtes Secondaires "[L'art d
 #### Objet Demandé
 
 * Vaincre 5 🔥 [<mark style="color:$danger;">Harpies de Feu</mark>](../../../monstres/carte/nid-de-brasier/harpie-de-feu.md)
-* Vaincre 5 ⚡ [<mark style="color:blue;">Harpies de Foudre</mark>](../../../monstres/carte/baie-des-monstres-ondoyante/harpie-de-foudre.md)
+* Vaincre 5 🌊 [<mark style="color:blue;">Harpies de Foudre</mark>](../../../monstres/carte/baie-des-monstres-ondoyante/harpie-de-foudre.md)
 * Vaincre 5 🧱 [<mark style="color:green;">Harpies de Terre</mark>](../../../monstres/carte/foret-des-ailes-demeraude/harpie-de-terre.md)
 
 {% hint style="info" %}

@@ -24,7 +24,7 @@ Avant de commencer à tuer des Harpies, prenez les Quêtes Secondaires "[L'art d
 
 #### Objet Demandé
 
-* Vaincre 30 🔥 [<mark style="color:$danger;">Harpies de Feu</mark>](../../../monstres/carte/nid-de-brasier/harpie-de-feu.md) ou ⚡ [<mark style="color:blue;">Harpies de Foudre</mark>](../../../monstres/carte/baie-des-monstres-ondoyante/harpie-de-foudre.md)
+* Vaincre 30 🔥 [<mark style="color:$danger;">Harpies de Feu</mark>](../../../monstres/carte/nid-de-brasier/harpie-de-feu.md) ou 🌊 [<mark style="color:blue;">Harpies de Foudre</mark>](../../../monstres/carte/baie-des-monstres-ondoyante/harpie-de-foudre.md)
 
 {% hint style="info" %}
 Les Harpies de Feu se situent dans le [Nid de Brasier](../../../carte/regions/nid-de-brasier.md)\
