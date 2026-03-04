@@ -8,7 +8,7 @@ icon: hand-wave
 Tout les items dont vous aurez besoins pour remplir les quêtes secondaires du Palier 2 sont regroupé ici. N'hésitez pas à nous contacter en cas d'erreur
 {% endhint %}
 
-<p align="center"><a class="button primary" data-icon="clipboard-question">To-Do List</a></p>
+<p align="center"><a href="https://candle-sword-6c4.notion.site/Palier-2-Qu-tes-Secondaires-31920cbaa95980ef8807c8656a5f11bc" class="button primary" data-icon="clipboard-question">To-Do List</a></p>
 
 {% hint style="warning" %}
 Vous aurez besoin pour que ça fonctionne d'un compte **gratuit** notion, et d'appuyer sur le bouton **dupliquer** en haut à droite de la to-do list afin de la dupliquer dans votre espace personnel
