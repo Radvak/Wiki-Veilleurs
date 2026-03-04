@@ -25,9 +25,14 @@ Vous pouvez acheter votre Bois de Bouleau en Hotel des Ventes, ou être aidé de
 {% endhint %}
 
 {% hint style="info" %}
-Il faut être Niveau 1 en Bucheron pour pouvoir récolter les Bûches de Chêne ()
+Il faut être Niveau 1 en [Bucheron](../../../ressources/bucheron.md) pour pouvoir récolter les Bûches de Chêne :
 
-Il faut être Niveau 2 en Bucheron pour pouvoir récolter les Bûches de Bouleau ()
+* Forêt 1 (3117,3541)
+* Forêt 2 (2463,4322)
+
+Il faut être Niveau 2 en [Bucheron](../../../ressources/bucheron.md) pour pouvoir récolter les Bûches de Bouleau :
+
+* Forêt (1766,1183)
 {% endhint %}
 
 #### Récompenses

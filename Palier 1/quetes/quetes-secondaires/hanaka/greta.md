@@ -24,7 +24,7 @@ Il est utile d'avoir au moins un Stuff de niveau 3 pour pouvoir rendre la missio
 {% endhint %}
 
 {% hint style="info" %}
-Les Fleurs d'Allium peuvent être récupérées au Champ (2327,3635) dès le niveau 1 Farmeur
+Il faut être Niveau 1 en [Herboriste](../../../ressources/herboriste.md) pour pouvoir récolter les Alliums (2327,3635)
 
 Les Fils d'Araignées peuvent être récupérés après avoir tué les [Araignées des Forêts](../../../monstres/carte-du-nord/arakhnol/araignees-des-forets.md) (40% de chance)
 {% endhint %}

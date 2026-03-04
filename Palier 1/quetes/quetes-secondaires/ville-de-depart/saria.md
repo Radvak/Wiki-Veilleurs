@@ -29,9 +29,10 @@ De plus vous pouvez obtenir votre fer grâce à la Quête simple de [Luc](../vir
 {% hint style="info" %}
 Les Gelées de Slime peuvent être récupérés après avoir tué un des type de [Slime](../../../monstres/carte-du-sud/vallaht/petit-slime.md) (30% de chance chacun)
 
-Il existe deux Mines au Sud du Palier 1 :\
-Mine 1 (2399,3492) dans laquelle se trouve x minerais de fer\
-Mine 2 (983,3475) dans laquelle se trouve y minerais de fer
+Il faut être Niveau 2 en [Mineur](../../../ressources/mineur.md) pour pouvoir récolter les Minerais de Fer :
+
+* Mine 1 (2399,3492)&#x20;
+* Mine 2 (983,3475)
 {% endhint %}
 
 #### Récompenses

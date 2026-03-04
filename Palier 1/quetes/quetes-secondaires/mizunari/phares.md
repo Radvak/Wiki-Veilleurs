@@ -19,9 +19,10 @@ description: Coordonnées (3150,3712)
 * 🌳<mark style="color:green;">Buches de Chêne</mark> 20
 
 {% hint style="info" %}
-Il existe deux Forêts au Sud du Palier 1 :\
-Forêt 1 (3117,3541)\
-Forêt 2 (2463,4322)
+Il faut être Niveau 1 en [Bucheron](../../../ressources/bucheron.md) pour pouvoir récolter les Bûches de Chêne :
+
+* Forêt 1 (3117,3541)
+* Forêt 2 (2463,4322)
 {% endhint %}
 
 #### Récompenses

@@ -20,7 +20,7 @@ description: Coordonnées (1503,3532)
 * 🍮<mark style="color:$success;">Gelées de Slime</mark> 2
 
 {% hint style="info" %}
-Les Fleurs d'Allium peuvent être récupérées au Champ (2327,3635) dès le niveau 1 Farmeur
+Il faut être Niveau 1 en [Herboriste](../../../ressources/herboriste.md) pour pouvoir récolter les Alliums (2327,3635)
 
 Les Gelées de Slime peuvent être récupérées après avoir tué un [Guerrier Slime](../../../monstres/carte-du-sud/vallaht/guerrier-slime.md) / [Petit Slime](../../../monstres/carte-du-sud/vallaht/petit-slime.md)&#x20;/ [Slime Soigneur](../../../monstres/carte-du-sud/vallaht/slime-soigneur.md) / [Slime Magicien](../../../monstres/carte-du-sud/vallaht/slime-magicien.md)&#x20;/ [Gorbel](../../../monstres/carte-du-sud/vallaht/gorbel.md) (30% de Chance)
 {% endhint %}

@@ -21,10 +21,8 @@ description: Coordonnées (1556,4316)
 
 {% hint style="info" %}
 Les Fragments de Feuilles peuvent être récupérer après avoir tué un [Nephentes](../../../monstres/carte-du-sud/mizunari/nephentes.md) (45% de chance)
-{% endhint %}
 
-{% hint style="info" %}
-Il faut être Niveau 1 en Fermier pour pouvoir récolter les Alliums (2327,3635)
+Il faut être Niveau 1 en [Herboriste](../../../ressources/herboriste.md) pour pouvoir récolter les Alliums (2327,3635)
 {% endhint %}
 
 #### Récompenses

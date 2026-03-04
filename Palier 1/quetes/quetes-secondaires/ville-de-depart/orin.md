@@ -28,7 +28,7 @@ De plus vous pouvez obtenir votre fer grâce à la quête simple de [Luc](../vir
 {% hint style="info" %}
 Les Cordes d'Arc Sylvestre peuvent être récupérés après avoir tué un [Tréant Élite](../../../monstres/carte-du-sud/hanaka/treant-elite.md) (25% de chance)
 
-Il faut être Niveau 2 en Mineur pour pouvoir récolter les Minerais de Fer :
+Il faut être Niveau 2 en [Mineur](../../../ressources/mineur.md) pour pouvoir récolter les Minerais de Fer :
 
 * Mine 1 (2399,3492)&#x20;
 * Mine 2 (983,3475)

@@ -26,14 +26,14 @@ De plus vous pouvez obtenir votre fer grâce à la Quête simple de [Luc](../vir
 * 🪨<mark style="color:$info;">Minerais de Fer</mark> 20
 
 {% hint style="info" %}
-Il faut être Niveau 1 en Bucheron pour pouvoir récolter les Bûches de Chêne :
+Il faut être Niveau 1 en [Bucheron](../../../ressources/bucheron.md) pour pouvoir récolter les Bûches de Chêne :
 
 * Forêt 1 (3117,3541)
 * Forêt 2 (2463,4322)
 
-Il faut être Niveau 2 en Mineur pour pouvoir récolter les Minerais de Fer :
+Il faut être Niveau 2 en [Mineur](../../../ressources/mineur.md) pour pouvoir récolter les Minerais de Fer :
 
-* Mine 1 (2399,3492)
+* Mine 1 (2399,3492)&#x20;
 * Mine 2 (983,3475)
 {% endhint %}
 
