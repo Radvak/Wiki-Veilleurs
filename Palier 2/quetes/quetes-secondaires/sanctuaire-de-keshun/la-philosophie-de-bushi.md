@@ -36,3 +36,4 @@ Ils sont affrontable dans la zone ou se situe le donneur de Quête, c'est à dir
 
 * 🧪 <mark style="color:blue;">Expérience</mark> 427
 * 🪙 <mark style="color:yellow;">Cols</mark> 1000
+* 💰 <mark style="color:orange;">Petite Bourse</mark> 2

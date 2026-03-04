@@ -19,7 +19,7 @@ Aidez Sissou à vaincre des Harpies de Feu ou des Harpies de Foudre (-432,272)
 {% endhint %}
 
 {% hint style="warning" %}
-Avant de commencer à tuer des Harpies, prenez les Quêtes Secondaire "[L'art des Plumes](../urbus/lart-des-plumes.md)", "[Aide à la Cuisine](aide-a-la-cuisine.md)" & "[Un peu de chaque](../taran/un-peu-de-chaque.md)" qui vous permettrons d'avancer sur plusieurs Quêtes en même temps
+Avant de commencer à tuer des Harpies, prenez les Quêtes Secondaires "[L'art des Plumes](../urbus/lart-des-plumes.md)", "[Aide à la Cuisine](aide-a-la-cuisine.md)" & "[Un peu de chaque](../taran/un-peu-de-chaque.md)" qui vous permettrons d'avancer sur plusieurs Quêtes en même temps
 {% endhint %}
 
 #### Objet Demandé
@@ -35,3 +35,4 @@ Les Harpies de Foudre se situent dans la [Baie des Monstres Ondoyante](../../../
 
 * 🧪 <mark style="color:blue;">Expérience</mark> 427
 * 🪙 <mark style="color:yellow;">Cols</mark> 1250
+* 💰 <mark style="color:orange;">Petite Bourse</mark> 5

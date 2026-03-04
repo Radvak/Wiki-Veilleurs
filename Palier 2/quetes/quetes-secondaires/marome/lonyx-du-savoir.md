@@ -30,3 +30,4 @@ Aidez Shii à faire sa potion (724,-301)
 
 * 🧪 <mark style="color:blue;">Expérience</mark> 427
 * 🪙 <mark style="color:yellow;">Cols</mark> 1000
+* 🫙 <mark style="color:$danger;">Potion de Vie Mineur</mark> 2

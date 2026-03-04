@@ -1,8 +1,8 @@
 ---
-description: Coordonnées (-610,-245)
+description: Coordonnées (105,-392)
 ---
 
-# Aider Yûko
+# L'Art des Peaux
 
 ***
 
@@ -15,14 +15,17 @@ description: Coordonnées (-610,-245)
 * Aucun prérequis pour commencer et rendre la mission
 
 {% hint style="info" %}
-Aidez Yûko (-610,-245)
+Ramenez à Ife des peaux (105,-392)
+{% endhint %}
+
+{% hint style="warning" %}
+Avant de commencer à tuer des Harpies, prenez la Quête Secondaire "[Aide à la Cuisine](../kaelor/aide-a-la-cuisine.md)" qui vous permettra d'avancer sur plusieurs Quêtes en même temps
 {% endhint %}
 
 #### Objet Demandé
 
-* 🐺 <mark style="color:yellow;">Fourrure de Loup</mark> 10
-* 🌳 <mark style="color:green;">Buche de Chêne</mark> 30
-* ⚫ Minerais de Charbon 20
+* 🐺 <mark style="color:yellow;">Fourrure de Loup</mark> 6
+* 🐻 <mark style="color:red;">Peau d'Ours</mark> 6
 
 {% hint style="danger" %}
 Les Fourrures de Loup peuvent être récupérés après avoir tué un [Loup des Montagnes](../../../monstres/carte/desert-des-crocs-argentes/loups-des-montagnes.md) (40% de chance) ou un [Loups des Savanes](../../../monstres/carte/desert-des-crocs-argentes/loups-des-savanes.md) (50% de chance).
@@ -31,19 +34,10 @@ Attention les [Loups Sinistres](https://app.gitbook.com/s/v1EjDOXtDmcEBab7hA6j/m
 {% endhint %}
 
 {% hint style="info" %}
-<mark style="color:$danger;">Palier 1</mark> Il faut être Niveau 1 en [Bucheron](https://app.gitbook.com/s/v1EjDOXtDmcEBab7hA6j/ressources/bucheron) pour pouvoir récolter les Bûches de Chêne :
-
-* Forêt 1 (3117,3541)
-* Forêt 2 (2463,4322)
-
-<mark style="color:$danger;">Palier 1</mark> Il faut être Niveau 1 en [Mineur](https://app.gitbook.com/s/v1EjDOXtDmcEBab7hA6j/ressources/mineur) pour pouvoir récolter les Minerais de Charbon :
-
-* Mine 1 (2399,3492)&#x20;
-* Mine 2 (983,3475)
+Les Peaux d'Ours peuvent être récupérés après avoir tué un [Ours de la Forêt](../../../monstres/carte/foret-sucree/ours-de-la-foret.md) (50% de chance)
 {% endhint %}
 
 #### Récompenses
 
 * 🧪 <mark style="color:blue;">Expérience</mark> 427
-* 🪙 <mark style="color:yellow;">Cols</mark> 500
-* 💰 <mark style="color:orange;">Petite Bourse</mark> 3
+* 🪙 <mark style="color:yellow;">Cols</mark> 250

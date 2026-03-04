@@ -19,7 +19,7 @@ Aidez Poris à vaincre des Harpies de Terre (-431,279)
 {% endhint %}
 
 {% hint style="warning" %}
-Avant de commencer à tuer des Harpies, prenez les Quêtes Secondaire "[L'art des Plumes](../urbus/lart-des-plumes.md)", "[Hater du Vert](hater-du-vert.md)" & "[Un peu de chaque](un-peu-de-chaque.md)" qui vous permettrons d'avancer sur plusieurs Quêtes en même temps
+Avant de commencer à tuer des Harpies, prenez les Quêtes Secondaires "[L'art des Plumes](../urbus/lart-des-plumes.md)", "[Hater du Vert](hater-du-vert.md)" & "[Un peu de chaque](un-peu-de-chaque.md)" qui vous permettrons d'avancer sur plusieurs Quêtes en même temps
 {% endhint %}
 
 #### Objet Demandé

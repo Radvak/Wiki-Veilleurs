@@ -19,7 +19,7 @@ Aidez Mansa pour sa cuisine (-563,-255)
 {% endhint %}
 
 {% hint style="warning" %}
-Avant de commencer à tuer des Harpies, prenez les Quêtes Secondaire "[L'art des Plumes](../urbus/lart-des-plumes.md)", "[Nettoyer les cieux de Taran](nettoyer-les-cieux-de-taran.md)" & "[Un peu de chaque](../taran/un-peu-de-chaque.md)" qui vous permettrons d'avancer sur plusieurs Quêtes en même temps
+Avant de commencer à tuer des Harpies, prenez les Quêtes Secondaires "[L'Art des Peaux](../urbus/lart-des-peaux.md)" , "[L'art des Plumes](../urbus/lart-des-plumes.md)", "[Nettoyer les cieux de Taran](nettoyer-les-cieux-de-taran.md)" & "[Un peu de chaque](../taran/un-peu-de-chaque.md)" qui vous permettrons d'avancer sur plusieurs Quêtes en même temps
 {% endhint %}
 
 #### Objet Demandé

@@ -17,4 +17,4 @@ description: Ennemi
 |         🐻 <mark style="color:red;">Peau d'Ours</mark> | 50%                |
 |    🐻 <mark style="color:yellow;">Griffe d'Ours</mark> | 45%                |
 | 🐻 <mark style="color:$warning;">Graisse d'Ours</mark> | 5%                 |
-| 🍯 <mark style="color:$warning;">Résidu de Miel</mark> | 60%                |
+|   🍯 <mark style="color:yellow;">Résidu de Miel</mark> | 60%                |
