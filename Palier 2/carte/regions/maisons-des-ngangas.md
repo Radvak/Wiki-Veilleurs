@@ -4,6 +4,6 @@ cover: ../../.gitbook/assets/Maisons des Ngangas.png
 coverY: -213.3893181345298
 ---
 
-# 🧑‍🤝‍🧑 Maisons des Ngangas
+# 👥 Maisons des Ngangas
 
 > "Maisons de Kwabeno et Kwabena, deux ermites perdus des montagnes"

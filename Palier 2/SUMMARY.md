@@ -24,7 +24,7 @@
   * [⛏️ Grotte de Taran](carte/regions/grotte-de-taran.md)
   * [🪨 Taran](carte/regions/taran.md)
   * [🏡 Marome](carte/regions/marome.md)
-  * [🧑‍🤝‍🧑 Maisons des Ngangas](carte/regions/maisons-des-ngangas.md)
+  * [👥 Maisons des Ngangas](carte/regions/maisons-des-ngangas.md)
   * [🐂 Tour de Taurus](carte/regions/tour-de-taurus.md)
   * [🍯 Forêt Sucrée](carte/regions/foret-sucree.md)
 * [Donjons](carte/donjons/README.md)
@@ -61,9 +61,17 @@
 * [Quêtes Principales](quetes/quetes-principales/README.md)
   * [🏜️ Le Palier 2...](quetes/quetes-principales/le-palier-2....md)
   * [👩 Parler à la femme étrange](quetes/quetes-principales/parler-a-la-femme-etrange.md)
-  * [🏘️ Chemin vers Urbus](quetes/quetes-principales/chemin-vers-urbus.md)
+  * [🌇 Chemin vers Urbus](quetes/quetes-principales/chemin-vers-urbus.md)
   * [👥 À la recherche des Ngangas](quetes/quetes-principales/a-la-recherche-des-ngangas.md)
-* [Quêtes Secondaires](quetes/quetes-secondaires.md)
+* [Quêtes Secondaires](quetes/quetes-secondaires/README.md)
+  * [🌇 Urbus](quetes/quetes-secondaires/urbus.md)
+  * [🏰 Kaelor](quetes/quetes-secondaires/kaelor/README.md)
+    * [Le Clocher de la Sombre Messagère](quetes/quetes-secondaires/kaelor/le-clocher-de-la-sombre-messagere.md)
+  * [🏡 Marome](quetes/quetes-secondaires/marome/README.md)
+    * [Les Bases d'une Cabane](quetes/quetes-secondaires/marome/les-bases-dune-cabane.md)
+    * [Les Murs d'une Cabane](quetes/quetes-secondaires/marome/les-murs-dune-cabane.md)
+    * [Non, c'est de la Sape !](quetes/quetes-secondaires/marome/non-cest-de-la-sape.md)
+    * [L'Onyx du Savoir](quetes/quetes-secondaires/marome/lonyx-du-savoir.md)
 
 ## Équipement
 
