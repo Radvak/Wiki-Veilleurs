@@ -16,8 +16,8 @@ description: Coordonnées (3113,3702)
 
 #### Objets Demandés
 
-* 🪵<mark style="color:green;">Écorce Sylvestre</mark> 10
-* 🌿<mark style="color:red;">Brindilles Enchantées</mark> 10
+* 🪵 <mark style="color:green;">Écorce Sylvestre</mark> 10
+* 🌿 <mark style="color:red;">Brindilles Enchantées</mark> 10
 * 🫚 <mark style="color:orange;">Racine Ancestrale</mark> 3
 
 {% hint style="info" %}

@@ -16,7 +16,7 @@ description: Coordonnées (1624,1851)
 
 #### Objet Demandé
 
-* ⛏️<mark style="color:$info;">Pioches Fêlée 3</mark>
+* ⛏️ <mark style="color:$info;">Pioches Fêlée 3</mark>
 
 {% hint style="info" %}
 Les Pioches de Fer sont achetable à tout les marchands d'Outils pour 20 cols.\

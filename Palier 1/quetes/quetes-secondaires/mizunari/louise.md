@@ -16,7 +16,7 @@ description: Coordonnées (3139,3696)
 
 #### Objets Demandés
 
-* 🧱<mark style="color:orange;">Lingots de Cuivre</mark> 10
+* 🧱 <mark style="color:orange;">Lingots de Cuivre</mark> 10
 
 {% hint style="info" %}
 Il faut être Niveau 1 en Mineur pour pouvoir récolter les Minerais de Cuivre :

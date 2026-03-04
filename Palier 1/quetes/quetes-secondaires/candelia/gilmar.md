@@ -21,8 +21,8 @@ Le Labyrinthe des Déchus est le premier gros Donjon. Il est préférable d'êtr
 
 #### Objet Demandé
 
-* 🧊<mark style="color:blue;">Éclat Magique Glacial</mark> 10
-* 🫐<mark style="color:purple;">Fragments Cassé Violets</mark> 5
+* 🧊 <mark style="color:blue;">Éclat Magique Glacial</mark> 10
+* 🫐 <mark style="color:purple;">Fragments Cassé Violets</mark> 5
 
 {% hint style="info" %}
 Les Éclats Magiques Glacials peuvent être récupérés après avoir tué un [Spirite de Glaces](../../../monstres/carte-du-nord/citadelle-des-neiges/spirite-de-glace.md) (35% de chance)

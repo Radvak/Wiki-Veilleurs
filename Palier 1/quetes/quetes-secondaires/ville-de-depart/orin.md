@@ -22,8 +22,8 @@ De plus vous pouvez obtenir votre fer grâce à la quête simple de [Luc](../vir
 
 ### Objets Demandés
 
-* 🪢<mark style="color:$info;">Corde d'arc Sylvestre</mark> 5
-* 🪨<mark style="color:$info;">Minerais de Fer</mark> 5
+* 🪢 <mark style="color:$info;">Corde d'arc Sylvestre</mark> 5
+* 🪨 <mark style="color:$info;">Minerais de Fer</mark> 5
 
 {% hint style="info" %}
 Les Cordes d'Arc Sylvestre peuvent être récupérés après avoir tué un [Tréant Élite](../../../monstres/carte-du-sud/hanaka/treant-elite.md) (25% de chance)

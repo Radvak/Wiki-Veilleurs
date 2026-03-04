@@ -16,7 +16,7 @@ description: Coordonnées (3291,2907)
 
 #### Objet Demandé
 
-* 🌳<mark style="color:green;">Buches de Chêne</mark> 64
+* 🌳 <mark style="color:green;">Buches de Chêne</mark> 64
 
 {% hint style="info" %}
 Il faut être Niveau 1 en [Bucheron](../../../ressources/bucheron.md) pour pouvoir récolter les Bûches de Chêne :

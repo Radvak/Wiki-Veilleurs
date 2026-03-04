@@ -16,9 +16,9 @@ description: Coordonnées (2069,4291)
 
 #### Objets Demandés
 
-* 🐺<mark style="color:$info;">Fourrures de Loup</mark> 4
-* 🌳<mark style="color:green;">Éclats de Bois Magique</mark> 2&#x20;
-* 🦴<mark style="color:$info;">Os de Squelette Renforcé</mark> 1
+* 🐺 <mark style="color:$info;">Fourrures de Loup</mark> 4
+* 🌳 <mark style="color:green;">Éclats de Bois Magique</mark> 2&#x20;
+* 🦴 <mark style="color:$info;">Os de Squelette Renforcé</mark> 1
 
 {% hint style="info" %}
 Les Fourrures de Loup peuvent être récupérés après avoir tué un des deux type de [Loups Sinistres](../../../monstres/carte-du-sud/vallee-des-loups/loups-sinistres.md) (60% de chance)

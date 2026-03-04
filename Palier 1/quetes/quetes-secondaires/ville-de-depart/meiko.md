@@ -21,7 +21,7 @@ Il est utile d'avoir au moins un Stuff de niveau 3 pour pouvoir rendre la missio
 #### Objets Demandés
 
 * 🏾 <mark style="color:orange;">Cuirs Usés</mark> 3
-* 🕸️<mark style="color:$info;">Tissus d'Araignées</mark> 5
+* 🕸️ <mark style="color:$info;">Tissus d'Araignées</mark> 5
 
 {% hint style="info" %}
 Les Cuirs Usés peuvent être récupérés après avoir tué un des type de [Bandits](../../../monstres/carte-du-sud/mine-de-geldorak/bandit-assassin.md) (30% de chance)

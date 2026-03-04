@@ -42,7 +42,7 @@ Coordonnées (3155,3690)
 
 |                                                                                                              Butin | Prix                                        |
 | -----------------------------------------------------------------------------------------------------------------: | ------------------------------------------- |
-|  🏾[ <mark style="color:orange;">Cuir Usé</mark>](../../monstres/carte-du-sud/mine-de-geldorak/bandit-assassin.md) | 🪙<mark style="color:yellow;">Cols</mark> 4 |
+|  🏾 [<mark style="color:orange;">Cuir Usé</mark>](../../monstres/carte-du-sud/mine-de-geldorak/bandit-assassin.md) | 🪙<mark style="color:yellow;">Cols</mark> 4 |
 |            🐢 [<mark style="color:green;">Carapace d'Ika</mark>](../../monstres/carte-du-sud/archipel-dika/ika.md) | 🪙<mark style="color:yellow;">Cols</mark> 4 |
 |       🍄‍🟫 [<mark style="color:purple;">Spore Corrompu</mark>](../../monstres/carte-du-sud/mizunari/nephentes.md) | 🪙<mark style="color:yellow;">Cols</mark> 4 |
 | 🌿 [<mark style="color:$success;">Fragments de Feuilles</mark>](../../monstres/carte-du-sud/mizunari/nephentes.md) | 🪙<mark style="color:yellow;">Cols</mark> 4 |

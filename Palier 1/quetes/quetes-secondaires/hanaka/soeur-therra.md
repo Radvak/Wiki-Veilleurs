@@ -17,7 +17,7 @@ description: Coordonnées (1407,3436)
 #### Objets Demandés
 
 * 👑 <mark style="color:yellow;">Essence de Gorbel</mark> 1
-* 🍮<mark style="color:$success;">Gelées de Slime</mark> 20
+* 🍮 <mark style="color:$success;">Gelées de Slime</mark> 20
 
 {% hint style="warning" %}
 Les Essence de Gorbel peuvent être récupérées après avoir tué un [Gorbel](../../../monstres/carte-du-sud/vallaht/gorbel.md) (5% de chance)\

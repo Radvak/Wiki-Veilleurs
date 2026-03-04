@@ -16,8 +16,8 @@ description: Coordonnées (2207,4187)
 
 #### Objets Demandés
 
-* 🌿<mark style="color:$success;">Fragments de Feuilles</mark> 15
-* 🍄<mark style="color:$danger;">Mycélium Magique</mark> 2
+* 🌿 <mark style="color:$success;">Fragments de Feuilles</mark> 15
+* 🍄 <mark style="color:$danger;">Mycélium Magique</mark> 2
 
 {% hint style="info" %}
 Les Mycéliums Magique peuvent être récupérés après avoir tué un [Gardien Colossal](../../../monstres/carte-du-sud/hanaka/gardien-colossal.md) (20% de chance)

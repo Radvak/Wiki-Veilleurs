@@ -16,7 +16,7 @@ description: Coordonnées (3130,3666)
 
 #### Objets Demandés
 
-* 🌿<mark style="color:$success;">Fragments de Feuilles</mark> 10
+* 🌿 <mark style="color:$success;">Fragments de Feuilles</mark> 10
 
 {% hint style="info" %}
 Les Fragments de Feuilles peuvent être récupérés après avoir tué un [Nephentes](../../../monstres/carte-du-sud/mizunari/nephentes.md) (45% de chance)

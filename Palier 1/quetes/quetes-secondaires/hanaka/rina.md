@@ -16,8 +16,8 @@ description: Coordonnées (1503,3532)
 
 #### Objets Demandés
 
-* 🪻<mark style="color:purple;">Fleurs d'Allium</mark> 4
-* 🍮<mark style="color:$success;">Gelées de Slime</mark> 2
+* 🪻 <mark style="color:purple;">Fleurs d'Allium</mark> 4
+* 🍮 <mark style="color:$success;">Gelées de Slime</mark> 2
 
 {% hint style="info" %}
 Il faut être Niveau 1 en [Herboriste](../../../ressources/herboriste.md) pour pouvoir récolter les Alliums (2327,3635)

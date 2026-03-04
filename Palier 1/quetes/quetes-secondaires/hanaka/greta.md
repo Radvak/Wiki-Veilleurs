@@ -16,8 +16,8 @@ description: Coordonnées (1438,3400)
 
 #### Objets Demandés
 
-* 🪻<mark style="color:purple;">Fleurs d'Allium</mark> 15
-* 🧶Fils d'Araignée 5
+* 🪻 <mark style="color:purple;">Fleurs d'Allium</mark> 15
+* 🧶 Fils d'Araignée 5
 
 {% hint style="danger" %}
 Il est utile d'avoir au moins un Stuff de niveau 3 pour pouvoir rendre la mission

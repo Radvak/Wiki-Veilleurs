@@ -17,7 +17,7 @@ description: Coordonnées (3084,1913)
 #### Objet Demandé
 
 * 🏾 <mark style="color:orange;">Cuirs Usés</mark> 12
-* 🦌<mark style="color:orange;">Peaux de Cerf des Montagnes</mark> 8
+* 🦌 <mark style="color:orange;">Peaux de Cerf des Montagnes</mark> 8
 
 {% hint style="info" %}
 Les Cuirs Usés peuvent être récupérés après avoir tué un Bandit : [Bandit Archer](../../../monstres/carte-du-sud/mine-de-geldorak/bandit-archer.md) (40% de chance) / [Bandit Assassin](../../../monstres/carte-du-sud/mine-de-geldorak/bandit-assassin.md) (30% de chance) / [Bandit Robuste](../../../monstres/carte-du-sud/mine-de-geldorak/bandit-robuste.md) (80% de chance)

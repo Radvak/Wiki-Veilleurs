@@ -20,7 +20,7 @@ Pensez à prendre un encas car la récolte des ressources prends énormément de
 
 #### Objets Demandés
 
-* 🐢<mark style="color:green;">Plastron Ika</mark> 1
+* 🐢 <mark style="color:green;">Plastron Ika</mark> 1
 * 🐢 <mark style="color:green;">Jambières Ika</mark> 1
 * 🐢 <mark style="color:green;">Paire de Bottes Ika</mark> 1
 

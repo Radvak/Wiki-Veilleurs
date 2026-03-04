@@ -16,8 +16,8 @@ description: Coordonnées (1526,3377)
 
 #### Objets Demandés
 
-* 🦷<mark style="color:$warning;">Crocs de Loup</mark> 25
-* 🐗<mark style="color:red;">Peaux de Sanglier</mark> 25
+* 🦷 <mark style="color:$warning;">Crocs de Loup</mark> 25
+* 🐗 <mark style="color:red;">Peaux de Sanglier</mark> 25
 
 {% hint style="info" %}
 Les Crocs de Loup peuvent être récupérés après avoir tué un des [Loups Sinistres](../../../monstres/carte-du-sud/vallee-des-loups/loups-sinistres.md) (30% de chance)

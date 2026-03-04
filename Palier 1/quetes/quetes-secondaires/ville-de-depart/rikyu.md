@@ -16,8 +16,8 @@ description: Coordonnées (1556,4316)
 
 #### Objets Demandés
 
-* 🌿<mark style="color:$success;">Fragments de Feuilles</mark> 25
-* 🪻<mark style="color:purple;">Fleurs d'Allium</mark> 8
+* 🌿 <mark style="color:$success;">Fragments de Feuilles</mark> 25
+* 🪻 <mark style="color:purple;">Fleurs d'Allium</mark> 8
 
 {% hint style="info" %}
 Les Fragments de Feuilles peuvent être récupérer après avoir tué un [Nephentes](../../../monstres/carte-du-sud/mizunari/nephentes.md) (45% de chance)

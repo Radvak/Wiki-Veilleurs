@@ -23,8 +23,8 @@ De plus vous pouvez obtenir votre fer grâce à la Quête simple de [Luc](../vir
 
 #### Objets Demandés
 
-* 🍮<mark style="color:$success;">Gelées de Slime</mark> 50
-* 🪨<mark style="color:$info;">Minerais de Fer</mark> 10
+* 🍮 <mark style="color:$success;">Gelées de Slime</mark> 50
+* 🪨 <mark style="color:$info;">Minerais de Fer</mark> 10
 
 {% hint style="info" %}
 Les Gelées de Slime peuvent être récupérés après avoir tué un des type de [Slime](../../../monstres/carte-du-sud/vallaht/petit-slime.md) (30% de chance chacun)

@@ -17,8 +17,8 @@ description: Coordonnées (1565,1968)
 
 #### Objets Demandés
 
-* 🌳<mark style="color:green;">Buches de Chêne</mark> 16
-* 🌳Buches de Bouleau 16
+* 🌳 <mark style="color:green;">Buches de Chêne</mark> 16
+* 🌳 Buches de Bouleau 16
 
 {% hint style="warning" %}
 Vous pouvez acheter votre Bois de Bouleau en Hotel des Ventes, ou être aidé de vos amis/guilde, si vous ne voulez pas monter votre métier de Bucheron

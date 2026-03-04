@@ -22,8 +22,8 @@ De plus vous pouvez obtenir votre fer grâce à la Quête simple de [Luc](../vir
 
 #### Objet Demandé
 
-* 🌳<mark style="color:green;">Buches de Chêne</mark> 40
-* 🪨<mark style="color:$info;">Minerais de Fer</mark> 20
+* 🌳 <mark style="color:green;">Buches de Chêne</mark> 40
+* 🪨 <mark style="color:$info;">Minerais de Fer</mark> 20
 
 {% hint style="info" %}
 Il faut être Niveau 1 en [Bucheron](../../../ressources/bucheron.md) pour pouvoir récolter les Bûches de Chêne :

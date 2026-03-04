@@ -16,8 +16,8 @@ description: Coordonnées (492,3028)
 
 #### Objets Demandés
 
-* 🌿<mark style="color:red;">Brindilles Enchantées</mark> 3
-* 🧻<mark style="color:$tint;">Tissu Spectral</mark> 4
+* 🌿 <mark style="color:red;">Brindilles Enchantées</mark> 3
+* 🧻 <mark style="color:$tint;">Tissu Spectral</mark> 4
 
 {% hint style="info" %}
 Les Brindilles Enchantées peuvent être récupérées après avoir tué un [Mage Sylvestre](../../../monstres/carte-du-sud/hanaka/mage-sylvestre.md) (30% de chance)

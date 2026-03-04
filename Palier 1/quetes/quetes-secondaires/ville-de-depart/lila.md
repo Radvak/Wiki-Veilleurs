@@ -16,7 +16,7 @@ description: Coordonnées (1877,3991)
 
 #### Objet Demandé
 
-* 💚<mark style="color:green;">Cœur de Bois</mark> 1
+* 💚 <mark style="color:green;">Cœur de Bois</mark> 1
 
 {% hint style="info" %}
 Les Cœur de Bois peuvent être récupérés après avoir tué un [Mage Sylvestre](../../../monstres/carte-du-sud/hanaka/mage-sylvestre.md) (30% de chance)

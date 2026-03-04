@@ -16,8 +16,8 @@ description: Coordonnées (1532,3376)
 
 #### Objets Demandés
 
-* 🦷<mark style="color:$warning;">Crocs de Loup</mark> 6
-* 🌳<mark style="color:green;">Éclats de Bois Magique</mark> 2
+* 🦷 <mark style="color:$warning;">Crocs de Loup</mark> 6
+* 🌳 <mark style="color:green;">Éclats de Bois Magique</mark> 2
 
 {% hint style="info" %}
 Les Crocs de Loup peuvent être récupérés après avoir tué un des [Loups Sinistres](../../../monstres/carte-du-sud/vallee-des-loups/loups-sinistres.md) (60% de chance)

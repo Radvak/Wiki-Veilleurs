@@ -16,8 +16,8 @@ description: Coordonnées (3396,2947)
 
 #### Objet Demandé
 
-* 🧊<mark style="color:blue;">Éclat Magique Glacial</mark> 1
-* 🍚Poussières d'Os 3
+* 🧊 <mark style="color:blue;">Éclat Magique Glacial</mark> 1
+* 🍚 Poussières d'Os 3
 
 {% hint style="info" %}
 Les Éclats Magiques Glacials peuvent être récupérés après avoir tué un [Spirite de Glaces](../../../monstres/carte-du-nord/citadelle-des-neiges/spirite-de-glace.md) (35% de chance)

@@ -16,7 +16,7 @@ description: Coordonnées (1700,1018)
 
 #### Objet Demandé
 
-* 🧻<mark style="color:$tint;">Tissu Spectral</mark> 15
+* 🧻 <mark style="color:$tint;">Tissu Spectral</mark> 15
 
 {% hint style="info" %}
 Les Tissus Spectraux peuvent être récupérés après avoir tué un [Mage Sylvestre](../../../monstres/carte-du-sud/hanaka/mage-sylvestre.md) (30% de chance)

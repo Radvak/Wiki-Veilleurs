@@ -16,9 +16,9 @@ description: Coordonnées (1534,4329)
 
 #### Objets Demandés
 
-* 🌳<mark style="color:green;">Éclats de Bois Magique</mark> 5
-* 🥥<mark style="color:green;">Noyau de Slime</mark> 3
-* 🍚Poussières d'Os 5
+* 🌳 <mark style="color:green;">Éclats de Bois Magique</mark> 5
+* 🥥 <mark style="color:green;">Noyau de Slime</mark> 3
+* 🍚 Poussières d'Os 5
 
 {% hint style="info" %}
 Les Éclats de bois magique peuvent être récupérés après avoir tué un [Mini Tréant](../../../monstres/carte-du-sud/hanaka/mini-treant.md) (30% de chance chacun)

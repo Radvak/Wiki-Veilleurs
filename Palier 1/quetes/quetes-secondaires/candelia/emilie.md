@@ -16,7 +16,7 @@ description: Coordonnées (1984,753)
 
 #### Objet Demandé
 
-* 🌾<mark style="color:yellow;">Blé</mark> 20
+* 🌾 <mark style="color:yellow;">Blé</mark> 20
 
 {% hint style="info" %}
 Il faut être Niveau 1 en [Herboriste](../../../ressources/herboriste.md) pour pouvoir récolter le Blé (2373,3647)

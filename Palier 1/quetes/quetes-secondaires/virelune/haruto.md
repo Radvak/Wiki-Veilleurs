@@ -16,8 +16,8 @@ description: Coordonnées (1868,2113)
 
 #### Objet Demandé
 
-* 🦈<mark style="color:$warning;">Carapaces de Requin</mark> 25
-* 🍮<mark style="color:$success;">Gelées de Slime</mark> 30
+* 🦈 <mark style="color:$warning;">Carapaces de Requin</mark> 25
+* 🍮 <mark style="color:$success;">Gelées de Slime</mark> 30
 
 {% hint style="info" %}
 Les Carapaces de Requin peuvent être récupérés après avoir tué un [Poisson Requin](../../../monstres/carte-du-nord/virelune/poisson-requin.md) (40% de chance)
