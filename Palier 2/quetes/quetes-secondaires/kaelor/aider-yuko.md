@@ -20,9 +20,15 @@ Aidez Yûko (-610,-245)
 
 #### Objet Demandé
 
-* Fourrure de Loup 10
-* 🌳<mark style="color:green;">Buche de Chêne</mark> 30
-* ⚫Minerais de Charbon 20
+* 🐺 <mark style="color:yellow;">Fourrure de Loup</mark> 10
+* 🌳 <mark style="color:green;">Buche de Chêne</mark> 30
+* ⚫ Minerais de Charbon 20
+
+{% hint style="danger" %}
+Les Fourrures de Loup peuvent être récupérés après avoir tué un [Loup des Montagnes](../../../monstres/carte/desert-des-crocs-argentes/loups-des-montagnes.md) (40% de chance) ou un [Loups des Savanes](../../../monstres/carte/desert-des-crocs-argentes/loups-des-savanes.md) (50% de chance).
+
+Attention les [Loups Sinistres](https://app.gitbook.com/s/v1EjDOXtDmcEBab7hA6j/monstres/carte-du-sud/vallee-des-loups/loups-sinistres) du Palier 1 ne marcheront pas
+{% endhint %}
 
 {% hint style="info" %}
 <mark style="color:$danger;">Palier 1</mark> Il faut être Niveau 1 en [Bucheron](https://app.gitbook.com/s/v1EjDOXtDmcEBab7hA6j/ressources/bucheron) pour pouvoir récolter les Bûches de Chêne :

@@ -20,8 +20,8 @@ Aidez Bronn à continuer sa cabane (639,-263)
 
 #### Objet Demandé
 
-* 🌳<mark style="color:green;">Planche de Chêne</mark> 20
-* 🌴<mark style="color:orange;">Planche d'Acacia</mark> 20
+* 🌳 <mark style="color:green;">Planche de Chêne</mark> 20
+* 🌴 <mark style="color:orange;">Planche d'Acacia</mark> 20
 
 {% hint style="info" %}
 <mark style="color:$danger;">Palier 1</mark> Pour fabriquer vos Planches visitez le [Bucheron](https://app.gitbook.com/s/v1EjDOXtDmcEBab7hA6j/carte/personnages/bucherons) proche de la [Ville de Départ](https://app.gitbook.com/s/v1EjDOXtDmcEBab7hA6j/carte/regions/ville-de-depart) du Palier 1

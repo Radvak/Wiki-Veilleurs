@@ -20,8 +20,8 @@ Aidez Bronn à battir une cabane (639,-263)
 
 #### Objet Demandé
 
-* 🌳<mark style="color:green;">Buche de Chêne</mark> 20
-* 🌴<mark style="color:orange;">Buche d'Acacia</mark> 20
+* 🌳 <mark style="color:green;">Buche de Chêne</mark> 20
+* 🌴 <mark style="color:orange;">Buche d'Acacia</mark> 20
 
 {% hint style="info" %}
 <mark style="color:$danger;">Palier 1</mark> Il faut être Niveau 1 en [Bucheron](https://app.gitbook.com/s/v1EjDOXtDmcEBab7hA6j/ressources/bucheron) pour pouvoir récolter les Bûches de Chêne :
@@ -31,7 +31,7 @@ Aidez Bronn à battir une cabane (639,-263)
 
 <mark style="color:$danger;">Palier 2</mark> Il faut être Niveau 3 en [Bucheron](../../../ressources/bucheron.md) pour pouvoir récolter les Bûches d'Acacia :
 
-* Forêt (-90,-124)
+* Forêt (-90,-124) - [Baobab Millénaire](../../../carte/regions/baobab-millenaire.md)
 {% endhint %}
 
 #### Récompenses

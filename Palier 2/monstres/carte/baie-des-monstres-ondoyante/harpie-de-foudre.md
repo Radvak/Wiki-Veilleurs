@@ -15,4 +15,4 @@ description: Ennemi
 |                                                    Butin | Pourcentage Chance |
 | -------------------------------------------------------: | ------------------ |
 |     🌊 <mark style="color:blue;">Plumes Ondoyante</mark> | 50%                |
-| 💦 <mark style="color:blue;">Oeuf de Harpie d'Eau</mark> | 25%                |
+| 💧 <mark style="color:blue;">Oeuf de Harpie d'Eau</mark> | 25%                |

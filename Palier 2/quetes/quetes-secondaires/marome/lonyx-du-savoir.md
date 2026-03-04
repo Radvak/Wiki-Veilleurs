@@ -20,7 +20,7 @@ Aidez Shii à faire sa potion (724,-301)
 
 #### Objet Demandé
 
-* 🪨Minerais d'Onyx Impure 20
+* 🪨 Minerais d'Onyx Impure 20
 
 {% hint style="info" %}
 

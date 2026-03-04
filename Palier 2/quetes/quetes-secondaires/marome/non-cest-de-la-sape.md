@@ -20,8 +20,8 @@ Aidez Minutaire à confectionner des vêtements (696,-277)
 
 #### Objet Demandé
 
-* 🐗<mark style="color:red;">Peau de Sanglier</mark> 15
-* 🐃<mark style="color:blue;">Peau Épaisse</mark> 15
+* 🐗 <mark style="color:red;">Peau de Sanglier</mark> 15
+* 🐃 <mark style="color:blue;">Peau Épaisse</mark> 15
 
 {% hint style="info" %}
 Les Peaux de Sanglier peuvent être récupérés après avoir tué un [Sanglier Corrompu](https://app.gitbook.com/s/v1EjDOXtDmcEBab7hA6j/monstres/carte-du-sud/zone-sanglier/sanglier-corrompu) (60% de chance) du Palier 1\
