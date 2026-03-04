@@ -19,7 +19,7 @@ description: Coordonnées (1562,2000)
 * Vaincre 10 🦈 [<mark style="color:$warning;">Poissons Requin</mark>](../../../monstres/carte-du-nord/virelune/poisson-requin.md)
 
 {% hint style="info" %}
-Les Poissons Requin se situe à l'Ouest de [Virelune](../../../carte/regions/virelune.md)
+Les Poissons Requin se situent à l'Ouest de [Virelune](../../../carte/regions/virelune.md)
 {% endhint %}
 
 #### Récompenses

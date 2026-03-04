@@ -19,7 +19,7 @@ description: Coordonnées (1600,2006)
 * Vaincre 20 🕷️ [Araignées des Forêts](../../../monstres/carte-du-nord/arakhnol/araignees-des-forets.md)
 
 {% hint style="info" %}
-Les Araignées des Forêts se situe à [Arakh'Nol](../../../carte/regions/arakhnol.md)
+Les Araignées des Forêts se situent à [Arakh'Nol](../../../carte/regions/arakhnol.md)
 {% endhint %}
 
 #### Récompenses
