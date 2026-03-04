@@ -29,9 +29,10 @@ Ramenez à Émy :
 * 🦌 <mark style="color:orange;">Peaux de Cerf des Montagnes</mark> 16
 
 {% hint style="info" %}
-Il existe deux Mines au Sud du Palier 1 : \
-Mine 1 (2399,3492)\
-Mine 2 (983,3475)
+Il faut être Niveau 2 en [Mineur](../../ressources/mineur.md) pour pouvoir récolter les Minerais de Fer :
+
+* Mine 1 (2399,3492)&#x20;
+* Mine 2 (983,3475)
 
 Les Peaux de Cerf peuvent être récupérées après avoir tué un [Cerf des Montagnes](../../monstres/carte-du-nord/tolbana/cerf-des-montagnes.md) (45% de chance)
 {% endhint %}
