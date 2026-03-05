@@ -11,6 +11,8 @@ L'accessoire est fabricable par le [Forgeron d'Accessoire de Cuivre](../../carte
 {% endhint %}
 
 {% hint style="success" %}
+**Set de Cuivre**
+
 Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 
 * 2 pièces de cet équipement : +1 🗡️<mark style="color:$danger;">Dégats</mark>
@@ -32,6 +34,8 @@ L'accessoire est fabricable par le [Forgeron d'Accessoire de Fer](../../carte/pe
 {% endhint %}
 
 {% hint style="success" %}
+**Set de Fer**
+
 Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 
 * 2 pièces de cet équipement : +1.5 🗡️<mark style="color:$danger;">Dégats</mark>
@@ -40,7 +44,7 @@ Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 * 5 pièces de cet équipement : +1.5 🛡️Défense
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>❤️<mark style="color:$danger;">Santé</mark> 5 </td><td>🛡️<mark style="color:$primary;">Défense</mark> 1</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🪨<mark style="color:$info;">Lingots de Fer</mark> 18</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>❤️<mark style="color:$danger;">Santé</mark> 5 </td><td>🛡️Défense 1</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🪨<mark style="color:$info;">Lingots de Fer</mark> 18</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Bracelet Sylvestre" %}
@@ -50,6 +54,26 @@ Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 
 {% hint style="info" %}
 L'accessoire est fabricable par le [Forgeron Accessoire de Base](../../carte/personnages/forgerons.md#accessoires-base) situé dans la [Ville de Départ](../../carte/regions/ville-de-depart.md) (1766,4124)
+{% endhint %}
+
+{% hint style="success" %}
+**Set de la Sylve**
+
+Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
+
+* 2 pièces de cet équipement : +0.1 💧<mark style="color:blue;">Mana/s</mark>
+
+&#x20;                                                        +0.05 👟<mark style="color:yellow;">Stamina/s</mark>&#x20;
+
+* 3 pièces de cet équipement : +0.05 ❤️<mark style="color:$danger;">Santé/s</mark>
+
+&#x20;                                                        +1 ✳️<mark style="color:$success;">Soin Bonus</mark>
+
+* 4 pièces de cet équipement : +5 ❤️<mark style="color:$danger;">Santé</mark>
+
+&#x20;                                                        +0.5💧<mark style="color:blue;">Mana Max</mark>
+
+&#x20;                                                        +0.5👟<mark style="color:yellow;">Stamina Max</mark>
 {% endhint %}
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th></th><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>💓<mark style="color:red;">Régénération Santé</mark> 0.2/s</td><td>💦<mark style="color:blue;">Régénération Mana</mark> 0.2/s</td><td>👟<mark style="color:yellow;">Régénération Stamina</mark> 0.2/s</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🪵<a href="../../monstres/carte-du-sud/hanaka/guerrier-treant.md"><mark style="color:green;">Écorce de Titan</mark></a> 64</td><td>🌿<a href="../../monstres/carte-du-sud/hanaka/mage-sylvestre.md"><mark style="color:red;">Brindille Enchantées</mark></a> 64</td></tr></tbody></table>

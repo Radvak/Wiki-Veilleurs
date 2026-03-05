@@ -16,6 +16,8 @@ C'est plus rapide de fabriquer son Accessoires au Forgeron d'Accessoire de Base 
 {% endhint %}
 
 {% hint style="success" %}
+**Set de Cuivre**
+
 Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 
 * 2 pièces de cet équipement : +1 🗡️<mark style="color:$danger;">Dégats</mark>
@@ -36,7 +38,7 @@ Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 &#x20;L'accessoire peut être récupéré après avoir tué [Pumba](../../monstres/carte-du-sud/zone-sanglier/pumba.md)
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>❤️<mark style="color:$danger;">Santé</mark> 7</td><td>🛡️Défense 0.7</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>❤️<mark style="color:$danger;">Santé</mark> 10</td><td>🛡️Défense 1</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Anneau de Fer" %}
@@ -53,6 +55,7 @@ C'est plus rapide de fabriquer son Accessoires au Forgeron d'Accessoire de Base 
 {% endhint %}
 
 {% hint style="success" %}
+**Set de Fer**\
 Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 
 * 2 pièces de cet équipement : +1.5 🗡️<mark style="color:$danger;">Dégats</mark>
@@ -75,6 +78,24 @@ En Effet pour le moment le Forgeron d'Accessoires de Fer permet de fabriquer à 
 
 {% hint style="info" %}
 L'accessoire est fabricable par le [Marchant Secret](../../carte/personnages/fabricants-clefs-et-secret.md#vallhat) situé dans [Vallhat](../../carte/regions/vallaht.md) (391,3065)
+{% endhint %}
+
+{% hint style="success" %}
+**Set des Slimes Gélatineux**
+
+Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
+
+* 2 pièces de cet équipement : +0.1 ❤️<mark style="color:$danger;">Santé/s</mark>
+
+&#x20;                                                        +2.5 ❤️<mark style="color:$danger;">Santé</mark>
+
+* 3 pièces de cet équipement : +0.1 ❤️<mark style="color:$danger;">Santé/s</mark>
+
+&#x20;                                                        +5% 🛡️<mark style="color:blue;">Résistance au Recul</mark>
+
+* 4 pièces de cet équipement : +1 ✳️<mark style="color:$success;">Soin Bonus</mark>
+
+&#x20;                                                        +7.5 ❤️<mark style="color:$danger;">Santé</mark>
 {% endhint %}
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th></th><th align="center"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🛡️<mark style="color:blue;">Ténacité</mark> 15%</td><td>❤️<mark style="color:$danger;">Santé</mark> 20</td><td>💓<mark style="color:red;">Régénération Santé</mark> 0.5/s</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🍮<mark style="color:$success;">Gelée de Slime</mark> 40</td><td>🥥<mark style="color:green;">Noyau de Slime</mark> 32</td><td>👑 <mark style="color:yellow;">Essence de Gorbel</mark> 1</td></tr></tbody></table>

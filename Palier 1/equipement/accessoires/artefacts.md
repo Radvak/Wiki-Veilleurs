@@ -10,6 +10,26 @@
 L'accessoire peut être obtenue après avoir réussi le [Donjon Geldorak](../../carte/donjons/donjon-geldorak.md) (?% de chance)
 {% endhint %}
 
+{% hint style="success" %}
+**Set de la Sylve**
+
+Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
+
+* 2 pièces de cet équipement : +0.1 💧<mark style="color:blue;">Mana/s</mark>
+
+&#x20;                                                        +0.05 👟<mark style="color:yellow;">Stamina/s</mark>&#x20;
+
+* 3 pièces de cet équipement : +0.05 ❤️<mark style="color:$danger;">Santé/s</mark>
+
+&#x20;                                                        +1 ✳️<mark style="color:$success;">Soin Bonus</mark>
+
+* 4 pièces de cet équipement : +5 ❤️<mark style="color:$danger;">Santé</mark>
+
+&#x20;                                                        +0.5💧<mark style="color:blue;">Mana Max</mark>
+
+&#x20;                                                        +0.5👟<mark style="color:yellow;">Stamina Max</mark>
+{% endhint %}
+
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>❤️<mark style="color:$danger;">Santé</mark> 10</td><td>💧<mark style="color:blue;">Mana Max</mark> 10</td><td>👟<mark style="color:yellow;">Stamina Max</mark> 5</td></tr></tbody></table>
 {% endtab %}
 
@@ -23,6 +43,7 @@ L'accessoire est fabricable par le [Forgeron Accessoire de Cuivre](../../carte/p
 {% endhint %}
 
 {% hint style="success" %}
+**Set de Cuivre**\
 Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 
 * 2 pièces de cet équipement : +1 🗡️<mark style="color:$danger;">Dégats</mark>
@@ -44,6 +65,8 @@ L'accessoire est fabricable par le [Forgeron d'Accessoire de Fer](../../carte/pe
 {% endhint %}
 
 {% hint style="success" %}
+**Set de Fer**
+
 Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 
 * 2 pièces de cet équipement : +1.5 🗡️<mark style="color:$danger;">Dégats</mark>

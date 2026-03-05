@@ -11,6 +11,8 @@ L'accessoire est fabricable par le [Forgeron d'Accessoire de Cuivre](../../carte
 {% endhint %}
 
 {% hint style="success" %}
+**Set de Cuivre**
+
 Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 
 * 2 pièces de cet équipement : +1 🗡️<mark style="color:$danger;">Dégats</mark>
@@ -44,10 +46,13 @@ L'accessoire est fabricable par le [Forgeron Accessoire de Base](../../carte/per
 {% endhint %}
 
 {% hint style="success" %}
+**Set Squelette Poussiéreux**
+
 Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 
 * 2 pièces de cet équipement : -5% 🛡️Dêgats Subis
-* 3 pièces de cet équipement : -5% ⏱️<mark style="color:purple;">Cooldown Compétence</mark>
+* 3 pièces de cet équipement : +5%🌀<mark style="color:blue;">Hâte d'aptitude</mark>
+* 4 pièces de cet équipement : +3 🛡️Défense
 {% endhint %}
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th align="center"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🛡️Défense 0.5</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🍚Poussière d'Os 64</td><td>🦴Os de Squelette 64</td><td>🦴<mark style="color:$info;">Os de Squelette Renforcé</mark> 32</td></tr></tbody></table>
@@ -63,6 +68,8 @@ L'accessoire est fabricable par le [Forgeron d'Accessoire de Fer](../../carte/pe
 {% endhint %}
 
 {% hint style="success" %}
+**Set de Fer**
+
 Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 
 * 2 pièces de cet équipement : +1.5 🗡️<mark style="color:$danger;">Dégats</mark>

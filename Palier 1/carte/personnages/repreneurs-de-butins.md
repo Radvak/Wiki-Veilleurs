@@ -57,6 +57,7 @@ Coordonnées (413,3089)
 | -----------------------------------------------------------------------------------------------------------------: | --------------------------------------------- | -------------------------------------------- |
 |                                                             🫙 <mark style="color:$danger;">Potion de Vie I</mark> | Ø                                             | 🪙<mark style="color:yellow;">Cols</mark> 20 |
 |                                                               🫙 <mark style="color:blue;">Potion de Mana I</mark> | Ø                                             | 🪙<mark style="color:yellow;">Cols</mark> 10 |
+|                                                        🫙 <mark style="color:$warning;">Potion de Stamina I</mark> | Ø                                             | 🪙<mark style="color:yellow;">Cols</mark> 10 |
 |       🌱 [<mark style="color:$success;">Pousse de Sylve</mark>](../../monstres/carte-du-sud/hanaka/mini-treant.md) | 🪙<mark style="color:yellow;">Cols</mark> 4   | Ø                                            |
 |    🌳 [<mark style="color:green;">Éclat de Bois Magique</mark>](../../monstres/carte-du-sud/hanaka/mini-treant.md) | 🪙<mark style="color:yellow;">Cols</mark> 4   | Ø                                            |
 |        🪵 [<mark style="color:green;">Écorce Sylvestre</mark>](../../monstres/carte-du-sud/hanaka/treant-elite.md) | 🪙<mark style="color:yellow;">Cols</mark> 4   | Ø                                            |
@@ -85,8 +86,8 @@ Coordonnées (1598,1947)
 {% endtab %}
 
 {% tab title="Tolbana" %}
-{% hint style="info" %}
-Coordonnées (3309,1642)
+{% hint style="danger" %}
+N'existe plus
 {% endhint %}
 
 |                                                                                                                                 Butin | Prix                                          |
