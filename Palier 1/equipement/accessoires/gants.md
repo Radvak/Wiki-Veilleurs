@@ -47,7 +47,7 @@ Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 &#x20;                                                        +1.5 📖<mark style="color:purple;">Compétence Critique Puissance</mark>
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th align="center"></th><th align="center"></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>📖<mark style="color:purple;">Dégât de Compétences</mark> 2%</td><td align="center"></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🦌 <a href="../../monstres/carte-du-nord/tolbana/cerf-des-montagnes.md"><mark style="color:orange;">Peau de Cerf des Montagnes</mark></a> 32</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th align="center"></th><th align="center"></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>📖<mark style="color:purple;">Dégât de Compétences</mark> 2%</td><td align="center"></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🦌<a href="../../monstres/carte-du-nord/tolbana/cerf-des-montagnes.md"><mark style="color:orange;">Peau de Cerf des Montagnes</mark></a> 32</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Gants de Bandit" %}
