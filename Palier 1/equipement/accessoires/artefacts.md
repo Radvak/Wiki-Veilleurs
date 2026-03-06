@@ -52,7 +52,7 @@ Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 * 5 pièces de cet équipement : +5 ❤️<mark style="color:$danger;">Santé</mark>
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th align="center"></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🛡️Défense 1</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🧱<mark style="color:orange;">Lingots de Cuivre</mark> 24</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th align="center"></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🛡️Défense 1</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🧱<mark style="color:orange;">Lingots de Cuivre</mark> 24</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Pièce de Cuivre.png">Pièce de Cuivre.png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Pièce de Fer" %}
@@ -77,7 +77,7 @@ Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🛡️Défense 1</td><td>❤️<mark style="color:$danger;">Santé</mark> 5 </td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🪨<mark style="color:$info;">Lingots de Fer</mark> 18</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🛡️Défense 1</td><td>❤️<mark style="color:$danger;">Santé</mark> 5 </td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🪨<mark style="color:$info;">Lingots de Fer</mark> 18</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Pièces de Fer.png">Pièces de Fer.png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Collier d'Aragorn" %}
