@@ -77,7 +77,7 @@ En Effet pour le moment le Forgeron d'Accessoires de Fer permet de fabriquer à 
 **Niveau Requis pour Utiliser l'Accessoire** : Niveau 5
 
 {% hint style="info" %}
-L'accessoire est fabricable par le Marchand d'Accessoires situé dans [Vallaht](../../carte/regions/vallaht.md) (485,3058)
+L'accessoire est fabricable par le [Marchand d'Accessoires](../../carte/personnages/marchands.md#vallhat) situé dans [Vallaht](../../carte/regions/vallaht.md) (485,3058)
 {% endhint %}
 
 {% hint style="success" %}
