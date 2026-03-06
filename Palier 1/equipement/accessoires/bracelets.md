@@ -11,7 +11,7 @@ L'accessoire est fabricable par le [Forgeron d'Accessoire de Cuivre](../../carte
 {% endhint %}
 
 {% hint style="success" %}
-**Set de Cuivre**
+[**Set de Cuivre**](panoplies.md#set-de-cuivre)
 
 Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 
@@ -34,7 +34,7 @@ L'accessoire est fabricable par le [Forgeron d'Accessoire de Fer](../../carte/pe
 {% endhint %}
 
 {% hint style="success" %}
-**Set de Fer**
+[**Set de Fer**](panoplies.md#set-de-fer)
 
 Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 
@@ -57,7 +57,7 @@ L'accessoire est fabricable par le [Forgeron Accessoire de Base](../../carte/per
 {% endhint %}
 
 {% hint style="success" %}
-**Set de la Sylve**
+[**Set de la Sylve**](panoplies.md#set-de-la-sylve)
 
 Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 
@@ -101,7 +101,7 @@ L'accessoire est fabricable par le [Forgeron Accessoire de Base](../../carte/per
 {% endhint %}
 
 {% hint style="success" %}
-**Set des Slimes Gélatineux**
+[**Set des Slimes Gélatineux**](panoplies.md#set-des-slimes-gelatineux)
 
 Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 
@@ -131,7 +131,7 @@ L'accessoire est achetable par le [Marchand d'Accessoires](../../carte/personnag
 {% endhint %}
 
 {% hint style="success" %}
-**Set des Cerfs Paisibles**
+[**Set des Cerfs Paisibles**](panoplies.md#set-des-cerfs-paisibles)
 
 Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 

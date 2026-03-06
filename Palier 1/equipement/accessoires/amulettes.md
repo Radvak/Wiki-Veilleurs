@@ -11,7 +11,7 @@ L'accessoire est fabricable par le [Forgeron Accessoire de Cuivre](../../carte/p
 {% endhint %}
 
 {% hint style="success" %}
-**Set de Cuivre**
+[**Set de Cuivre**](panoplies.md#set-de-cuivre)
 
 Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 
@@ -34,7 +34,7 @@ L'accessoire est fabricable par le [Forgeron Accessoire de Base](../../carte/per
 {% endhint %}
 
 {% hint style="success" %}
-**Set de la Sylve**
+[**Set de la Sylve**](panoplies.md#set-de-la-sylve)
 
 Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 
@@ -66,7 +66,7 @@ L'accessoire est fabricable par le [Forgeron Accessoire de Base](../../carte/per
 {% endhint %}
 
 {% hint style="success" %}
-**Set Loup Faiblard**
+[**Set Loup Faiblard**](panoplies.md#set-loup-faiblard)
 
 Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 
@@ -87,7 +87,7 @@ L'accessoire est fabricable par le [Marchand d'Accessoires](../../carte/personna
 {% endhint %}
 
 {% hint style="success" %}
-**Set des Slimes Gélatineux**
+[**Set des Slimes Gélatineux**](panoplies.md#set-des-slimes-gelatineux)
 
 Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 
@@ -117,7 +117,7 @@ L'accessoire est fabricable par le [Forgeron d'Accessoire de Fer](../../carte/pe
 {% endhint %}
 
 {% hint style="success" %}
-**Set de Fer**
+[**Set de Fer**](panoplies.md#set-de-fer)
 
 Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 
@@ -140,7 +140,7 @@ L'accessoire est fabricable par le [Forgeron Accessoire de Base](../../carte/per
 {% endhint %}
 
 {% hint style="success" %}
-**Set Squelette Poussiéreux**
+[**Set Squelette Poussiéreux**](panoplies.md#set-squelette-poussiereux)
 
 Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 

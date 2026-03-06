@@ -11,7 +11,7 @@ L'accessoire peut être obtenue après avoir réussi le [Donjon Geldorak](../../
 {% endhint %}
 
 {% hint style="success" %}
-**Set de la Sylve**
+[**Set de la Sylve**](panoplies.md#set-de-la-sylve)
 
 Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 
@@ -43,7 +43,7 @@ L'accessoire est fabricable par le [Forgeron Accessoire de Cuivre](../../carte/p
 {% endhint %}
 
 {% hint style="success" %}
-**Set de Cuivre**\
+[**Set de Cuivre**](panoplies.md#set-de-cuivre)\
 Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 
 * 2 pièces de cet équipement : +1 🗡️<mark style="color:$danger;">Dégats</mark>
@@ -65,7 +65,7 @@ L'accessoire est fabricable par le [Forgeron d'Accessoire de Fer](../../carte/pe
 {% endhint %}
 
 {% hint style="success" %}
-**Set de Fer**
+[**Set de Fer**](panoplies.md#set-de-fer)
 
 Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 
