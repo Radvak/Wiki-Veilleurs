@@ -55,7 +55,7 @@ Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 * 4 pièces de cet équipement : +3 🛡️Défense
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th align="center"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🛡️Défense 0.5</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🍚Poussière d'Os 64</td><td>🦴Os de Squelette 64</td><td>🦴<mark style="color:$info;">Os de Squelette Renforcé</mark> 32</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th align="center"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🛡️Défense 0.5</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🍚<a href="../../monstres/carte-du-sud/ruines-maudites/squelette-epeiste.md">Poussière d'Os</a> 64</td><td>🦴<a href="../../monstres/carte-du-sud/ruines-maudites/squelette-epeiste.md">Os de Squelette</a> 64</td><td>🦴<a href="../../monstres/carte-du-sud/ruines-maudites/squelette-hallbardier.md"><mark style="color:$info;">Os de Squelette Renforcé</mark></a> 32</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Gants de Fer" %}

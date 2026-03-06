@@ -53,7 +53,7 @@ Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 &#x20;                                                        +0.5👟<mark style="color:yellow;">Stamina Max</mark>
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th></th><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>📖<mark style="color:purple;">Dégats de Compétence</mark> 2.5%</td><td>💧<mark style="color:blue;">Mana Max</mark> 2.5</td><td>👟<mark style="color:yellow;">Stamina Max</mark> 1.5</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>💚<mark style="color:green;">Cœur de Bois</mark> 32</td><td>🌳Buches de Bouleau 64</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th></th><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>📖<mark style="color:purple;">Dégats de Compétence</mark> 2.5%</td><td>💧<mark style="color:blue;">Mana Max</mark> 2.5</td><td>👟<mark style="color:yellow;">Stamina Max</mark> 1.5</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>💚<a href="../../monstres/carte-du-sud/hanaka/mage-sylvestre.md"><mark style="color:green;">Cœur de Bois</mark></a> 32</td><td>🌳Buches de Bouleau 64</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Collier d'Albal" %}
@@ -98,5 +98,27 @@ Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 {% endhint %}
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🛡️Défense 1</td><td>❤️<mark style="color:$danger;">Santé</mark> 5 </td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🪨<mark style="color:$info;">Lingots de Fer</mark> 12</td></tr></tbody></table>
+{% endtab %}
+
+{% tab title="Amulette Squelettique" %}
+> _"Une amulette taillé avec des ossements, imprégnée d'une énergie sombre"_
+
+**Niveau Requis pour Utiliser l'Accessoire** : Niveau 7
+
+{% hint style="info" %}
+L'accessoire est fabricable par le [Forgeron Accessoire de Base](../../carte/personnages/forgerons.md#accessoires-base) situé dans la [Ville de Départ](../../carte/regions/ville-de-depart.md) (1766,4124)
+{% endhint %}
+
+{% hint style="success" %}
+**Set Squelette Poussiéreux**
+
+Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
+
+* 2 pièces de cet équipement : -5% 🛡️Dêgats Subis
+* 3 pièces de cet équipement : +5%🌀<mark style="color:blue;">Hâte d'aptitude</mark>
+* 4 pièces de cet équipement : +3 🛡️Défense
+{% endhint %}
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th></th><th align="center"></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>📖<mark style="color:purple;">Dégats de Compétence</mark> 1%</td><td>💧<mark style="color:blue;">Mana Max</mark> 4</td><td>👟<mark style="color:yellow;">Stamina Max</mark> 2</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🍚<a href="../../monstres/carte-du-sud/ruines-maudites/squelette-epeiste.md">Poussière d'Os</a> 16</td><td>🦴<a href="../../monstres/carte-du-sud/ruines-maudites/squelette-epeiste.md">Os de Squelette</a> 32</td><td>👻<a href="../../monstres/carte-du-sud/ruines-maudites/squelette-epeiste.md"><mark style="color:purple;">Âme des Ruines</mark></a> 64</td><td>🦴<a href="../../monstres/carte-du-sud/ruines-maudites/squelette-hallbardier.md"><mark style="color:$info;">Os de Squelette Renforcé</mark></a> 16</td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}

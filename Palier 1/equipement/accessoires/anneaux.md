@@ -71,6 +71,38 @@ En Effet pour le moment le Forgeron d'Accessoires de Fer permet de fabriquer à 
 {% endhint %}
 {% endtab %}
 
+{% tab title="Anneau Sylvestre" %}
+> _"Taillé dans du bois de chêne, renforcé par du bois magique et enchanté d'allium"_
+
+**Niveau Requis pour Utiliser l'Accessoire** : Niveau 7
+
+{% hint style="info" %}
+L'accessoire est fabricable par le [Forgeron Accessoire de Base](../../carte/personnages/forgerons.md#accessoires-base) situé dans la [Ville de Départ](../../carte/regions/ville-de-depart.md) (1766,4124)
+{% endhint %}
+
+{% hint style="success" %}
+**Set de la Sylve**
+
+Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
+
+* 2 pièces de cet équipement : +0.1 💧<mark style="color:blue;">Mana/s</mark>
+
+&#x20;                                                        +0.05 👟<mark style="color:yellow;">Stamina/s</mark>&#x20;
+
+* 3 pièces de cet équipement : +0.05 ❤️<mark style="color:$danger;">Santé/s</mark>
+
+&#x20;                                                        +1 ✳️<mark style="color:$success;">Soin Bonus</mark>
+
+* 4 pièces de cet équipement : +5 ❤️<mark style="color:$danger;">Santé</mark>
+
+&#x20;                                                        +0.5💧<mark style="color:blue;">Mana Max</mark>
+
+&#x20;                                                        +0.5👟<mark style="color:yellow;">Stamina Max</mark>
+{% endhint %}
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th></th><th></th><th align="center"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>✳️<mark style="color:$success;">Soin Bonus</mark> 1</td><td>💧<mark style="color:blue;">Mana Max</mark> 1</td><td>👟<mark style="color:yellow;">Stamina Max</mark> 0.5</td><td>💓<mark style="color:red;">Régénération Santé</mark> 0.2/s</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>💚<a href="../../monstres/carte-du-sud/hanaka/mage-sylvestre.md"><mark style="color:green;">Cœur de Bois</mark></a> 16</td><td>🌳<a href="../../monstres/carte-du-sud/hanaka/mini-treant.md"><mark style="color:green;">Éclat de Bois Magique</mark></a> 32</td><td>🌳Buches de Bouleau 32</td></tr></tbody></table>
+{% endtab %}
+
 {% tab title="Anneau Gluant" %}
 > _"Un anneau étrange, recouverte d'une fine couche visqueuse. Peu élégant, mais il pulse d'une énergie insolite"_
 
@@ -98,7 +130,7 @@ Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 &#x20;                                                        +7.5 ❤️<mark style="color:$danger;">Santé</mark>
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th></th><th align="center"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🛡️<mark style="color:blue;">Ténacité</mark> 15%</td><td>❤️<mark style="color:$danger;">Santé</mark> 20</td><td>💓<mark style="color:red;">Régénération Santé</mark> 0.5/s</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🍮<mark style="color:$success;">Gelée de Slime</mark> 40</td><td>🥥<mark style="color:green;">Noyau de Slime</mark> 32</td><td>👑 <mark style="color:yellow;">Essence de Gorbel</mark> 1</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th></th><th align="center"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🛡️<mark style="color:blue;">Ténacité</mark> 15%</td><td>❤️<mark style="color:$danger;">Santé</mark> 20</td><td>💓<mark style="color:red;">Régénération Santé</mark> 0.5/s</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🍮<a href="../../monstres/carte-du-sud/vallaht/petit-slime.md"><mark style="color:$success;">Gelée de Slime</mark></a> 40</td><td>🥥<a href="../../monstres/carte-du-sud/vallaht/slime-soigneur.md"><mark style="color:green;">Noyau de Slime</mark></a> 32</td><td>👑<a href="../../monstres/carte-du-sud/vallaht/gorbel.md"><mark style="color:yellow;">Essence de Gorbe</mark></a><mark style="color:yellow;">l</mark> 1</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Anneau de Léviathan" %}
