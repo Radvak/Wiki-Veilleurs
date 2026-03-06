@@ -9,7 +9,7 @@ Les Forgerons étant nombreux dans le Palier 1, ils seront séparés par Zone
 {% tabs %}
 {% tab title="Arme" %}
 {% hint style="info" %}
-Situé dans la [Ville de Départ](../regions/ville-de-depart.md) aux Cordonnées (1772,4135)
+Situé dans la [Ville de Départ](../regions/ville-de-depart.md) aux Cordonnées (1763,4143)
 {% endhint %}
 
 |                                                                                                                      Arme | Coût                                                                                                                                                                                                                                                                                                                              | Temps de Fabrication |
@@ -29,7 +29,7 @@ Situé dans la [Ville de Départ](../regions/ville-de-depart.md) aux Cordonnées
 
 {% tab title="Armure" %}
 {% hint style="info" %}
-Situé dans la [Ville de Départ](../regions/ville-de-depart.md) aux Cordonnées (1763,4143)
+Situé dans la [Ville de Départ](../regions/ville-de-depart.md) aux Cordonnées (1772,4135)
 {% endhint %}
 
 |                                                                                                                      Armure | Coût                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Temps de Fabrication |
