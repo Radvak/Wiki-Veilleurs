@@ -121,6 +121,32 @@ Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th></th><th align="center"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>✳️<mark style="color:$success;">Soin Bonus</mark> 1</td><td>❤️<mark style="color:$danger;">Santé</mark> 5</td><td>💓<mark style="color:red;">Régénération Santé</mark> 0.1/s</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🪨<mark style="color:$info;">Lingots de Fer</mark> 8</td><td>🍮<a href="../../monstres/carte-du-sud/vallaht/petit-slime.md"><mark style="color:$success;">Gelée de Slime</mark></a> 64</td><td>🥥<a href="../../monstres/carte-du-sud/vallaht/slime-soigneur.md"><mark style="color:green;">Noyau de Slime</mark></a> 8</td></tr></tbody></table>
 {% endtab %}
 
+{% tab title="Bracelet des Cerfs" %}
+> _"Un bracelet fait à base de crocs de loups et peaux de cerfs"_
+
+**Niveau Requis pour Utiliser l'Accessoire** : Niveau 7
+
+{% hint style="info" %}
+L'accessoire est achetable par le [Marchand d'Accessoires](../../carte/personnages/marchands.md#tolbana-1) situé dans [Tolbana](../../carte/regions/tolbana.md) (3320,1605)
+{% endhint %}
+
+{% hint style="success" %}
+**Set des Cerfs Paisibles**
+
+Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
+
+* 2 pièces de cet équipement : +5 ❤️<mark style="color:$danger;">Santé</mark>
+
+&#x20;                                                        +1.5 📖<mark style="color:purple;">Dégats de Compétence</mark>
+
+* 3 pièces de cet équipement : +2.5% 📖<mark style="color:purple;">Compétence Chance Critique</mark>
+
+&#x20;                                                        +1.5 📖<mark style="color:purple;">Compétence Critique Puissance</mark>
+{% endhint %}
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th></th><th></th><th align="center"></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>💧<mark style="color:blue;">Mana Max</mark> 2</td><td>👟<mark style="color:yellow;">Stamina Max</mark> 1</td><td>💦<mark style="color:blue;">Régénération Mana</mark> 0.2/s</td><td>👟<mark style="color:yellow;">Régénération Stamina</mark> 0.2/s</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🪙<mark style="color:yellow;">Cols</mark> 2,500</td></tr></tbody></table>
+{% endtab %}
+
 {% tab title="Bracelet de Glace" %}
 > _"Bracelet taillé dans un cristal gelé, il conserve le froid éternel du mini-boss de glace"_
 

@@ -71,6 +71,58 @@ En Effet pour le moment le Forgeron d'Accessoires de Fer permet de fabriquer à 
 {% endhint %}
 {% endtab %}
 
+{% tab title="Bague Gluante" %}
+> _"Taillé dans un alliage de métal et de gelée, cet anneau est visqueux et solide au toucher"_
+
+**Niveau Requis pour Utiliser l'Accessoire** : Niveau 5
+
+{% hint style="info" %}
+L'accessoire est fabricable par le Marchand d'Accessoires situé dans [Vallaht](../../carte/regions/vallaht.md) (485,3058)
+{% endhint %}
+
+{% hint style="success" %}
+**Set des Slimes Gélatineux**
+
+Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
+
+* 2 pièces de cet équipement : +0.1 ❤️<mark style="color:$danger;">Santé/s</mark>
+
+&#x20;                                                        +2.5 ❤️<mark style="color:$danger;">Santé</mark>
+
+* 3 pièces de cet équipement : +0.1 ❤️<mark style="color:$danger;">Santé/s</mark>
+
+&#x20;                                                        +5% 🛡️<mark style="color:blue;">Résistance au Recul</mark>
+
+* 4 pièces de cet équipement : +1 ✳️<mark style="color:$success;">Soin Bonus</mark>
+
+&#x20;                                                        +7.5 ❤️<mark style="color:$danger;">Santé</mark>
+{% endhint %}
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>❤️<mark style="color:$danger;">Santé</mark> 2.5</td><td>💓<mark style="color:red;">Régénération Santé</mark> 0.1/s</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🪙<mark style="color:yellow;">Cols</mark> 1,000</td></tr></tbody></table>
+{% endtab %}
+
+{% tab title="Bague de Squelette" %}
+> _"Bague forgé par les ossements des squelettes errants des ruines maudites"_
+
+**Niveau Requis pour Utiliser l'Accessoire** : Niveau 7
+
+{% hint style="info" %}
+L'accessoire est achetable par le [Marchand d'Accessoires](../../carte/personnages/marchands.md#tolbana-1) situé dans [Tolbana](../../carte/regions/tolbana.md) (3320,1605)
+{% endhint %}
+
+{% hint style="success" %}
+**Set Squelette Poussiéreux**
+
+Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
+
+* 2 pièces de cet équipement : -5% 🛡️Dêgats Subis
+* 3 pièces de cet équipement : +5%🌀<mark style="color:blue;">Hâte d'aptitude</mark>
+* 4 pièces de cet équipement : +3 🛡️Défense
+{% endhint %}
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>📖<mark style="color:purple;">Dégât de Compétences</mark> 1%</td><td>❤️<mark style="color:$danger;">Santé</mark> 2.5</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🪙<mark style="color:yellow;">Cols</mark> 1,000</td></tr></tbody></table>
+{% endtab %}
+
 {% tab title="Anneau Sylvestre" %}
 > _"Taillé dans du bois de chêne, renforcé par du bois magique et enchanté d'allium"_
 

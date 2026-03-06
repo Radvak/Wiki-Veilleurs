@@ -77,6 +77,36 @@ Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🎯<mark style="color:$warning;">Chance Coups Critique</mark> 5%</td><td>💨<mark style="color:yellow;">Vitesse</mark> 0.25</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🐺<a href="../../monstres/carte-du-sud/vallee-des-loups/loups-sinistres.md"><mark style="color:$info;">Fourrures de Loup</mark></a> 96</td><td>🦷<a href="../../monstres/carte-du-sud/vallee-des-loups/albal.md"><mark style="color:$danger;">Croc de Albal</mark></a> 5</td></tr></tbody></table>
 {% endtab %}
 
+{% tab title="Amulette Gluante" %}
+> _"Une amulette taillé dasn un fer simple, fusionné avec une essence de slime"_
+
+**Niveau Requis pour Utiliser l'Accessoire** : Niveau 5
+
+{% hint style="info" %}
+L'accessoire est fabricable par le Marchand d'Accessoires situé dans [Vallaht](../../carte/regions/vallaht.md) (485,3058)
+{% endhint %}
+
+{% hint style="success" %}
+**Set des Slimes Gélatineux**
+
+Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
+
+* 2 pièces de cet équipement : +0.1 ❤️<mark style="color:$danger;">Santé/s</mark>
+
+&#x20;                                                        +2.5 ❤️<mark style="color:$danger;">Santé</mark>
+
+* 3 pièces de cet équipement : +0.1 ❤️<mark style="color:$danger;">Santé/s</mark>
+
+&#x20;                                                        +5% 🛡️<mark style="color:blue;">Résistance au Recul</mark>
+
+* 4 pièces de cet équipement : +1 ✳️<mark style="color:$success;">Soin Bonus</mark>
+
+&#x20;                                                        +7.5 ❤️<mark style="color:$danger;">Santé</mark>
+{% endhint %}
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>✳️<mark style="color:$success;">Soin Bonus</mark> 1</td><td>💓<mark style="color:red;">Régénération Santé</mark> 0.1/s</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🪙<mark style="color:yellow;">Cols</mark> 1,000</td></tr></tbody></table>
+{% endtab %}
+
 {% tab title="Amulette de Fer" %}
 > _"Une amulette rudimentaire, forgée dans le fer brut. Rien de magique, juste de la robustesse"_
 
