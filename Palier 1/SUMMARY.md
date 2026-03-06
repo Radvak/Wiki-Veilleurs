@@ -227,6 +227,7 @@
   * [🧤 Gants](equipement/accessoires/gants.md)
   * [⭕ Bracelets](equipement/accessoires/bracelets.md)
   * [🏺 Artefacts](equipement/accessoires/artefacts.md)
+  * [👔 Panoplies](equipement/accessoires/panoplies.md)
 * [Outils](equipement/outils.md)
 
 ## Ressources
