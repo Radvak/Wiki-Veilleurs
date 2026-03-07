@@ -36,7 +36,7 @@ L'arme est fabricable par le [Forgeron d'Arme](../../carte/personnages/forgerons
 L'arme est un butin des [Squelettes Mage](../../monstres/carte-du-sud/ruines-maudites/tank-squelette.md)
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 15</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 1/s</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Bâton x.png">Bâton x.png</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 15</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 1/s</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Bâton Squelettique.png">Bâton Squelettique.png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Bâton du Magicien" %}
