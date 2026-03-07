@@ -33,4 +33,4 @@ Les Herbes Parfumées se trouvent en (453,-712)
 
 * 🧪 <mark style="color:blue;">Expérience</mark> 427
 * 🪙 <mark style="color:yellow;">Cols</mark> 250
-* 🍲 <mark style="color:orange;">Ragoût Parfumé</mark> 1
+* Recette 🍲 <mark style="color:orange;">Ragoût Parfumé</mark> 1

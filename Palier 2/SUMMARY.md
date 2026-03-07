@@ -75,7 +75,7 @@
     * [L'Art des Plumes](quetes/quetes-secondaires/urbus/lart-des-plumes.md)
     * [L'Art des Peaux](quetes/quetes-secondaires/urbus/lart-des-peaux.md)
     * [L'Épreuve du Chasseur](quetes/quetes-secondaires/urbus/lepreuve-du-chasseur.md)
-    * [Ma première Arme](quetes/quetes-secondaires/urbus/ma-premiere-arme.md)
+    * [Ma première Arme](quetes/quetes-secondaires/taran/ma-premiere-arme.md)
   * [🏰 Kaelor](quetes/quetes-secondaires/kaelor/README.md)
     * [Le Chat Relax](quetes/quetes-secondaires/kaelor/le-chat-relax.md)
     * [Aider Yûko](quetes/quetes-secondaires/kaelor/aider-yuko.md)
