@@ -91,6 +91,6 @@ L'arme est fabricable par le [Forgeron d'Arme](../../carte/personnages/forgerons
 L'arme peut être obtenue après avoir réussi le [Donjon Labyrinthe des Déchus](../../carte/donjons/donjon-labyrinthe-des-dechus.md) (?% de chance)
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 23.5</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 0.7/s</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Abalète de Cendre.png">Abalète de Cendre.png</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 23.5</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 0.7/s</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Arbalète de Cendre.png">Arbalète de Cendre.png</a></td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}

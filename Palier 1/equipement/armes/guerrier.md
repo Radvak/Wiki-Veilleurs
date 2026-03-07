@@ -258,7 +258,7 @@ Les Armes d'hast sont le deuxième type d'arme d'un Guerrier et se manie à deux
 L'arme est un butin de [Smough, Dévastateur Déchu](../../monstres/carte-du-sud/donjon-labyrinthe-des-dechus/smough-devastateur-dechu.md) (1%)
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 35</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 0.7/s</td><td>🏹<mark style="color:orange;">Distance d'Attaque</mark> 3.5</td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 35</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 0.7/s</td><td>🏹<mark style="color:orange;">Distance d'Attaque</mark> 3.5</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Hallebarde Royale.png">Hallebarde Royale.png</a></td></tr></tbody></table>
 
 {% hint style="danger" %}
 Les Armes d'hast sont le deuxième type d'arme d'un Guerrier et se manie à deux mains
