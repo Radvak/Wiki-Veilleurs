@@ -21,7 +21,7 @@ Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 * 5 pièces de cet équipement : +5 ❤️<mark style="color:$danger;">Santé</mark>
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th align="center"></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>❤️<mark style="color:$danger;">Santé</mark> 5</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🧱<mark style="color:orange;">Lingots de Cuivre</mark> 16</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th align="center"></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>❤️<mark style="color:$danger;">Santé</mark> 5</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🧱<mark style="color:orange;">Lingots de Cuivre</mark> 16</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Amulette de Cuivre.png">Amulette de Cuivre.png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Amulette des Bois" %}
@@ -53,7 +53,7 @@ Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 &#x20;                                                        +0.5👟<mark style="color:yellow;">Stamina Max</mark>
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th></th><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>📖<mark style="color:purple;">Dégats de Compétence</mark> 2.5%</td><td>💧<mark style="color:blue;">Mana Max</mark> 2.5</td><td>👟<mark style="color:yellow;">Stamina Max</mark> 1.5</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>💚<a href="../../monstres/carte-du-sud/hanaka/mage-sylvestre.md"><mark style="color:green;">Cœur de Bois</mark></a> 32</td><td>🌳Buches de Bouleau 64</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th></th><th align="center"></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>📖<mark style="color:purple;">Dégats de Compétence</mark> 2.5%</td><td>💧<mark style="color:blue;">Mana Max</mark> 2.5</td><td>👟<mark style="color:yellow;">Stamina Max</mark> 1.5</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>💚<a href="../../monstres/carte-du-sud/hanaka/mage-sylvestre.md"><mark style="color:green;">Cœur de Bois</mark></a> 32</td><td>🌳Buches de Bouleau 64</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Amulette des Bois.png">Amulette des Bois.png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Collier d'Albal" %}
@@ -74,7 +74,7 @@ Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 * 3 pièces de cet équipement : +0.1 💨<mark style="color:$primary;">Vitesse d'attaque</mark>
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🎯<mark style="color:$warning;">Chance Coups Critique</mark> 5%</td><td>💨<mark style="color:yellow;">Vitesse</mark> 0.25</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🐺<a href="../../monstres/carte-du-sud/vallee-des-loups/loups-sinistres.md"><mark style="color:$info;">Fourrures de Loup</mark></a> 96</td><td>🦷<a href="../../monstres/carte-du-sud/vallee-des-loups/albal.md"><mark style="color:$danger;">Croc de Albal</mark></a> 5</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🎯<mark style="color:$warning;">Chance Coups Critique</mark> 5%</td><td>💨<mark style="color:yellow;">Vitesse</mark> 0.25</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🐺<a href="../../monstres/carte-du-sud/vallee-des-loups/loups-sinistres.md"><mark style="color:$info;">Fourrures de Loup</mark></a> 96</td><td>🦷<a href="../../monstres/carte-du-sud/vallee-des-loups/albal.md"><mark style="color:$danger;">Croc de Albal</mark></a> 5</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Collier d&#x27;Albal.png">Collier d'Albal.png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Amulette Gluante" %}
@@ -104,7 +104,7 @@ Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 &#x20;                                                        +7.5 ❤️<mark style="color:$danger;">Santé</mark>
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>✳️<mark style="color:$success;">Soin Bonus</mark> 1</td><td>💓<mark style="color:red;">Régénération Santé</mark> 0.1/s</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🪙<mark style="color:yellow;">Cols</mark> 1,000</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>✳️<mark style="color:$success;">Soin Bonus</mark> 1</td><td>💓<mark style="color:red;">Régénération Santé</mark> 0.1/s</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🪙<mark style="color:yellow;">Cols</mark> 1,000</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Amulette Gluante.png">Amulette Gluante.png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Amulette de Fer" %}
@@ -127,7 +127,7 @@ Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 * 5 pièces de cet équipement : +1.5 🛡️Défense
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🛡️Défense 1</td><td>❤️<mark style="color:$danger;">Santé</mark> 5 </td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🪨<mark style="color:$info;">Lingots de Fer</mark> 12</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th align="center"></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🛡️Défense 1</td><td>❤️<mark style="color:$danger;">Santé</mark> 5 </td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🪨<mark style="color:$info;">Lingots de Fer</mark> 12</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Amulette de Fer.png">Amulette de Fer.png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Amulette Squelettique" %}
@@ -149,6 +149,6 @@ Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 * 4 pièces de cet équipement : +3 🛡️Défense
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th></th><th align="center"></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>📖<mark style="color:purple;">Dégats de Compétence</mark> 1%</td><td>💧<mark style="color:blue;">Mana Max</mark> 4</td><td>👟<mark style="color:yellow;">Stamina Max</mark> 2</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🍚<a href="../../monstres/carte-du-sud/ruines-maudites/squelette-epeiste.md">Poussière d'Os</a> 16</td><td>🦴<a href="../../monstres/carte-du-sud/ruines-maudites/squelette-epeiste.md">Os de Squelette</a> 32</td><td>👻<a href="../../monstres/carte-du-sud/ruines-maudites/squelette-epeiste.md"><mark style="color:purple;">Âme des Ruines</mark></a> 64</td><td>🦴<a href="../../monstres/carte-du-sud/ruines-maudites/squelette-hallbardier.md"><mark style="color:$info;">Os de Squelette Renforcé</mark></a> 16</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th></th><th align="center"></th><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>📖<mark style="color:purple;">Dégats de Compétence</mark> 1%</td><td>💧<mark style="color:blue;">Mana Max</mark> 4</td><td>👟<mark style="color:yellow;">Stamina Max</mark> 2</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🍚<a href="../../monstres/carte-du-sud/ruines-maudites/squelette-epeiste.md">Poussière d'Os</a> 16</td><td>🦴<a href="../../monstres/carte-du-sud/ruines-maudites/squelette-epeiste.md">Os de Squelette</a> 32</td><td>👻<a href="../../monstres/carte-du-sud/ruines-maudites/squelette-epeiste.md"><mark style="color:purple;">Âme des Ruines</mark></a> 64</td><td>🦴<a href="../../monstres/carte-du-sud/ruines-maudites/squelette-hallbardier.md"><mark style="color:$info;">Os de Squelette Renforcé</mark></a> 16</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Amulette Squelettique.png">Amulette Squelettique.png</a></td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}

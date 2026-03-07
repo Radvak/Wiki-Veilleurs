@@ -47,7 +47,7 @@ Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 &#x20;                                                        +1.5 📖<mark style="color:purple;">Compétence Critique Puissance</mark>
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th align="center"></th><th align="center"></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>📖<mark style="color:purple;">Dégât de Compétences</mark> 2%</td><td align="center"></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🦌<a href="../../monstres/carte-du-nord/tolbana/cerf-des-montagnes.md"><mark style="color:orange;">Peau de Cerf des Montagnes</mark></a> 32</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th align="center"></th><th align="center"></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>📖<mark style="color:purple;">Dégât de Compétences</mark> 2%</td><td align="center"></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🦌<a href="../../monstres/carte-du-nord/tolbana/cerf-des-montagnes.md"><mark style="color:orange;">Peau de Cerf des Montagnes</mark></a> 32</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Gants des Cerfs.png">Gants des Cerfs.png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Gants de Bandit" %}
@@ -59,7 +59,7 @@ Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 L'accessoire est fabricable par le [Forgeron Accessoire de Base](../../carte/personnages/forgerons.md#accessoires-base) situé dans la [Ville de Départ](../../carte/regions/ville-de-depart.md) (1766,4124)
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th align="center"></th><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>💨<mark style="color:$primary;">Vitesse d'attaque</mark> 0.1/s</td><td align="center"></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🏾<a href="../../monstres/carte-du-sud/mine-de-geldorak/bandit-assassin.md"><mark style="color:orange;">Cuir Usé</mark></a> 96</td><td>🫚<a href="../../monstres/carte-du-sud/hanaka/guerrier-treant.md"><mark style="color:orange;">Racine Ancestrale</mark></a> 8</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th align="center"></th><th align="center"></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>💨<mark style="color:$primary;">Vitesse d'attaque</mark> 0.1/s</td><td align="center"></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🏾<a href="../../monstres/carte-du-sud/mine-de-geldorak/bandit-assassin.md"><mark style="color:orange;">Cuir Usé</mark></a> 96</td><td>🫚<a href="../../monstres/carte-du-sud/hanaka/guerrier-treant.md"><mark style="color:orange;">Racine Ancestrale</mark></a> 8</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Gants de Bandit .png">Gants de Bandit .png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Gants Osseux" %}
@@ -81,7 +81,7 @@ Un bonus de Panoplie s'ajoute si vous êtes équipé d'au moins :
 * 4 pièces de cet équipement : +3 🛡️Défense
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th align="center"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🛡️Défense 0.5</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🍚<a href="../../monstres/carte-du-sud/ruines-maudites/squelette-epeiste.md">Poussière d'Os</a> 64</td><td>🦴<a href="../../monstres/carte-du-sud/ruines-maudites/squelette-epeiste.md">Os de Squelette</a> 64</td><td>🦴<a href="../../monstres/carte-du-sud/ruines-maudites/squelette-hallbardier.md"><mark style="color:$info;">Os de Squelette Renforcé</mark></a> 32</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th align="center"></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🛡️Défense 0.5</td><td></td><td align="center"><strong>Coût d'Achat :</strong></td><td>🍚<a href="../../monstres/carte-du-sud/ruines-maudites/squelette-epeiste.md">Poussière d'Os</a> 64</td><td>🦴<a href="../../monstres/carte-du-sud/ruines-maudites/squelette-epeiste.md">Os de Squelette</a> 64</td><td>🦴<a href="../../monstres/carte-du-sud/ruines-maudites/squelette-hallbardier.md"><mark style="color:$info;">Os de Squelette Renforcé</mark></a> 32</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Gants Osseux.png">Gants Osseux.png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Gants de Fer" %}
