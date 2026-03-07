@@ -72,7 +72,7 @@ L'arme est fabricable par le [Forgeron d'Arme](../../carte/personnages/forgerons
 L'arme peut être obtenue après avoir réussi le [Donjon Kobold](../../carte/donjons/donjon-kokolb.md) (?% de chance)
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 50</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 1/s</td><td>📖<mark style="color:purple;">Compétence</mark> <mark style="color:purple;">Chance Critique</mark> 15%</td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Statistiques:</strong></td><td>🗡️<mark style="color:$danger;">Dégats</mark> 50</td><td>💨<mark style="color:$primary;">Vitesse d'Attaque</mark> 1/s</td><td>📖<mark style="color:purple;">Compétence</mark> <mark style="color:purple;">Chance Critique</mark> 15%</td><td data-object-fit="contain"><a href="../../.gitbook/assets/Bâton odachi.png">Bâton odachi.png</a></td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
 
