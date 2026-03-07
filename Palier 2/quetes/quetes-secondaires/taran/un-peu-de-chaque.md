@@ -19,7 +19,7 @@ Aidez Frank à vaincre les 3 types de Harpie (-448,267)
 {% endhint %}
 
 {% hint style="warning" %}
-Avant de commencer à tuer des Harpies, prenez les Quêtes Secondaires "[L'art des Plumes](../urbus/lart-des-plumes.md)", "[Aide à la Cuisine](../kaelor/aide-a-la-cuisine.md)", "[Nettoyer les cieux de Taran](../kaelor/nettoyer-les-cieux-de-taran.md)" & "[Hater du Vert](hater-du-vert.md)" qui vous permettrons d'avancer sur plusieurs Quêtes en même temps
+Avant de commencer à tuer des Harpies, prenez les Quêtes Secondaires "[L'art des Plumes](../urbus/lart-des-plumes.md)", "[Aide à la Cuisine](../kaelor/aide-a-la-cuisine.md)", "[Nettoyer les cieux de Taran](nettoyer-les-cieux-de-taran.md)" & "[Hater du Vert](hater-du-vert.md)" qui vous permettrons d'avancer sur plusieurs Quêtes en même temps
 {% endhint %}
 
 #### Objet Demandé

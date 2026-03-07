@@ -19,7 +19,7 @@ Aidez Sissou à vaincre des Harpies de Feu ou des Harpies de Foudre (-432,272)
 {% endhint %}
 
 {% hint style="warning" %}
-Avant de commencer à tuer des Harpies, prenez les Quêtes Secondaires "[L'art des Plumes](../urbus/lart-des-plumes.md)", "[Aide à la Cuisine](aide-a-la-cuisine.md)" & "[Un peu de chaque](../taran/un-peu-de-chaque.md)" qui vous permettrons d'avancer sur plusieurs Quêtes en même temps
+Avant de commencer à tuer des Harpies, prenez les Quêtes Secondaires "[L'art des Plumes](../urbus/lart-des-plumes.md)", "[Aide à la Cuisine](../kaelor/aide-a-la-cuisine.md)" & "[Un peu de chaque](un-peu-de-chaque.md)" qui vous permettrons d'avancer sur plusieurs Quêtes en même temps
 {% endhint %}
 
 #### Objet Demandé

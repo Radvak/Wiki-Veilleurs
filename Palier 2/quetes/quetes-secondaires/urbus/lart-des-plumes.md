@@ -19,7 +19,7 @@ Ramenez à Ifa 4 Plumes de chaque Harpies (112,-391)
 {% endhint %}
 
 {% hint style="warning" %}
-Avant de commencer à tuer des Harpies, prenez les Quêtes Secondaires "[Aide à la Cuisine](../kaelor/aide-a-la-cuisine.md)", "[Nettoyer les cieux de Taran](../kaelor/nettoyer-les-cieux-de-taran.md)", "[Hater du Vert](../taran/hater-du-vert.md)" & "[Un peu de chaque](../taran/un-peu-de-chaque.md)" qui vous permettrons d'avancer sur plusieurs Quêtes en même temps
+Avant de commencer à tuer des Harpies, prenez les Quêtes Secondaires "[Aide à la Cuisine](../kaelor/aide-a-la-cuisine.md)", "[Nettoyer les cieux de Taran](../taran/nettoyer-les-cieux-de-taran.md)", "[Hater du Vert](../taran/hater-du-vert.md)" & "[Un peu de chaque](../taran/un-peu-de-chaque.md)" qui vous permettrons d'avancer sur plusieurs Quêtes en même temps
 {% endhint %}
 
 #### Objet Demandé
