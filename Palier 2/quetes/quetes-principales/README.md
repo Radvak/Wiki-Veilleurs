@@ -24,12 +24,16 @@ Après avoir sauter du haut de la falaise dans ce lac, vous rencontrez une viell
 {% step %}
 ### [Chemin vers Urbus](chemin-vers-urbus.md)
 
-
+{% hint style="info" %}
+Il est grand temps de parler de ce qu'il se passe au Palier 1. Prouvez votre force afin d'avoir plus de renseignements
+{% endhint %}
 {% endstep %}
 
 {% step %}
 ### [À la recherche des Ngangas](a-la-recherche-des-ngangas.md)
 
-
+{% hint style="info" %}
+On vous dit d'aller voir vers Kaelor. Là où on aura toutes nos réponses
+{% endhint %}
 {% endstep %}
 {% endstepper %}
