@@ -20,7 +20,7 @@ Aidez Itamii à retrouver le chat Relax (-553,-264)
 
 Le chat va se retrouver à plusieurs endtoits différent après chaque découverte :&#x20;
 
-* Sur un toit du commerce (-572,-281)
+* Sur un toit du commerce où se situent les Marchands (-572,-281)
 * Sur la Tour à l'Ouest de Kaelor (-613,-269)
 * Sur la Maison en Face de la précédente Tour (-611,-230)
 
